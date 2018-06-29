@@ -14,3 +14,4 @@ Um prototipo de endless running.
 1 - Unreal Engine 4.19.2
 2 - Blender 2.8 beta (com a EEVEE)
 3 - Source Tree
+4 - Krita 4.1.0
