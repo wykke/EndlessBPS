@@ -11,6 +11,6 @@ Um prototipo de endless running.
 7 - treinar game desing
 
 -- Programas Utilizados:
-1 - Unreal Engine 4
+1 - Unreal Engine 4.19.2
 2 - Blender 2.8 beta (com a EEVEE)
 3 - Source Tree
