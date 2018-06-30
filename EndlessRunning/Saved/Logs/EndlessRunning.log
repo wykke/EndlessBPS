@@ -4466,3 +4466,289 @@ LogInit: Object subsystem initialized
 [2018.06.30-18.55.18:840][169]LogSavePackage: Save=56.06ms
 [2018.06.30-18.55.18:840][169]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Main_CharacterAA023BA84B0631EE4B37DBA63947FE7B.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Main_Character.uasset'
 [2018.06.30-18.55.18:844][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Main_Character.uasset
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f50c79c2d0, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f490e201c0, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f535a251f8, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4e3183ec0, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5a58b8818, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f490e21c78, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5c938dfc0, Size=168
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4b3102cd8, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5d7260640, Size=172
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5d1dd7f40, Size=172
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5d1dd4e80, Size=172
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f533c32788, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5d1dd4880, Size=168
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5d18ce380, Size=168
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f54d517900, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f50c79d150, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f490e23a90, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f48f59a9c8, Size=4
+[2018.06.30-19.05.16:921][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f50de80a00, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f490e22f70, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4b68131c8, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f50c79fb60, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4e3183b88, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4b6813b18, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4faf92a00, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f50de83ec8, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f535a24590, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4b3100818, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4b68123f0, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4bffcd6f8, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f54c9a6b88, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f50c79c800, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f535a25118, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4b68126a8, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f54ba890a0, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f50c79c9f8, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f50c79c1d0, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f51d00a5f0, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f490e211f8, Size=4
+[2018.06.30-19.05.16:922][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f50c79ff40, Size=4
+[2018.06.30-19.05.16:936][125]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Main' took 0.060
+[2018.06.30-19.05.16:942][125]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Assets/Level/Tiles/1/Tile_Main] ([1] browsable assets)...
+[2018.06.30-19.05.16:942][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Assets/Level/Tiles/1/Tile_Main]
+[2018.06.30-19.05.16:997][125]LogSavePackage: Save=32.50ms
+[2018.06.30-19.05.16:997][125]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Tile_Main_Auto3FC41253949870CE4ECA058992A0C4BB5.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Assets/Level/Tiles/1/Tile_Main_Auto3.uasset'
+[2018.06.30-19.05.17:000][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Assets/Level/Tiles/1/Tile_Main_Auto3.uasset
+[2018.06.30-19.05.17:000][125]LogFileHelpers: Auto-saving content packages took 0.061
+[2018.06.30-19.20.03:055][528]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-19.20.03:099][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.20.03:099][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-19.20.03:099][528]PIE: New page: PIE session: Main (Jun 30, 2018, 1:20:03 PM)
+[2018.06.30-19.20.03:100][528]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.06.30-19.20.03:109][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009138s)
+[2018.06.30-19.20.03:112][528]LogAIModule: Creating AISystem for world Main
+[2018.06.30-19.20.03:113][528]LogPlayLevel: PIE: World Init took: (0.004058s)
+[2018.06.30-19.20.03:113][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.013668s)
+[2018.06.30-19.20.03:172][528]LogInit: XAudio2 using 'Alto-falantes (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.30-19.20.03:192][528]LogInit: FAudioDevice initialized.
+[2018.06.30-19.20.03:236][528]LogLoad: Game class is 'Main_GameMode_C'
+[2018.06.30-19.20.03:238][528]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.06.30-16.20.03
+[2018.06.30-19.20.03:239][528]LogWorld: Bringing up level for play took: 0.001414
+[2018.06.30-19.20.03:263][528]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main 0.155
+[2018.06.30-19.20.03:263][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.20.20:887][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.20.20:942][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.46.57:888][277]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.30-19.46.57:970][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-19.46.59:018][338]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.30-19.46.59:056][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.30-19.47.05:629][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.47.05:707][751]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-19.47.05:739][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.47.05:739][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-19.47.05:739][751]PIE: New page: PIE session: Main (Jun 30, 2018, 1:47:05 PM)
+[2018.06.30-19.47.05:739][751]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.06.30-19.47.05:746][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006281s)
+[2018.06.30-19.47.05:748][751]LogAIModule: Creating AISystem for world Main
+[2018.06.30-19.47.05:749][751]LogPlayLevel: PIE: World Init took: (0.003137s)
+[2018.06.30-19.47.05:749][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.009700s)
+[2018.06.30-19.47.05:822][751]LogInit: XAudio2 using 'Alto-falantes (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.30-19.47.06:007][751]LogInit: FAudioDevice initialized.
+[2018.06.30-19.47.06:049][751]LogLoad: Game class is 'Main_GameMode_C'
+[2018.06.30-19.47.06:050][751]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.06.30-16.47.06
+[2018.06.30-19.47.06:050][751]LogWorld: Bringing up level for play took: 0.000904
+[2018.06.30-19.47.06:070][751]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main 0.963
+[2018.06.30-19.47.06:070][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.47.16:555][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.47.16:605][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.47.17:786][431]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-19.47.17:817][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.47.17:817][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-19.47.17:817][431]PIE: New page: PIE session: Main (Jun 30, 2018, 1:47:17 PM)
+[2018.06.30-19.47.17:817][431]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.06.30-19.47.17:824][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006922s)
+[2018.06.30-19.47.17:827][431]LogAIModule: Creating AISystem for world Main
+[2018.06.30-19.47.17:827][431]LogPlayLevel: PIE: World Init took: (0.002600s)
+[2018.06.30-19.47.17:827][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.010023s)
+[2018.06.30-19.47.17:883][431]LogInit: XAudio2 using 'Alto-falantes (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.30-19.47.17:899][431]LogInit: FAudioDevice initialized.
+[2018.06.30-19.47.17:942][431]LogLoad: Game class is 'Main_GameMode_C'
+[2018.06.30-19.47.17:943][431]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.06.30-16.47.17
+[2018.06.30-19.47.17:943][431]LogWorld: Bringing up level for play took: 0.001012
+[2018.06.30-19.47.17:962][431]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main 0.855
+[2018.06.30-19.47.17:962][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.47.22:147][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.47.22:198][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.47.37:688][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-19.49.49:111][408]BlueprintLog: New page: Compile Main_Character
+[2018.06.30-19.49.49:149][408]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f50eee77c0, Size=172
+[2018.06.30-19.49.49:149][408]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f4c4af5d80, Size=172, Main_Character_C_3374 Function /Engine/Transient.REINST_Main_Character_C_1068:ExecuteUbergraph_Main_Character
+[2018.06.30-19.49.49:157][408]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f4a6da4480, Size=216, Default__Main_Character_C Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.30-19.49.50:246][434]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-19.49.50:277][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.49.50:278][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-19.49.50:278][434]PIE: New page: PIE session: Main (Jun 30, 2018, 1:49:50 PM)
+[2018.06.30-19.49.50:278][434]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.06.30-19.49.50:284][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005319s)
+[2018.06.30-19.49.50:287][434]LogAIModule: Creating AISystem for world Main
+[2018.06.30-19.49.50:287][434]LogPlayLevel: PIE: World Init took: (0.003723s)
+[2018.06.30-19.49.50:288][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.009344s)
+[2018.06.30-19.49.50:322][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4c4af5d80, Size=172
+[2018.06.30-19.49.50:353][434]LogInit: XAudio2 using 'Alto-falantes (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.30-19.49.50:383][434]LogInit: FAudioDevice initialized.
+[2018.06.30-19.49.50:433][434]LogLoad: Game class is 'Main_GameMode_C'
+[2018.06.30-19.49.50:434][434]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.06.30-16.49.50
+[2018.06.30-19.49.50:435][434]LogWorld: Bringing up level for play took: 0.000823
+[2018.06.30-19.49.50:462][434]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main -0.645
+[2018.06.30-19.49.50:463][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.49.52:242][504]LogBlueprintUserMessages: [Main_Character_C_0] 50.0
+[2018.06.30-19.49.52:933][532]LogBlueprintUserMessages: [Main_Character_C_0] 264.436493
+[2018.06.30-19.49.53:600][560]LogBlueprintUserMessages: [Main_Character_C_0] 479.306763
+[2018.06.30-19.49.54:278][589]LogBlueprintUserMessages: [Main_Character_C_0] 704.021362
+[2018.06.30-19.49.54:949][618]LogBlueprintUserMessages: [Main_Character_C_0] 928.457886
+[2018.06.30-19.49.55:603][647]LogBlueprintUserMessages: [Main_Character_C_0] 1152.894409
+[2018.06.30-19.49.56:297][678]LogBlueprintUserMessages: [Main_Character_C_0] 1385.953491
+[2018.06.30-19.49.56:976][709]LogBlueprintUserMessages: [Main_Character_C_0] 1620.390015
+[2018.06.30-19.49.57:658][739]LogBlueprintUserMessages: [Main_Character_C_0] 1854.826538
+[2018.06.30-19.49.58:340][770]LogBlueprintUserMessages: [Main_Character_C_0] 2089.263184
+[2018.06.30-19.49.59:023][801]LogBlueprintUserMessages: [Main_Character_C_0] 2323.699707
+[2018.06.30-19.49.59:705][832]LogBlueprintUserMessages: [Main_Character_C_0] 2558.13623
+[2018.06.30-19.50.00:400][863]LogBlueprintUserMessages: [Main_Character_C_0] 2788.483643
+[2018.06.30-19.50.01:095][894]LogBlueprintUserMessages: [Main_Character_C_0] 3017.781982
+[2018.06.30-19.50.01:475][911]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.50.01:508][911]LogSlate: Window 'EndlessRunning Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.30-19.50.01:549][911]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.50.02:999][999]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-19.50.03:034][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.50.03:034][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-19.50.03:035][999]PIE: New page: PIE session: Main (Jun 30, 2018, 1:50:03 PM)
+[2018.06.30-19.50.03:035][999]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.06.30-19.50.03:041][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005721s)
+[2018.06.30-19.50.03:043][999]LogAIModule: Creating AISystem for world Main
+[2018.06.30-19.50.03:044][999]LogPlayLevel: PIE: World Init took: (0.002301s)
+[2018.06.30-19.50.03:044][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.008853s)
+[2018.06.30-19.50.03:102][999]LogInit: XAudio2 using 'Alto-falantes (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.30-19.50.03:118][999]LogInit: FAudioDevice initialized.
+[2018.06.30-19.50.03:169][999]LogLoad: Game class is 'Main_GameMode_C'
+[2018.06.30-19.50.03:171][999]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.06.30-16.50.03
+[2018.06.30-19.50.03:172][999]LogWorld: Bringing up level for play took: 0.001916
+[2018.06.30-19.50.03:198][999]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main 0.091
+[2018.06.30-19.50.03:198][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.50.04:997][ 72]LogBlueprintUserMessages: [Main_Character_C_0] 50.0
+[2018.06.30-19.50.05:677][102]LogBlueprintUserMessages: [Main_Character_C_0] 274.171143
+[2018.06.30-19.50.06:358][132]LogBlueprintUserMessages: [Main_Character_C_0] 498.607635
+[2018.06.30-19.50.07:027][162]LogBlueprintUserMessages: [Main_Character_C_0] 733.044189
+[2018.06.30-19.50.07:500][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.50.07:533][183]LogSlate: Window 'EndlessRunning Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.30-19.50.07:578][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-19.52.33:445][445]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f490e22690, Size=4, Default__SKEL_Main_Character_C Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character.SKEL_Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.30-19.52.38:719][763]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f490e22690, Size=4
+[2018.06.30-19.52.38:719][763]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f4b32a9b78, Size=4, Default__SKEL_Main_Character_C Function /Engine/Transient.REINST_SKEL_Main_Character_C_1072:ExecuteUbergraph_Main_Character
+[2018.06.30-19.52.38:724][763]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f4b32a95a0, Size=4, Default__SKEL_Main_Character_C Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character.SKEL_Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.30-20.03.37:914][879]BlueprintLog: New page: Compile Main_Character
+[2018.06.30-20.03.37:934][879]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4b32a95a0, Size=4
+[2018.06.30-20.03.37:934][879]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f4bce3c838, Size=4, Default__SKEL_Main_Character_C Function /Engine/Transient.REINST_SKEL_Main_Character_C_1075:ExecuteUbergraph_Main_Character
+[2018.06.30-20.03.37:954][879]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4a6da4480, Size=216
+[2018.06.30-20.03.37:954][879]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f514f34b80, Size=216, Main_Character_C_3432 Function /Engine/Transient.REINST_Main_Character_C_1078:ExecuteUbergraph_Main_Character
+[2018.06.30-20.03.37:962][879]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f4febf0700, Size=228, Default__Main_Character_C Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.30-20.03.38:432][879]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4bce3c838, Size=4
+[2018.06.30-20.03.39:667][927]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-20.03.39:700][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.03.39:700][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-20.03.39:701][927]PIE: New page: PIE session: Main (Jun 30, 2018, 2:03:39 PM)
+[2018.06.30-20.03.39:701][927]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.06.30-20.03.39:708][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006973s)
+[2018.06.30-20.03.39:709][927]LogAIModule: Creating AISystem for world Main
+[2018.06.30-20.03.39:710][927]LogPlayLevel: PIE: World Init took: (0.001687s)
+[2018.06.30-20.03.39:710][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.009136s)
+[2018.06.30-20.03.39:745][927]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f514f34b80, Size=216
+[2018.06.30-20.03.39:766][927]LogInit: XAudio2 using 'Alto-falantes (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.30-20.03.39:783][927]LogInit: FAudioDevice initialized.
+[2018.06.30-20.03.39:839][927]LogLoad: Game class is 'Main_GameMode_C'
+[2018.06.30-20.03.39:842][927]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.06.30-17.03.39
+[2018.06.30-20.03.39:842][927]LogWorld: Bringing up level for play took: 0.002082
+[2018.06.30-20.03.39:869][927]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main 0.762
+[2018.06.30-20.03.39:870][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.03.46:490][155]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.03.46:522][155]LogSlate: Window 'EndlessRunning Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.30-20.03.46:567][155]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.04.58:387][284]BlueprintLog: New page: Compile Main_Character
+[2018.06.30-20.04.58:424][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4febf0700, Size=228
+[2018.06.30-20.04.58:425][284]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f4febf0700, Size=228, Main_Character_C_3462 Function /Engine/Transient.REINST_Main_Character_C_1084:ExecuteUbergraph_Main_Character
+[2018.06.30-20.04.58:432][284]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f54832b000, Size=228, Default__Main_Character_C Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.30-20.04.59:562][316]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-20.04.59:594][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.04.59:594][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-20.04.59:594][316]PIE: New page: PIE session: Main (Jun 30, 2018, 2:04:59 PM)
+[2018.06.30-20.04.59:595][316]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.06.30-20.04.59:601][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006716s)
+[2018.06.30-20.04.59:603][316]LogAIModule: Creating AISystem for world Main
+[2018.06.30-20.04.59:604][316]LogPlayLevel: PIE: World Init took: (0.002138s)
+[2018.06.30-20.04.59:604][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.009284s)
+[2018.06.30-20.04.59:639][316]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4febf0700, Size=228
+[2018.06.30-20.04.59:666][316]LogInit: XAudio2 using 'Alto-falantes (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.30-20.04.59:684][316]LogInit: FAudioDevice initialized.
+[2018.06.30-20.04.59:738][316]LogLoad: Game class is 'Main_GameMode_C'
+[2018.06.30-20.04.59:740][316]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.06.30-17.04.59
+[2018.06.30-20.04.59:740][316]LogWorld: Bringing up level for play took: 0.000815
+[2018.06.30-20.04.59:769][316]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main 0.662
+[2018.06.30-20.04.59:770][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.05.20:228][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.05.20:260][298]LogSlate: Window 'EndlessRunning Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.30-20.05.20:303][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.05.24:426][582]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-20.05.24:458][582]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.05.24:458][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-20.05.24:458][582]PIE: New page: PIE session: Main (Jun 30, 2018, 2:05:24 PM)
+[2018.06.30-20.05.24:459][582]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.06.30-20.05.24:465][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006106s)
+[2018.06.30-20.05.24:467][582]LogAIModule: Creating AISystem for world Main
+[2018.06.30-20.05.24:467][582]LogPlayLevel: PIE: World Init took: (0.002148s)
+[2018.06.30-20.05.24:468][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.008984s)
+[2018.06.30-20.05.24:523][582]LogInit: XAudio2 using 'Alto-falantes (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.30-20.05.24:539][582]LogInit: FAudioDevice initialized.
+[2018.06.30-20.05.24:579][582]LogLoad: Game class is 'Main_GameMode_C'
+[2018.06.30-20.05.24:580][582]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.06.30-17.05.24
+[2018.06.30-20.05.24:581][582]LogWorld: Bringing up level for play took: 0.000820
+[2018.06.30-20.05.24:598][582]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main -0.509
+[2018.06.30-20.05.24:598][582]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.05.39:414][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.05.39:456][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.05.40:897][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.30-20.07.30:310][834]BlueprintLog: New page: Compile Main_Character
+[2018.06.30-20.07.30:348][834]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f54832b000, Size=228
+[2018.06.30-20.07.30:348][834]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f564e54b00, Size=228, Main_Character_C_3520 Function /Engine/Transient.REINST_Main_Character_C_1090:ExecuteUbergraph_Main_Character
+[2018.06.30-20.07.30:356][834]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f54b085700, Size=228, Default__Main_Character_C Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.30-20.07.31:572][865]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.30-20.07.31:604][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.07.31:604][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.30-20.07.31:604][865]PIE: New page: PIE session: Main (Jun 30, 2018, 2:07:31 PM)
+[2018.06.30-20.07.31:604][865]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.06.30-20.07.31:612][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007544s)
+[2018.06.30-20.07.31:614][865]LogAIModule: Creating AISystem for world Main
+[2018.06.30-20.07.31:614][865]LogPlayLevel: PIE: World Init took: (0.002062s)
+[2018.06.30-20.07.31:615][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.010152s)
+[2018.06.30-20.07.31:670][865]LogInit: XAudio2 using 'Alto-falantes (5- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.30-20.07.31:687][865]LogInit: FAudioDevice initialized.
+[2018.06.30-20.07.31:745][865]LogLoad: Game class is 'Main_GameMode_C'
+[2018.06.30-20.07.31:746][865]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.06.30-17.07.31
+[2018.06.30-20.07.31:747][865]LogWorld: Bringing up level for play took: 0.001205
+[2018.06.30-20.07.31:775][865]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main 0.667
+[2018.06.30-20.07.31:775][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.07.56:367][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.07.56:400][898]LogSlate: Window 'EndlessRunning Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.30-20.07.56:448][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.06.30-20.08.22:210][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Main' took 0.043
+[2018.06.30-20.08.22:217][ 59]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character] ([1] browsable assets)...
+[2018.06.30-20.08.22:292][ 59]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character.Main_Character]
+[2018.06.30-20.08.22:292][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character]
+[2018.06.30-20.08.22:405][ 59]LogSavePackage: Save=81.28ms
+[2018.06.30-20.08.22:405][ 59]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Main_Character_Auto4D523AF484A5FCFF3325E8D8E4B252728.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character_Auto4.uasset'
+[2018.06.30-20.08.22:408][ 59]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character_Auto4.uasset
+[2018.06.30-20.08.22:410][ 59]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Assets/Level/Tiles/1/Tile_Main] ([1] browsable assets)...
+[2018.06.30-20.08.22:410][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Assets/Level/Tiles/1/Tile_Main]
+[2018.06.30-20.08.22:875][ 59]LogSavePackage: Save=440.38ms
+[2018.06.30-20.08.22:883][ 59]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Tile_Main_Auto4B54EDF5B4B7B2FAECEC8418858A53446.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Assets/Level/Tiles/1/Tile_Main_Auto4.uasset'
+[2018.06.30-20.08.22:930][ 59]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Assets/Level/Tiles/1/Tile_Main_Auto4.uasset
+[2018.06.30-20.08.22:930][ 59]LogFileHelpers: Auto-saving content packages took 0.717
+[2018.06.30-20.11.06:953][615]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f4bd01abd0, Size=4, Default__SKEL_Main_Character_C Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character.SKEL_Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.30-20.12.19:319][320]BlueprintLog: New page: Compile Main_Character
+[2018.06.30-20.12.19:338][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f4bd01abd0, Size=4
+[2018.06.30-20.12.19:338][320]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f5283058d0, Size=4, Default__SKEL_Main_Character_C Function /Engine/Transient.REINST_SKEL_Main_Character_C_1095:ExecuteUbergraph_Main_Character
+[2018.06.30-20.12.19:356][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f54b085700, Size=228
+[2018.06.30-20.12.19:356][320]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f4b30ce300, Size=228, Main_Character_C_3564 Function /Engine/Transient.REINST_Main_Character_C_1098:ExecuteUbergraph_Main_Character
+[2018.06.30-20.12.19:364][320]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f56f226a00, Size=228, Default__Main_Character_C Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.30-20.12.19:833][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5283058d0, Size=4
