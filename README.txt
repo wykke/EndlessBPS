@@ -1,5 +1,6 @@
-# EndlessRunning
+﻿# EndlessRunning
 Um prototipo de endless running.
+Current Ver: Alpha 1.1.0
 
 -- Objetivos:
 1 - aprender um pouco sobre a unreal engine 4
@@ -12,6 +13,6 @@ Um prototipo de endless running.
 
 -- Programas Utilizados:
 1 - Unreal Engine 4.19.2
-2 - Blender 2.8 beta (com a EEVEE)
+2 - Blender 2.7.9b (rip beta, cheio de bugs apesar de muitas vantagens)
 3 - Source Tree
 4 - Krita 4.1.0
