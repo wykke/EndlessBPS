@@ -8491,3 +8491,1360 @@ LogInit: Object subsystem initialized
 [2018.07.01-21.57.35:921][683]LogSavePackage: Save=191.98ms
 [2018.07.01-21.57.35:921][683]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Main_Character8502CA7840BE93CBF93C679939487376.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Main_Character.uasset'
 [2018.07.01-21.57.35:925][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Main_Character.uasset
+[2018.07.01-21.59.08:866][189]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-21.59.09:936][189]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-21.59.09:959][189]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-21.59.09:996][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.01-21.59.33:462][925]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-21.59.33:463][925]LogMaterial: Warning: /Engine/Transient.Shorts (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.01-21.59.33:463][925]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.01-21.59.33:463][925]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2018.07.01-21.59.33:470][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.01-21.59.33:498][925]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-21.59.33:499][925]LogMaterial: Warning: /Engine/Transient.Shorts (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.01-21.59.33:499][925]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.01-21.59.33:520][925]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.07.01-21.59.44:740][306]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-21.59.44:741][306]LogMaterial: Warning: /Engine/Transient.Shorts (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.01-21.59.44:741][306]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.01-21.59.50:094][493]LogSlate: Window 'Shorts' being destroyed
+[2018.07.01-21.59.53:887][665]LogMaterial: Missing cached shader map for material Hair, compiling. 
+[2018.07.01-21.59.54:048][665]LogMaterial: Missing cached shader map for material Hair, compiling. 
+[2018.07.01-21.59.54:092][665]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.00.05:941][341]LogSlate: Window 'Message' being destroyed
+[2018.07.01-22.00.10:384][341]LogMaterial: Missing cached shader map for material Hair, compiling. 
+[2018.07.01-22.00.10:471][341]LogMaterial: Missing cached shader map for material Hair, compiling. 
+[2018.07.01-22.00.10:565][341]LogMaterial: Missing cached shader map for material Hair, compiling. 
+[2018.07.01-22.00.10:652][341]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Hair, compiling. 
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.00.18:099][341]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.00.18:100][341]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.00.18:100][341]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.00.18:100][341]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.00.18:100][341]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.00.18:100][341]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.00.18:100][341]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.00.18:100][341]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.00.18:103][341]TextureStreamingBuild: Display: Compiling optional shaders took 7.459 seconds.
+[2018.07.01-22.00.20:052][441]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.00.20:053][441]LogMaterial: Warning: /Engine/Transient.Shorts (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.01-22.00.20:053][441]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.01-22.00.20:058][441]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.00.22:708][618]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.00.22:756][618]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.00.27:719][968]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.00.27:738][968]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.00.41:140][316]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.00.41:489][317]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.00.41:829][318]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.00.42:511][320]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.00.43:189][321]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.00.43:470][322]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.00.43:829][323]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.00.44:162][324]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.00.44:540][325]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.00.45:769][328]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.01-22.00.46:095][329]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.01-22.00.48:849][336]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.01-22.00.53:799][341]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.01-22.00.54:090][342]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.01-22.00.54:804][344]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.00.55:479][346]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.01-22.00.55:915][347]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.01-22.00.55:915][347]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.01-22.00.56:252][347]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.07.01-22.00.56:252][347]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.07.01-22.00.56:252][347]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.07.01-22.00.56:253][347]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.01-22.00.56:662][349]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.01.06:763][367]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.01.09:146][373]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Main' took 0.046
+[2018.07.01-22.01.09:151][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Main_Character/Hair] ([1] browsable assets)...
+[2018.07.01-22.01.09:207][373]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/Main_Character/Hair.Hair]
+[2018.07.01-22.01.09:207][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Main_Character/Hair]
+[2018.07.01-22.01.09:259][373]LogSavePackage: Save=18.64ms
+[2018.07.01-22.01.09:259][373]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Hair_Auto5EF099AF647E8CBD164D97B840A31E390.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Main_Character/Hair_Auto5.uasset'
+[2018.07.01-22.01.09:261][373]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Main_Character/Hair_Auto5.uasset
+[2018.07.01-22.01.09:262][373]LogFileHelpers: Auto-saving content packages took 0.114
+[2018.07.01-22.01.13:680][631]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.01.13:699][631]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.01.13:702][631]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.01.15:580][743]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.01.15:600][743]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.01.18:727][928]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.01.18:752][928]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.01.21:120][ 76]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.01.21:142][ 76]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.01.21:168][ 76]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-22.01.31:866][802]LogMaterialEditor: Applying material Shorts
+[2018.07.01-22.01.33:510][802]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.01.33:592][802]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.01.33:632][802]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.01.33:739][802]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shorts, compiling. 
+[2018.07.01-22.01.41:151][802]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.07.01-22.01.41:151][802]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.01-22.01.41:151][802]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.07.01-22.01.41:151][802]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.01-22.01.41:151][802]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.01-22.01.41:151][802]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.01-22.01.41:151][802]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.01-22.01.41:151][802]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.01-22.01.41:151][802]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.01.41:152][802]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.01.41:155][802]TextureStreamingBuild: Display: Compiling optional shaders took 7.423 seconds.
+[2018.07.01-22.02.11:999][897]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.02.13:929][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.02.15:569][ 63]LogMaterialEditor: Saving and Compiling material Shorts
+[2018.07.01-22.02.20:581][ 63]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.02.20:686][ 63]LogSavePackage: Save=17.75ms
+[2018.07.01-22.02.20:686][ 63]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Shorts82ADCA63417F4692855A84A9A19A1DA6.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Shorts.uasset'
+[2018.07.01-22.02.20:690][ 63]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Shorts.uasset
+[2018.07.01-22.02.20:704][ 63]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.07.01-22.02.20:704][ 63]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.07.01-22.02.20:704][ 63]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.07.01-22.02.20:704][ 63]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.01-22.02.28:692][558]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.02.28:710][558]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.02.28:726][558]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.02.29:707][616]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.02.29:727][616]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.02.29:754][616]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-22.02.30:718][679]LogMaterialEditor: Saving and Compiling material Shorts
+[2018.07.01-22.02.32:472][679]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.02.32:544][679]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.02.32:572][679]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.02.32:661][679]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shorts, compiling. 
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.02.39:914][679]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.02.39:918][679]TextureStreamingBuild: Display: Compiling optional shaders took 7.264 seconds.
+[2018.07.01-22.02.47:396][679]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.02.47:397][679]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.02.47:524][679]LogSavePackage: Save=15.94ms
+[2018.07.01-22.02.47:524][679]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Shorts35282568450123DF72C91B99A8399A23.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Shorts.uasset'
+[2018.07.01-22.02.47:528][679]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Shorts.uasset
+[2018.07.01-22.02.47:542][679]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.07.01-22.02.47:542][679]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.07.01-22.02.47:543][679]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.07.01-22.02.47:543][679]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.01-22.02.59:555][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.02.59:726][322]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.02.59:851][322]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.02.59:865][322]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.02.59:896][322]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.02.59:909][322]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.03.11:325][ 21]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.03.11:348][ 21]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.03.15:942][299]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.03.15:967][299]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.03.20:871][580]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.03.20:888][580]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.03.20:914][580]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-22.03.40:524][738]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.03.40:542][738]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.03.50:279][322]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.03.50:297][322]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.03.50:335][323]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.01-22.03.53:191][494]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.03.53:214][494]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.03.53:242][494]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-22.04.04:319][191]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.04.04:338][191]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.04.04:365][191]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-22.04.05:235][251]LogMaterialEditor: Applying material Skin
+[2018.07.01-22.04.07:004][251]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.04.07:086][251]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.04.07:131][251]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.04.07:241][251]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Skin, compiling. 
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.04.14:820][251]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.04.14:825][251]TextureStreamingBuild: Display: Compiling optional shaders took 7.591 seconds.
+[2018.07.01-22.04.16:500][349]LogMaterialEditor: Saving and Compiling material Skin
+[2018.07.01-22.04.24:535][349]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.04.24:535][349]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.04.24:641][349]LogSavePackage: Save=16.54ms
+[2018.07.01-22.04.24:641][349]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/SkinE9F806444F784385A647FFBCC6BCED28.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Skin.uasset'
+[2018.07.01-22.04.24:646][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Skin.uasset
+[2018.07.01-22.04.24:659][349]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.07.01-22.04.24:659][349]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.07.01-22.04.24:659][349]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.07.01-22.04.24:659][349]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.01-22.04.35:450][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.04.41:476][304]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.04.41:493][304]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.04.41:496][304]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.04.47:475][658]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.04.47:498][658]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.04.47:525][658]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-22.04.49:600][798]LogMaterialEditor: Saving and Compiling material Skin
+[2018.07.01-22.04.51:426][798]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.04.51:496][798]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.04.51:529][798]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.04.51:635][798]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Skin, compiling. 
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.04.59:321][798]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.04.59:322][798]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.04.59:325][798]TextureStreamingBuild: Display: Compiling optional shaders took 7.702 seconds.
+[2018.07.01-22.05.06:811][798]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.05.06:811][798]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.05.06:937][798]LogSavePackage: Save=14.54ms
+[2018.07.01-22.05.06:937][798]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Skin5BB196E940D152757D157C8FD91BFE41.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Skin.uasset'
+[2018.07.01-22.05.06:942][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Skin.uasset
+[2018.07.01-22.05.06:964][798]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.07.01-22.05.06:964][798]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.07.01-22.05.06:964][798]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.07.01-22.05.06:964][798]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.01-22.05.41:844][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.05.51:322][298]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.05.51:338][298]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.05.51:341][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.05.52:734][380]Cmd: TRANSACTION UNDO
+[2018.07.01-22.05.52:736][380]LogEditorTransaction: Undo Modify Color Picker Value
+[2018.07.01-22.05.52:741][380]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.05.52:754][380]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-22.05.52:777][380]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.05.52:798][380]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.05.52:855][380]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.06.10:776][389]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.06.10:799][389]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.06.18:343][846]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.06.18:364][846]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.06.20:440][974]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.06.20:461][974]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.06.28:904][479]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.06.28:924][479]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.06.28:952][479]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-22.06.30:935][610]LogMaterialEditor: Saving and Compiling material Skin
+[2018.07.01-22.06.32:689][610]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.06.32:762][610]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.06.32:793][610]LogMaterial: Missing cached shader map for material Skin, compiling. 
+[2018.07.01-22.06.32:890][610]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Skin, compiling. 
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.06.46:205][610]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.06.46:210][610]TextureStreamingBuild: Display: Compiling optional shaders took 13.327 seconds.
+[2018.07.01-22.06.53:872][610]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.06.53:872][610]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.06.54:009][610]LogSavePackage: Save=15.27ms
+[2018.07.01-22.06.54:009][610]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/SkinE92169324A859A7A8AA2BAB9D2D6FAA2.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Skin.uasset'
+[2018.07.01-22.06.54:013][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/Skin.uasset
+[2018.07.01-22.06.54:030][610]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.07.01-22.06.54:031][610]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.07.01-22.06.54:031][610]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.07.01-22.06.54:031][610]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.01-22.06.54:031][610]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.07.01-22.06.54:031][610]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.07.01-22.06.54:031][610]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.07.01-22.06.54:031][610]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.01-22.07.34:200][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.07.34:428][607]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.07.01-22.07.50:654][271]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.07.50:778][271]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.07.50:789][271]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.07.50:792][271]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.07.50:836][271]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.01-22.08.10:141][227]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.01-22.08.11:472][229]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.01-22.08.11:800][230]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.08.12:117][231]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.01-22.08.12:597][232]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.01-22.08.15:672][233]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.01-22.08.16:094][235]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.08.16:800][237]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.01-22.08.17:494][239]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.01-22.08.18:245][241]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.01-22.08.18:623][242]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.01-22.08.19:692][245]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.01-22.08.21:706][248]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.01-22.08.23:071][251]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.01-22.08.23:829][253]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.01-22.08.25:365][257]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.01-22.08.25:688][258]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.08.27:518][258]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.07.01-22.08.27:518][258]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.07.01-22.08.27:518][258]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.01-22.08.27:518][258]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.01-22.08.27:518][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.01-22.08.28:320][262]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.01-22.10.28:235][376]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.10.28:337][377]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.10.28:361][377]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.07.01-22.10.30:700][505]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.10.36:030][820]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.10.47:703][484]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.10.47:869][484]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.10.47:913][484]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.01-22.10.47:978][485]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.07.01-22.10.49:757][591]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.11.01:275][254]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.11.01:410][254]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.11.01:455][254]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.01-22.11.01:517][255]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.07.01-22.11.03:686][380]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.11.09:666][727]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.11.09:682][727]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.11.09:725][727]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.01-22.11.30:156][919]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.11.31:498][  0]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.11.43:808][674]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.01-22.11.46:021][676]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.01-22.11.46:021][676]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.01-22.11.46:830][679]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.11.47:750][681]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.11.48:474][683]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.11.48:792][684]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.11.49:119][685]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.11.49:518][686]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.11.49:930][687]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.11.50:674][689]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.11.51:792][692]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.11.52:166][693]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.01-22.11.52:905][695]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.01-22.11.53:907][698]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.01-22.11.54:247][699]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.01-22.11.54:584][700]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.01-22.11.55:276][702]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.11.55:589][703]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.01-22.11.56:348][704]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.07.01-22.11.56:348][704]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.07.01-22.11.56:348][704]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.07.01-22.11.56:348][704]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.01-22.11.59:831][713]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.01-22.12.12:410][746]LogSavePackage: Save=201.70ms
+[2018.07.01-22.12.12:410][746]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Main_Auto6F4D8EB3D48D65E232158B2A59CFFA68A.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Maps/Main_Auto6.umap'
+[2018.07.01-22.12.12:412][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Maps/Main_Auto6.umap
+[2018.07.01-22.12.12:416][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Main' took 0.287
+[2018.07.01-22.12.12:416][746]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.287
+[2018.07.01-22.12.21:624][  4]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.21:638][  4]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.12.21:638][  4]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.12.25:136][193]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.25:158][193]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.12.27:092][303]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.27:112][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.12.28:586][386]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.28:608][386]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.12.29:568][440]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.29:591][440]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.12.34:776][736]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.34:816][736]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.12.39:307][995]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.39:327][995]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.12.40:269][ 50]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.40:291][ 50]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.12.40:319][ 50]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.01-22.12.44:623][319]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.44:641][319]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.01-22.12.46:768][452]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.49:735][621]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.01-22.12.56:671][ 33]LogMaterialEditor: Applying material T-shirt
+[2018.07.01-22.12.58:434][ 33]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.58:518][ 33]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.58:560][ 33]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.12.58:663][ 33]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T-shirt, compiling. 
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.13.06:365][ 33]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.13.06:366][ 33]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.13.06:366][ 33]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.13.06:366][ 33]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.13.06:366][ 33]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.13.06:366][ 33]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.13.06:374][ 33]TextureStreamingBuild: Display: Compiling optional shaders took 7.719 seconds.
+[2018.07.01-22.13.09:163][ 37]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.13.30:139][920]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.13.31:099][922]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.07.01-22.13.31:100][922]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.07.01-22.13.31:100][922]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.01-22.13.31:100][922]MaterialEditorStats: Texture samplers: 4/16
+[2018.07.01-22.13.31:100][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.01-22.14.04:715][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-22.22.12:819][999]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Main' took 0.074
+[2018.07.01-22.22.12:830][999]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Main_Character/T-shirt] ([1] browsable assets)...
+[2018.07.01-22.22.12:997][999]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/Main_Character/T-shirt.T-shirt]
+[2018.07.01-22.22.12:997][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Main_Character/T-shirt]
+[2018.07.01-22.22.13:087][999]LogSavePackage: Save=33.33ms
+[2018.07.01-22.22.13:087][999]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/T-shirt_Auto7DD36E4554CD4451087C9EB95C78841FC.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Main_Character/T-shirt_Auto7.uasset'
+[2018.07.01-22.22.13:089][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Main_Character/T-shirt_Auto7.uasset
+[2018.07.01-22.22.13:089][999]LogFileHelpers: Auto-saving content packages took 0.261
+[2018.07.01-22.38.18:161][822]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.38.18:177][822]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.38.18:180][822]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.01-22.38.18:209][822]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.38.23:155][ 94]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.38.23:173][ 94]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.01-22.38.23:202][ 94]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.38.26:897][246]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.01-22.38.27:617][248]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.01-22.38.28:138][249]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.38.28:497][250]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.01-22.38.29:231][252]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.01-22.38.29:581][253]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.01-22.38.29:929][254]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.38.30:286][255]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.01-22.38.30:286][255]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.01-22.38.30:634][256]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.01-22.38.31:313][258]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.01-22.38.32:107][260]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.01-22.38.32:765][262]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.01-22.38.33:891][265]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.01-22.38.34:811][267]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.01-22.38.35:497][269]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.01-22.38.36:205][271]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.38.36:918][273]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.01-22.38.37:865][275]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.07.01-22.38.37:865][275]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.07.01-22.38.37:865][275]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.01-22.38.37:865][275]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.01-22.38.37:865][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.01-22.42.57:567][697]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.42.57:586][697]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.42.57:612][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.01-22.42.57:620][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.07.01-22.43.03:752][ 57]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.43.03:778][ 57]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.07.01-22.43.36:426][761]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.01-22.43.37:224][763]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.01-22.43.38:169][765]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.01-22.43.38:701][767]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.01-22.43.39:559][768]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.43.40:275][770]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.01-22.43.40:606][771]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.01-22.43.41:391][773]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.01-22.43.42:007][774]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.43.44:884][776]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.01-22.43.45:970][779]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.01-22.43.47:068][782]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.01-22.43.50:435][784]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.01-22.43.51:637][787]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.01-22.43.52:649][790]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.01-22.43.53:317][792]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.01-22.43.54:082][794]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.01-22.43.59:924][797]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.01-22.44.00:743][800]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.44.01:068][800]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.01-22.44.01:068][800]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.07.01-22.44.01:068][800]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.07.01-22.44.01:068][800]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.01-22.44.01:068][800]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.01-22.44.01:068][800]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.01-22.45.57:798][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.46.05:013][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.46.05:096][538]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.46.05:124][539]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.47.12:630][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.47.12:699][388]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.47.15:257][546]LogMaterialEditor: Applying material T-shirt
+[2018.07.01-22.47.16:958][546]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.47.17:050][546]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.47.17:077][546]LogMaterial: Missing cached shader map for material T-shirt, compiling. 
+[2018.07.01-22.47.17:164][546]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy T-shirt, compiling. 
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.47.25:001][546]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.47.25:002][546]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.47.25:006][546]TextureStreamingBuild: Display: Compiling optional shaders took 7.848 seconds.
+[2018.07.01-22.47.39:445][177]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.47.51:791][627]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.48.01:079][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.48.01:183][186]LogMaterialEditor: Saving and Compiling material T-shirt
+[2018.07.01-22.48.01:890][186]LogSavePackage: Save=18.22ms
+[2018.07.01-22.48.01:890][186]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/T-shirtC1D5A5524FF7A78380F01FA72DE47C5C.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/T-shirt.uasset'
+[2018.07.01-22.48.01:894][186]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/ThirdPersonBP/Blueprints/Main_Character/T-shirt.uasset
+[2018.07.01-22.48.01:906][186]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.07.01-22.48.01:906][186]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.07.01-22.48.01:906][186]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.01-22.48.01:906][186]MaterialEditorStats: Texture samplers: 4/16
+[2018.07.01-22.48.01:906][186]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.01-22.48.17:897][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.48.17:976][735]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.01-22.48.18:150][735]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.48.18:150][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.01-22.48.18:151][735]PIE: New page: PIE session: Main (Jul 1, 2018, 4:48:18 PM)
+[2018.07.01-22.48.18:152][735]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.07.01-22.48.18:163][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011186s)
+[2018.07.01-22.48.18:166][735]LogAIModule: Creating AISystem for world Main
+[2018.07.01-22.48.18:166][735]LogPlayLevel: PIE: World Init took: (0.003458s)
+[2018.07.01-22.48.18:167][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.014968s)
+[2018.07.01-22.48.18:260][735]LogInit: XAudio2 using 'Alto-falantes (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.01-22.48.18:279][735]LogInit: FAudioDevice initialized.
+[2018.07.01-22.48.18:320][735]LogLoad: Game class is 'Main_GameMode_C'
+[2018.07.01-22.48.18:323][735]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.01-19.48.18
+[2018.07.01-22.48.18:353][735]LogWorld: Bringing up level for play took: 0.032530
+[2018.07.01-22.48.18:542][735]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	Tile_Main_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Tile_Main_C_87
+	Function /Game/ThirdPersonBP/Assets/Level/Tiles/1/Tile_Main.Tile_Main_C:UserConstructionScript:0000
+[2018.07.01-22.48.18:543][735]PIE: Error: Infinite Loop detected in  Tile_Main , asserted during  Construction Script with the following  Call Stack
+[2018.07.01-22.48.18:544][735]LogScript: Warning: Attempted to access Tile_Main_C_84 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_84 is pending kill
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:009F
+[2018.07.01-22.48.18:550][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_84 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_84 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_84 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_84 is pending kill
+[2018.07.01-22.48.18:550][735]LogScript: Warning: Accessed None
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:00B4
+[2018.07.01-22.48.18:550][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:550][735]LogScript: Warning: Attempted to access Tile_Main_C_83 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_83 is pending kill
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:009F
+[2018.07.01-22.48.18:550][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_83 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_83 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_83 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_83 is pending kill
+[2018.07.01-22.48.18:551][735]LogScript: Warning: Accessed None
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:00B4
+[2018.07.01-22.48.18:551][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:551][735]LogScript: Warning: Attempted to access Tile_Main_C_82 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_82 is pending kill
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:009F
+[2018.07.01-22.48.18:551][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_82 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_82 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_82 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_82 is pending kill
+[2018.07.01-22.48.18:551][735]LogScript: Warning: Accessed None
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:00B4
+[2018.07.01-22.48.18:551][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:551][735]LogScript: Warning: Attempted to access Tile_Main_C_81 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_81 is pending kill
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:009F
+[2018.07.01-22.48.18:551][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_81 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_81 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_81 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_81 is pending kill
+[2018.07.01-22.48.18:551][735]LogScript: Warning: Accessed None
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:00B4
+[2018.07.01-22.48.18:551][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:551][735]LogScript: Warning: Attempted to access Tile_Main_C_80 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_80 is pending kill
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:009F
+[2018.07.01-22.48.18:551][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_80 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_80 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_80 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_80 is pending kill
+[2018.07.01-22.48.18:551][735]LogScript: Warning: Accessed None
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:00B4
+[2018.07.01-22.48.18:552][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:552][735]LogScript: Warning: Attempted to access Tile_Main_C_79 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_79 is pending kill
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:009F
+[2018.07.01-22.48.18:552][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_79 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_79 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_79 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_79 is pending kill
+[2018.07.01-22.48.18:552][735]LogScript: Warning: Accessed None
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:00B4
+[2018.07.01-22.48.18:552][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:553][735]LogScript: Warning: Attempted to access Tile_Main_C_78 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_78 is pending kill
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:009F
+[2018.07.01-22.48.18:553][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_78 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_78 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_78 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_78 is pending kill
+[2018.07.01-22.48.18:553][735]LogScript: Warning: Accessed None
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:00B4
+[2018.07.01-22.48.18:553][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:553][735]LogScript: Warning: Attempted to access Tile_Main_C_77 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_77 is pending kill
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:009F
+[2018.07.01-22.48.18:553][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_77 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_77 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_77 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_77 is pending kill
+[2018.07.01-22.48.18:553][735]LogScript: Warning: Accessed None
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:00B4
+[2018.07.01-22.48.18:553][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:553][735]LogScript: Warning: Attempted to access Tile_Main_C_76 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_76 is pending kill
+	Main_GameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main:PersistentLevel.Main_GameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Main_Character/Main_GameMode.Main_GameMode_C:Spawn_Tile:009F
+[2018.07.01-22.48.18:553][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_76 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_76 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_76 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_76 is pending kill
+[2018.07.01-22.48.18:554][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:554][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_75 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_75 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_75 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_75 is pending kill
+[2018.07.01-22.48.18:554][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:554][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_74 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_74 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_74 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_74 is pending kill
+[2018.07.01-22.48.18:554][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:554][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_73 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_73 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_73 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_73 is pending kill
+[2018.07.01-22.48.18:554][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:555][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_72 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_72 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_72 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_72 is pending kill
+[2018.07.01-22.48.18:555][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:555][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_71 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_71 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_71 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_71 is pending kill
+[2018.07.01-22.48.18:555][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:555][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_70 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_70 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_70 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_70 is pending kill
+[2018.07.01-22.48.18:555][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:555][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_69 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_69 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_69 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_69 is pending kill
+[2018.07.01-22.48.18:556][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:556][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_68 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_68 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_68 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_68 is pending kill
+[2018.07.01-22.48.18:556][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:556][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_67 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_67 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_67 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_67 is pending kill
+[2018.07.01-22.48.18:556][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:556][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_66 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_66 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_66 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_66 is pending kill
+[2018.07.01-22.48.18:556][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:556][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_65 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_65 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_65 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_65 is pending kill
+[2018.07.01-22.48.18:556][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:557][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_64 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_64 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_64 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_64 is pending kill
+[2018.07.01-22.48.18:557][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:557][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_63 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_63 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_63 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_63 is pending kill
+[2018.07.01-22.48.18:557][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:557][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_62 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_62 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_62 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_62 is pending kill
+[2018.07.01-22.48.18:557][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:558][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_61 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_61 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_61 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_61 is pending kill
+[2018.07.01-22.48.18:558][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:558][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_60 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_60 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_60 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_60 is pending kill
+[2018.07.01-22.48.18:558][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:558][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_59 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_59 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_59 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_59 is pending kill
+[2018.07.01-22.48.18:558][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:559][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_58 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_58 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_58 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_58 is pending kill
+[2018.07.01-22.48.18:559][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:559][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_57 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_57 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_57 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_57 is pending kill
+[2018.07.01-22.48.18:559][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:559][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_56 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_56 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_56 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_56 is pending kill
+[2018.07.01-22.48.18:559][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:559][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_55 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_55 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_55 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_55 is pending kill
+[2018.07.01-22.48.18:559][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:560][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_54 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_54 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_54 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_54 is pending kill
+[2018.07.01-22.48.18:560][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:560][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_53 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_53 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_53 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_53 is pending kill
+[2018.07.01-22.48.18:560][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:560][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_52 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_52 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_52 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_52 is pending kill
+[2018.07.01-22.48.18:561][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:561][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_51 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_51 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_51 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_51 is pending kill
+[2018.07.01-22.48.18:561][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:561][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_50 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_50 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_50 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_50 is pending kill
+[2018.07.01-22.48.18:561][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:561][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_49 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_49 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_49 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_49 is pending kill
+[2018.07.01-22.48.18:561][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:562][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_48 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_48 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_48 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_48 is pending kill
+[2018.07.01-22.48.18:562][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:562][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_47 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_47 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_47 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_47 is pending kill
+[2018.07.01-22.48.18:562][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:563][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_46 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_46 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_46 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_46 is pending kill
+[2018.07.01-22.48.18:563][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:563][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_45 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_45 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_45 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_45 is pending kill
+[2018.07.01-22.48.18:564][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:564][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_44 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_44 is pending kill
+[2018.07.01-22.48.18:564][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:564][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_43 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_43 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_43 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_43 is pending kill
+[2018.07.01-22.48.18:564][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:564][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_42 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_42 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_42 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_42 is pending kill
+[2018.07.01-22.48.18:564][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:564][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_41 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_41 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_41 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_41 is pending kill
+[2018.07.01-22.48.18:565][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:565][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_40 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_40 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_40 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_40 is pending kill
+[2018.07.01-22.48.18:565][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:565][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_39 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_39 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_39 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_39 is pending kill
+[2018.07.01-22.48.18:565][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:566][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_38 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_38 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_38 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_38 is pending kill
+[2018.07.01-22.48.18:566][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:566][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_37 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_37 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_37 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_37 is pending kill
+[2018.07.01-22.48.18:566][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:566][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_36 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_36 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_36 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_36 is pending kill
+[2018.07.01-22.48.18:566][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:566][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_35 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_35 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_35 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_35 is pending kill
+[2018.07.01-22.48.18:566][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:566][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_34 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_34 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_34 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_34 is pending kill
+[2018.07.01-22.48.18:567][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:567][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_33 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_33 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_33 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_33 is pending kill
+[2018.07.01-22.48.18:567][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:567][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_32 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_32 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_32 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_32 is pending kill
+[2018.07.01-22.48.18:567][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:567][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_31 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_31 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_31 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_31 is pending kill
+[2018.07.01-22.48.18:567][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:567][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_30 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_30 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_30 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_30 is pending kill
+[2018.07.01-22.48.18:568][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:568][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_29 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_29 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_29 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_29 is pending kill
+[2018.07.01-22.48.18:568][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:568][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_28 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_28 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_28 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_28 is pending kill
+[2018.07.01-22.48.18:568][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:568][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_27 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_27 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_27 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_27 is pending kill
+[2018.07.01-22.48.18:568][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:568][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_26 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_26 is pending kill
+[2018.07.01-22.48.18:569][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:569][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_25 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_25 is pending kill
+[2018.07.01-22.48.18:569][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:569][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_24 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_24 is pending kill
+[2018.07.01-22.48.18:569][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:569][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_23 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_23 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_23 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_23 is pending kill
+[2018.07.01-22.48.18:570][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:570][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_22 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_22 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_22 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_22 is pending kill
+[2018.07.01-22.48.18:570][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:570][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_21 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_21 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_21 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_21 is pending kill
+[2018.07.01-22.48.18:570][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:570][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_20 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_20 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_20 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_20 is pending kill
+[2018.07.01-22.48.18:570][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:570][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_19 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_19 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_19 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_19 is pending kill
+[2018.07.01-22.48.18:571][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:571][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_18 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_18 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_18 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_18 is pending kill
+[2018.07.01-22.48.18:571][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:571][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_17 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_17 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_17 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_17 is pending kill
+[2018.07.01-22.48.18:571][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:571][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_16 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_16 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_16 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_16 is pending kill
+[2018.07.01-22.48.18:571][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:572][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_15 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_15 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_15 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_15 is pending kill
+[2018.07.01-22.48.18:572][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:572][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_14 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_14 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_14 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_14 is pending kill
+[2018.07.01-22.48.18:572][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:573][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_13 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_13 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_13 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_13 is pending kill
+[2018.07.01-22.48.18:573][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:573][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_12 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_12 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_12 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_12 is pending kill
+[2018.07.01-22.48.18:573][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:574][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_11 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_11 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_11 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_11 is pending kill
+[2018.07.01-22.48.18:574][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:574][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_10 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_10 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_10 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_10 is pending kill
+[2018.07.01-22.48.18:574][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:574][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_9 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_9 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_9 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_9 is pending kill
+[2018.07.01-22.48.18:574][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:574][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_8 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_8 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_8 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_8 is pending kill
+[2018.07.01-22.48.18:575][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:575][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_7 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_7 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_7 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_7 is pending kill
+[2018.07.01-22.48.18:575][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:575][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_6 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_6 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_6 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_6 is pending kill
+[2018.07.01-22.48.18:576][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:576][735]PIE: Error: Blueprint Runtime Error: Attempted to access Tile_Main_C_5 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_5 is pending kill from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Attempted to access Tile_Main_C_5 via property CallFunc_FinishSpawningActor_ReturnValue, but Tile_Main_C_5 is pending kill
+[2018.07.01-22.48.18:576][735]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'Spawn_Tile' from node: Set in graph: Spawn_Tile in object: Main_GameMode with description: Accessed None
+[2018.07.01-22.48.18:576][735]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main -0.185
+[2018.07.01-22.48.18:577][735]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.48.18:582][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.48.18:713][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.48.25:011][ 37]LogSlate: Window 'Message Log' being destroyed
+[2018.07.01-22.48.25:016][ 37]LogSlate: Window 'Message Log' being destroyed
+[2018.07.01-22.48.38:275][901]LogEditorViewport: Clicking on Actor (LMB): Main_Character_C (Main_Character)
+[2018.07.01-22.48.38:373][901]Cmd: DELETE
+[2018.07.01-22.48.38:374][901]Cmd: ACTOR DELETE
+[2018.07.01-22.48.38:416][901]LogEditorActor: Deleted Actor: Main_Character_C
+[2018.07.01-22.48.38:488][901]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2018.07.01-22.48.39:404][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.48.39:496][965]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.01-22.48.39:537][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.48.39:537][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.01-22.48.39:537][965]PIE: New page: PIE session: Main (Jul 1, 2018, 4:48:39 PM)
+[2018.07.01-22.48.39:553][965]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.07.01-22.48.39:560][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007374s)
+[2018.07.01-22.48.39:563][965]LogAIModule: Creating AISystem for world Main
+[2018.07.01-22.48.39:563][965]LogPlayLevel: PIE: World Init took: (0.002827s)
+[2018.07.01-22.48.39:564][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.010720s)
+[2018.07.01-22.48.39:629][965]LogInit: XAudio2 using 'Alto-falantes (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.01-22.48.39:646][965]LogInit: FAudioDevice initialized.
+[2018.07.01-22.48.39:685][965]LogLoad: Game class is 'Main_GameMode_C'
+[2018.07.01-22.48.39:687][965]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.01-19.48.39
+[2018.07.01-22.48.39:687][965]LogWorld: Bringing up level for play took: 0.000785
+[2018.07.01-22.48.39:721][965]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main 0.96
+[2018.07.01-22.48.39:722][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.48.40:492][ 10]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=50.000 Z=242.015
+[2018.07.01-22.48.40:776][ 27]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=150.000 Z=241.930
+[2018.07.01-22.48.41:068][ 45]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=250.000 Z=241.932
+[2018.07.01-22.48.41:351][ 63]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=350.000 Z=241.931
+[2018.07.01-22.48.41:634][ 81]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=450.000 Z=241.930
+[2018.07.01-22.48.41:915][ 99]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=550.000 Z=241.931
+[2018.07.01-22.48.42:198][117]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=650.000 Z=241.931
+[2018.07.01-22.48.42:485][135]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=750.000 Z=241.932
+[2018.07.01-22.48.42:771][153]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=850.000 Z=241.931
+[2018.07.01-22.48.43:058][171]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=950.000 Z=241.931
+[2018.07.01-22.48.43:346][189]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1050.000 Z=241.931
+[2018.07.01-22.48.43:627][207]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1150.000 Z=241.931
+[2018.07.01-22.48.43:918][225]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1250.000 Z=241.932
+[2018.07.01-22.48.44:203][243]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1350.000 Z=241.931
+[2018.07.01-22.48.44:487][261]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1450.000 Z=241.931
+[2018.07.01-22.48.44:774][279]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1550.000 Z=241.932
+[2018.07.01-22.48.45:056][296]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1650.000 Z=241.932
+[2018.07.01-22.48.45:335][314]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1750.000 Z=241.932
+[2018.07.01-22.48.45:619][332]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1850.000 Z=241.931
+[2018.07.01-22.48.50:897][693]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1950.000 Z=241.930
+[2018.07.01-22.48.51:181][712]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2050.000 Z=241.930
+[2018.07.01-22.48.51:466][730]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2150.000 Z=241.931
+[2018.07.01-22.48.51:751][748]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2250.000 Z=241.542
+[2018.07.01-22.48.52:037][766]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2350.000 Z=241.931
+[2018.07.01-22.48.52:324][784]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2450.000 Z=241.931
+[2018.07.01-22.48.52:604][802]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=2550.000 Z=241.931
+[2018.07.01-22.48.52:888][820]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=2650.000 Z=241.930
+[2018.07.01-22.48.53:178][838]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=2750.000 Z=241.932
+[2018.07.01-22.48.53:463][856]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=2850.000 Z=241.931
+[2018.07.01-22.48.53:748][874]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=2950.000 Z=241.931
+[2018.07.01-22.48.54:037][892]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=3050.000 Z=241.932
+[2018.07.01-22.48.54:323][910]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=3150.000 Z=241.931
+[2018.07.01-22.48.54:608][928]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=3250.000 Z=241.931
+[2018.07.01-22.48.54:890][946]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=3350.000 Z=241.931
+[2018.07.01-22.48.55:176][964]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=3450.000 Z=266.238
+[2018.07.01-22.48.55:466][982]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=3550.000 Z=266.228
+[2018.07.01-22.48.55:753][  0]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=3650.000 Z=266.228
+[2018.07.01-22.48.56:038][ 18]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=3750.000 Z=266.243
+[2018.07.01-22.48.56:322][ 36]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=3850.000 Z=266.242
+[2018.07.01-22.48.56:609][ 54]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=3950.000 Z=241.933
+[2018.07.01-22.48.56:895][ 72]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=4050.000 Z=266.256
+[2018.07.01-22.48.57:182][ 90]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=4150.000 Z=266.259
+[2018.07.01-22.48.57:465][108]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=4250.000 Z=241.474
+[2018.07.01-22.48.57:748][126]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=4350.000 Z=266.222
+[2018.07.01-22.48.58:039][144]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=4450.000 Z=266.258
+[2018.07.01-22.48.58:326][162]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=4550.000 Z=241.933
+[2018.07.01-22.48.58:614][180]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=4650.000 Z=266.238
+[2018.07.01-22.48.58:901][196]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=4750.000 Z=243.376
+[2018.07.01-22.48.59:191][214]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=4850.000 Z=266.254
+[2018.07.01-22.48.59:478][231]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=4950.000 Z=241.933
+[2018.07.01-22.48.59:764][248]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=5050.000 Z=266.130
+[2018.07.01-22.49.00:056][264]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=5150.000 Z=248.491
+[2018.07.01-22.49.00:337][281]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5250.000 Z=241.932
+[2018.07.01-22.49.00:612][297]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=5350.000 Z=241.930
+[2018.07.01-22.49.00:887][314]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=5450.000 Z=241.931
+[2018.07.01-22.49.01:168][330]LogBlueprintUserMessages: [Main_Character_C_0] X=-738.301 Y=5538.301 Z=265.788
+[2018.07.01-22.49.01:445][346]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=5650.000 Z=252.841
+[2018.07.01-22.49.01:731][364]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=5750.000 Z=266.254
+[2018.07.01-22.49.02:017][380]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=5850.000 Z=241.904
+[2018.07.01-22.49.02:310][396]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5950.000 Z=241.932
+[2018.07.01-22.49.02:592][412]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=6050.000 Z=241.931
+[2018.07.01-22.49.02:876][429]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6150.000 Z=241.932
+[2018.07.01-22.49.03:161][445]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6250.000 Z=241.931
+[2018.07.01-22.49.03:443][461]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=6350.000 Z=241.258
+[2018.07.01-22.49.03:735][478]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6450.000 Z=241.931
+[2018.07.01-22.49.04:020][494]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6550.000 Z=241.083
+[2018.07.01-22.49.04:287][510]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6650.000 Z=241.928
+[2018.07.01-22.49.04:569][526]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6750.000 Z=241.186
+[2018.07.01-22.49.04:854][543]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6850.000 Z=241.931
+[2018.07.01-22.49.05:140][561]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6950.000 Z=241.932
+[2018.07.01-22.49.05:408][577]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7050.000 Z=241.931
+[2018.07.01-22.49.05:700][595]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=7150.000 Z=241.932
+[2018.07.01-22.49.05:999][613]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=7250.000 Z=241.933
+[2018.07.01-22.49.06:270][630]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7350.000 Z=241.933
+[2018.07.01-22.49.06:554][647]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7450.000 Z=241.931
+[2018.07.01-22.49.06:846][665]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=7550.000 Z=241.932
+[2018.07.01-22.49.07:129][682]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=7650.000 Z=241.933
+[2018.07.01-22.49.07:424][700]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7750.000 Z=241.930
+[2018.07.01-22.49.07:715][718]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=7850.000 Z=241.932
+[2018.07.01-22.49.08:000][735]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7950.000 Z=241.933
+[2018.07.01-22.49.08:280][752]LogBlueprintUserMessages: [Main_Character_C_0] X=-150.000 Y=8050.000 Z=266.213
+[2018.07.01-22.49.08:574][770]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=8150.000 Z=266.247
+[2018.07.01-22.49.08:869][788]LogBlueprintUserMessages: [Main_Character_C_0] X=50.000 Y=8250.000 Z=266.260
+[2018.07.01-22.49.09:152][805]LogBlueprintUserMessages: [Main_Character_C_0] X=150.000 Y=8350.000 Z=266.230
+[2018.07.01-22.49.09:446][823]LogBlueprintUserMessages: [Main_Character_C_0] X=250.000 Y=8450.000 Z=266.266
+[2018.07.01-22.49.09:737][841]LogBlueprintUserMessages: [Main_Character_C_0] X=350.000 Y=8550.000 Z=241.933
+[2018.07.01-22.49.10:024][858]LogBlueprintUserMessages: [Main_Character_C_0] X=450.000 Y=8650.000 Z=241.611
+[2018.07.01-22.49.10:315][876]LogBlueprintUserMessages: [Main_Character_C_0] X=350.000 Y=8750.000 Z=241.932
+[2018.07.01-22.49.10:609][894]LogBlueprintUserMessages: [Main_Character_C_0] X=250.000 Y=8850.000 Z=266.260
+[2018.07.01-22.49.10:893][911]LogBlueprintUserMessages: [Main_Character_C_0] X=150.000 Y=8950.000 Z=266.261
+[2018.07.01-22.49.11:174][928]LogBlueprintUserMessages: [Main_Character_C_0] X=50.000 Y=9050.000 Z=266.258
+[2018.07.01-22.49.11:469][946]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=9150.000 Z=266.254
+[2018.07.01-22.49.11:763][964]LogBlueprintUserMessages: [Main_Character_C_0] X=-150.000 Y=9250.000 Z=266.218
+[2018.07.01-22.49.12:045][981]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9350.000 Z=241.933
+[2018.07.01-22.49.12:337][999]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=9450.000 Z=241.932
+[2018.07.01-22.49.12:633][ 17]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=9550.000 Z=241.932
+[2018.07.01-22.49.12:912][ 34]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9650.000 Z=241.930
+[2018.07.01-22.49.13:196][ 51]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=9750.000 Z=241.930
+[2018.07.01-22.49.13:486][ 69]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=9850.000 Z=266.239
+[2018.07.01-22.49.13:780][ 87]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=9950.000 Z=241.933
+[2018.07.01-22.49.14:075][105]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=10050.000 Z=266.254
+[2018.07.01-22.49.14:365][123]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=10150.000 Z=266.244
+[2018.07.01-22.49.14:654][141]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=10250.000 Z=238.994
+[2018.07.01-22.49.14:948][159]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=10350.000 Z=266.255
+[2018.07.01-22.49.15:227][176]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=10450.000 Z=266.258
+[2018.07.01-22.49.15:520][194]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=10550.000 Z=241.933
+[2018.07.01-22.49.15:810][212]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=10650.000 Z=266.238
+[2018.07.01-22.49.16:076][228]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=10750.000 Z=266.260
+[2018.07.01-22.49.16:356][245]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=10850.000 Z=230.014
+[2018.07.01-22.49.16:649][263]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=10950.000 Z=266.020
+[2018.07.01-22.49.16:945][281]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=11050.000 Z=266.244
+[2018.07.01-22.49.17:239][299]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=11150.000 Z=266.257
+[2018.07.01-22.49.17:527][317]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=11250.000 Z=266.227
+[2018.07.01-22.49.17:816][335]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=11350.000 Z=266.244
+[2018.07.01-22.49.18:108][350]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=11450.000 Z=249.064
+[2018.07.01-22.49.18:355][365]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=11550.000 Z=194.719
+[2018.07.01-22.49.18:647][383]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=11650.000 Z=163.203
+[2018.07.01-22.49.18:939][401]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=11750.000 Z=127.667
+[2018.07.01-22.49.19:233][419]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=11850.000 Z=92.994
+[2018.07.01-22.49.19:519][437]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=11950.000 Z=69.360
+[2018.07.01-22.49.19:799][454]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=12050.000 Z=52.494
+[2018.07.01-22.49.20:089][472]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=12150.000 Z=22.121
+[2018.07.01-22.49.20:377][490]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=12250.000 Z=-1.697
+[2018.07.01-22.49.20:672][508]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=12350.000 Z=-34.914
+[2018.07.01-22.49.20:966][526]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=12450.000 Z=-69.414
+[2018.07.01-22.49.21:256][544]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=12550.000 Z=-102.588
+[2018.07.01-22.49.21:546][562]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=12650.000 Z=-134.641
+[2018.07.01-22.49.21:841][580]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=12750.000 Z=-169.805
+[2018.07.01-22.49.22:132][598]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=12850.000 Z=-200.520
+[2018.07.01-22.49.22:423][616]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=12950.000 Z=-231.760
+[2018.07.01-22.49.22:709][634]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=13050.000 Z=-256.376
+[2018.07.01-22.49.22:999][652]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=13150.000 Z=-285.692
+[2018.07.01-22.49.23:288][670]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=13250.000 Z=-311.217
+[2018.07.01-22.49.23:578][688]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=13350.000 Z=-337.668
+[2018.07.01-22.49.23:868][706]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=13450.000 Z=-367.744
+[2018.07.01-22.49.24:156][724]LogBlueprintUserMessages: [Main_Character_C_0] X=-1050.000 Y=13550.000 Z=-397.191
+[2018.07.01-22.49.24:449][742]LogBlueprintUserMessages: [Main_Character_C_0] X=-1050.000 Y=13650.000 Z=-429.945
+[2018.07.01-22.49.24:737][760]LogBlueprintUserMessages: [Main_Character_C_0] X=-1050.000 Y=13750.000 Z=-458.449
+[2018.07.01-22.49.25:034][778]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=13850.000 Z=-494.807
+[2018.07.01-22.49.25:321][796]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=13950.000 Z=-524.741
+[2018.07.01-22.49.25:609][814]LogBlueprintUserMessages: [Main_Character_C_0] X=-950.000 Y=14050.000 Z=-559.233
+[2018.07.01-22.49.25:895][832]LogBlueprintUserMessages: [Main_Character_C_0] X=-1050.000 Y=14150.000 Z=-590.368
+[2018.07.01-22.49.26:185][850]LogBlueprintUserMessages: [Main_Character_C_0] X=-1050.000 Y=14250.000 Z=-621.415
+[2018.07.01-22.49.26:474][868]LogBlueprintUserMessages: [Main_Character_C_0] X=-1050.000 Y=14350.000 Z=-646.457
+[2018.07.01-22.49.26:574][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.49.26:624][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.49.27:758][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.49.27:837][946]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.01-22.49.27:875][946]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.49.27:875][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.01-22.49.27:876][946]PIE: New page: PIE session: Main (Jul 1, 2018, 4:49:27 PM)
+[2018.07.01-22.49.27:887][946]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.07.01-22.49.27:895][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007747s)
+[2018.07.01-22.49.27:896][946]LogAIModule: Creating AISystem for world Main
+[2018.07.01-22.49.27:897][946]LogPlayLevel: PIE: World Init took: (0.001702s)
+[2018.07.01-22.49.27:897][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.009897s)
+[2018.07.01-22.49.27:957][946]LogInit: XAudio2 using 'Alto-falantes (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.01-22.49.27:973][946]LogInit: FAudioDevice initialized.
+[2018.07.01-22.49.28:013][946]LogLoad: Game class is 'Main_GameMode_C'
+[2018.07.01-22.49.28:014][946]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.01-19.49.28
+[2018.07.01-22.49.28:014][946]LogWorld: Bringing up level for play took: 0.000718
+[2018.07.01-22.49.28:048][946]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main -0.714
+[2018.07.01-22.49.28:048][946]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.49.28:824][993]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=50.000 Z=242.015
+[2018.07.01-22.49.29:119][ 11]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=150.000 Z=241.932
+[2018.07.01-22.49.29:406][ 29]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=250.000 Z=241.931
+[2018.07.01-22.49.29:694][ 47]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=350.000 Z=241.932
+[2018.07.01-22.49.29:985][ 65]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=450.000 Z=241.931
+[2018.07.01-22.49.30:269][ 83]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=550.000 Z=241.930
+[2018.07.01-22.49.30:554][101]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=650.000 Z=241.931
+[2018.07.01-22.49.30:836][118]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=750.000 Z=241.930
+[2018.07.01-22.49.31:127][136]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=850.000 Z=241.932
+[2018.07.01-22.49.31:421][154]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=950.000 Z=241.932
+[2018.07.01-22.49.31:712][172]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1050.000 Z=241.932
+[2018.07.01-22.49.32:006][190]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1150.000 Z=241.932
+[2018.07.01-22.49.32:298][208]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1250.000 Z=241.932
+[2018.07.01-22.49.32:585][226]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1350.000 Z=241.932
+[2018.07.01-22.49.32:868][243]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1450.000 Z=241.932
+[2018.07.01-22.49.33:151][260]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1550.000 Z=241.933
+[2018.07.01-22.49.33:440][278]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=1650.000 Z=241.932
+[2018.07.01-22.49.33:731][296]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=1750.000 Z=241.932
+[2018.07.01-22.49.34:003][312]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=1850.000 Z=241.930
+[2018.07.01-22.49.34:293][329]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=1950.000 Z=241.931
+[2018.07.01-22.49.34:575][346]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=2050.000 Z=241.932
+[2018.07.01-22.49.34:874][364]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=2150.000 Z=241.930
+[2018.07.01-22.49.35:158][381]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=2250.000 Z=241.930
+[2018.07.01-22.49.35:426][397]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=2350.000 Z=241.931
+[2018.07.01-22.49.35:694][413]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=2450.000 Z=266.255
+[2018.07.01-22.49.35:961][429]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=2550.000 Z=266.257
+[2018.07.01-22.49.36:229][445]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=2650.000 Z=244.102
+[2018.07.01-22.49.36:512][462]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=2750.000 Z=266.224
+[2018.07.01-22.49.36:781][478]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=2850.000 Z=244.958
+[2018.07.01-22.49.37:055][494]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=2950.000 Z=241.307
+[2018.07.01-22.49.37:350][512]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=3050.000 Z=241.930
+[2018.07.01-22.49.37:634][529]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=3150.000 Z=241.932
+[2018.07.01-22.49.37:902][545]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=3250.000 Z=241.930
+[2018.07.01-22.49.38:197][563]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=3350.000 Z=241.115
+[2018.07.01-22.49.38:483][581]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3450.000 Z=241.931
+[2018.07.01-22.49.38:791][598]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3550.000 Z=241.434
+[2018.07.01-22.49.39:076][614]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=3650.000 Z=241.929
+[2018.07.01-22.49.39:357][630]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=3750.000 Z=241.930
+[2018.07.01-22.49.39:635][646]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3850.000 Z=241.929
+[2018.07.01-22.49.39:918][661]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=3950.000 Z=241.931
+[2018.07.01-22.49.40:196][677]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=4050.000 Z=241.932
+[2018.07.01-22.49.40:485][694]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=4150.000 Z=241.933
+[2018.07.01-22.49.40:757][710]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4250.000 Z=241.930
+[2018.07.01-22.49.41:044][726]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4350.000 Z=241.931
+[2018.07.01-22.49.41:325][742]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4450.000 Z=241.931
+[2018.07.01-22.49.41:601][758]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=4550.000 Z=241.931
+[2018.07.01-22.49.41:887][774]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=4650.000 Z=241.931
+[2018.07.01-22.49.42:166][790]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=4750.000 Z=265.601
+[2018.07.01-22.49.42:450][807]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=4850.000 Z=241.933
+[2018.07.01-22.49.42:724][823]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=4950.000 Z=241.933
+[2018.07.01-22.49.43:004][838]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=5050.000 Z=266.238
+[2018.07.01-22.49.43:285][855]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=5150.000 Z=244.136
+[2018.07.01-22.49.43:571][873]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=5250.000 Z=241.931
+[2018.07.01-22.49.43:857][891]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=5350.000 Z=266.254
+[2018.07.01-22.49.44:154][909]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=5450.000 Z=266.244
+[2018.07.01-22.49.44:432][926]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=5550.000 Z=241.933
+[2018.07.01-22.49.44:722][944]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5650.000 Z=241.931
+[2018.07.01-22.49.45:015][961]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5750.000 Z=241.932
+[2018.07.01-22.49.45:306][979]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=5850.000 Z=241.932
+[2018.07.01-22.49.45:586][996]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=5950.000 Z=241.930
+[2018.07.01-22.49.45:875][ 14]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6050.000 Z=241.932
+[2018.07.01-22.49.46:162][ 32]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6150.000 Z=241.931
+[2018.07.01-22.49.46:452][ 50]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6250.000 Z=241.932
+[2018.07.01-22.49.46:741][ 68]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6350.000 Z=241.932
+[2018.07.01-22.49.47:031][ 86]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6450.000 Z=241.931
+[2018.07.01-22.49.47:325][104]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6550.000 Z=241.932
+[2018.07.01-22.49.47:616][122]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6650.000 Z=241.932
+[2018.07.01-22.49.47:906][140]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6750.000 Z=241.932
+[2018.07.01-22.49.48:197][158]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6850.000 Z=241.932
+[2018.07.01-22.49.48:485][176]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=6950.000 Z=241.931
+[2018.07.01-22.49.48:521][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.49.48:565][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.49.55:294][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.49.58:508][689]LogSlate: Window 'Message' being destroyed
+[2018.07.01-22.50.00:041][689]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.50.00:084][689]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.01-22.50.00:113][689]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.50.00:147][689]LogMaterial: Missing cached shader map for material Shorts, compiling. 
+[2018.07.01-22.50.00:240][689]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shorts, compiling. 
+[2018.07.01-22.50.07:151][689]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.01-22.50.07:152][689]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.01-22.50.07:155][689]TextureStreamingBuild: Display: Compiling optional shaders took 6.922 seconds.
+[2018.07.01-22.50.18:235][833]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.01-22.50.18:236][833]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.50.33:684][874]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.01-22.50.33:702][874]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.01-22.50.44:353][448]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.01-22.50.44:731][448]LogSlate: Window 'Message' being destroyed
+[2018.07.01-22.50.47:791][606]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.01-22.50.47:833][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.50.47:834][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.01-22.50.47:834][606]PIE: New page: PIE session: Main (Jul 1, 2018, 4:50:47 PM)
+[2018.07.01-22.50.47:834][606]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Main
+[2018.07.01-22.50.47:844][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009571s)
+[2018.07.01-22.50.47:848][606]LogAIModule: Creating AISystem for world Main
+[2018.07.01-22.50.47:848][606]LogPlayLevel: PIE: World Init took: (0.004136s)
+[2018.07.01-22.50.47:848][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Main.Main to /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main (0.013967s)
+[2018.07.01-22.50.48:012][606]LogInit: XAudio2 using 'Alto-falantes (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.01-22.50.48:031][606]LogInit: FAudioDevice initialized.
+[2018.07.01-22.50.48:073][606]LogLoad: Game class is 'Main_GameMode_C'
+[2018.07.01-22.50.48:074][606]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.01-19.50.48
+[2018.07.01-22.50.48:075][606]LogWorld: Bringing up level for play took: 0.000768
+[2018.07.01-22.50.48:116][606]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Main -0.646
+[2018.07.01-22.50.48:116][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.50.48:775][641]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=50.000 Z=242.015
+[2018.07.01-22.50.49:083][656]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=150.000 Z=241.932
+[2018.07.01-22.50.49:328][669]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=250.000 Z=241.929
+[2018.07.01-22.50.49:605][684]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=350.000 Z=241.933
+[2018.07.01-22.50.49:872][699]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=450.000 Z=241.388
+[2018.07.01-22.50.50:155][715]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=550.000 Z=241.932
+[2018.07.01-22.50.50:439][730]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=650.000 Z=241.933
+[2018.07.01-22.50.50:698][744]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=750.000 Z=241.929
+[2018.07.01-22.50.50:985][761]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=850.000 Z=241.930
+[2018.07.01-22.50.51:257][776]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=950.000 Z=241.931
+[2018.07.01-22.50.51:551][791]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1050.000 Z=241.933
+[2018.07.01-22.50.51:835][806]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1150.000 Z=241.930
+[2018.07.01-22.50.52:114][820]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1250.000 Z=241.931
+[2018.07.01-22.50.52:395][836]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1350.000 Z=241.930
+[2018.07.01-22.50.52:665][850]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1450.000 Z=241.930
+[2018.07.01-22.50.52:941][865]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1550.000 Z=241.061
+[2018.07.01-22.50.53:223][880]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1650.000 Z=241.928
+[2018.07.01-22.50.53:501][893]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1750.000 Z=241.933
+[2018.07.01-22.50.53:753][906]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1850.000 Z=241.928
+[2018.07.01-22.50.54:035][919]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1950.000 Z=241.756
+[2018.07.01-22.50.54:298][931]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2035.764 Z=241.765
+[2018.07.01-22.50.54:552][945]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2129.386 Z=241.775
+[2018.07.01-22.50.54:830][960]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2228.121 Z=241.738
+[2018.07.01-22.50.55:112][974]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2338.121 Z=241.199
+[2018.07.01-22.50.55:387][989]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2450.000 Z=241.782
+[2018.07.01-22.50.55:670][  4]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2550.000 Z=241.931
+[2018.07.01-22.50.55:951][ 22]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2650.000 Z=241.930
+[2018.07.01-22.50.56:234][ 37]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2750.000 Z=241.933
+[2018.07.01-22.50.56:504][ 51]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2850.000 Z=241.931
+[2018.07.01-22.50.56:762][ 66]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2950.000 Z=241.927
+[2018.07.01-22.50.57:039][ 79]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3050.000 Z=241.930
+[2018.07.01-22.50.57:333][ 94]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3150.000 Z=241.933
+[2018.07.01-22.50.57:608][109]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3250.000 Z=241.929
+[2018.07.01-22.50.57:895][124]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3350.000 Z=241.932
+[2018.07.01-22.50.58:195][139]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3450.000 Z=241.932
+[2018.07.01-22.50.58:458][153]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3550.000 Z=241.931
+[2018.07.01-22.50.58:848][175]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3650.000 Z=241.931
+[2018.07.01-22.50.59:124][188]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3737.489 Z=241.795
+[2018.07.01-22.50.59:412][197]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3814.216 Z=241.807
+[2018.07.01-22.50.59:682][204]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3878.355 Z=241.807
+[2018.07.01-22.50.59:895][210]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3914.672 Z=241.699
+[2018.07.01-22.51.00:190][218]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3974.672 Z=241.579
+[2018.07.01-22.51.00:437][227]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=4025.842 Z=241.794
+[2018.07.01-22.51.00:726][240]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=4124.634 Z=241.793
+[2018.07.01-22.51.01:006][252]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=4196.852 Z=241.799
+[2018.07.01-22.51.01:283][265]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=4283.608 Z=241.789
+[2018.07.01-22.51.01:568][281]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=4400.171 Z=241.795
+[2018.07.01-22.51.01:836][296]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=4504.664 Z=241.779
+[2018.07.01-22.51.02:118][312]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=4619.217 Z=241.788
+[2018.07.01-22.51.02:410][329]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=4732.792 Z=241.806
+[2018.07.01-22.51.02:702][348]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=4866.564 Z=241.804
+[2018.07.01-22.51.02:993][363]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=4976.564 Z=241.202
+[2018.07.01-22.51.03:259][378]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=5077.990 Z=241.786
+[2018.07.01-22.51.03:549][394]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=5202.224 Z=241.807
+[2018.07.01-22.51.03:828][410]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=5315.000 Z=241.770
+[2018.07.01-22.51.04:105][425]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=5423.428 Z=241.772
+[2018.07.01-22.51.04:398][439]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=5534.107 Z=241.799
+[2018.07.01-22.51.04:679][454]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=5636.251 Z=241.778
+[2018.07.01-22.51.04:963][469]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=5745.634 Z=241.783
+[2018.07.01-22.51.05:219][482]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=5851.618 Z=241.807
+[2018.07.01-22.51.05:499][497]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=5965.336 Z=241.807
+[2018.07.01-22.51.05:785][514]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6084.381 Z=241.758
+[2018.07.01-22.51.06:064][529]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6186.811 Z=241.787
+[2018.07.01-22.51.06:344][545]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6299.044 Z=241.804
+[2018.07.01-22.51.06:632][561]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6420.405 Z=241.807
+[2018.07.01-22.51.06:922][577]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6529.559 Z=241.752
+[2018.07.01-22.51.07:205][587]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6609.642 Z=241.807
+[2018.07.01-22.51.07:461][598]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6691.765 Z=241.807
+[2018.07.01-22.51.07:746][613]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6797.293 Z=241.788
+[2018.07.01-22.51.08:039][629]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6897.293 Z=241.797
+[2018.07.01-22.51.08:181][631]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.01-22.51.09:656][699]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=6957.293 Z=270.307
+[2018.07.01-22.51.09:959][716]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7066.158 Z=241.807
+[2018.07.01-22.51.10:242][734]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7187.320 Z=241.792
+[2018.07.01-22.51.10:531][753]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7317.320 Z=241.100
+[2018.07.01-22.51.10:816][772]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7450.000 Z=241.932
+[2018.07.01-22.51.11:103][791]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7550.000 Z=241.395
+[2018.07.01-22.51.11:391][810]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7650.000 Z=241.930
+[2018.07.01-22.51.11:678][829]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7750.000 Z=241.930
+[2018.07.01-22.51.11:968][848]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7850.000 Z=241.932
+[2018.07.01-22.51.12:238][866]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=7950.000 Z=241.930
+[2018.07.01-22.51.12:530][885]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=8050.000 Z=241.930
+[2018.07.01-22.51.12:803][903]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=8150.000 Z=241.930
+[2018.07.01-22.51.13:085][921]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=8250.000 Z=241.931
+[2018.07.01-22.51.13:362][939]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=8350.000 Z=241.930
+[2018.07.01-22.51.13:636][957]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=8450.000 Z=241.930
+[2018.07.01-22.51.13:923][976]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=8550.000 Z=241.932
+[2018.07.01-22.51.14:211][995]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=8650.000 Z=241.930
+[2018.07.01-22.51.14:486][ 13]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=8750.000 Z=241.931
+[2018.07.01-22.51.14:775][ 32]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=8850.000 Z=241.932
+[2018.07.01-22.51.15:064][ 51]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=8950.000 Z=241.930
+[2018.07.01-22.51.15:351][ 70]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9050.000 Z=241.932
+[2018.07.01-22.51.15:639][ 89]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9150.000 Z=241.932
+[2018.07.01-22.51.15:912][107]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9250.000 Z=241.930
+[2018.07.01-22.51.16:200][126]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9350.000 Z=241.930
+[2018.07.01-22.51.16:487][145]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9450.000 Z=241.930
+[2018.07.01-22.51.16:770][164]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9550.000 Z=241.932
+[2018.07.01-22.51.17:060][183]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9650.000 Z=241.932
+[2018.07.01-22.51.17:349][202]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9750.000 Z=241.930
+[2018.07.01-22.51.17:635][221]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9850.000 Z=241.932
+[2018.07.01-22.51.17:923][240]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=9950.000 Z=241.615
+[2018.07.01-22.51.18:200][258]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=10050.000 Z=241.930
+[2018.07.01-22.51.18:488][277]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=10150.000 Z=241.930
+[2018.07.01-22.51.18:776][296]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=10250.000 Z=241.930
+[2018.07.01-22.51.19:064][315]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=10350.000 Z=241.932
+[2018.07.01-22.51.19:355][334]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=10450.000 Z=241.242
+[2018.07.01-22.51.19:643][353]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=10550.000 Z=241.930
+[2018.07.01-22.51.19:932][372]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=10650.000 Z=241.930
+[2018.07.01-22.51.20:210][390]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=10750.000 Z=241.931
+[2018.07.01-22.51.20:495][409]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=10850.000 Z=241.537
+[2018.07.01-22.51.20:771][427]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=10950.000 Z=241.930
+[2018.07.01-22.51.20:916][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000195128f4850, Size=4
+[2018.07.01-22.51.20:916][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194e02e94b8, Size=4
+[2018.07.01-22.51.20:916][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001952d670400, Size=984
+[2018.07.01-22.51.20:916][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019523357510, Size=4
+[2018.07.01-22.51.20:916][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194a948c1c0, Size=4
+[2018.07.01-22.51.20:916][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000195233574d8, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019521025c50, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953bcb3650, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019523354220, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000195233575d8, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000195025d2f88, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953f1e2c40, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019523355520, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019523355498, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019523357e88, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953b0964c8, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019507368770, Size=4
+[2018.07.01-22.51.20:917][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000195233578a0, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019507368350, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953bcb2b98, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001951c1b97f8, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019523355bc8, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953bcb1978, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000195025d1110, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194b10c99d0, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019523357ed8, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019521ce7528, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953bcb2e30, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019554807900, Size=1424
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194b10c8168, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953bcb15b8, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019524a5ebb8, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019523357588, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194b10cba88, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000195024704f0, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953bcb1810, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001951f6bb628, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000195210256b8, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019523355de0, Size=4
+[2018.07.01-22.51.20:918][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000195025d2a70, Size=4
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953f1e1898, Size=4
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953bcb0bd0, Size=4
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019496c33a28, Size=4
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019502470668, Size=4
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000195233563d0, Size=4
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019525cd9d00, Size=1272
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019523355598, Size=4
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001948b9746e8, Size=4
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953b04c800, Size=992
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953bcb29e8, Size=4
+[2018.07.01-22.51.20:919][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001953b097098, Size=4
+[2018.07.01-22.51.20:922][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000194dc67fa88, Size=4
+[2018.07.01-22.51.20:969][434]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=11040.000 Z=275.096
+[2018.07.01-22.51.21:260][453]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=11150.000 Z=246.542
+[2018.07.01-22.51.21:549][472]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=11250.000 Z=241.933
+[2018.07.01-22.51.21:837][491]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=11350.000 Z=241.930
+[2018.07.01-22.51.22:115][509]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=11450.000 Z=241.930
+[2018.07.01-22.51.22:406][528]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=11550.000 Z=241.933
+[2018.07.01-22.51.22:693][547]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=11650.000 Z=241.932
+[2018.07.01-22.51.22:982][566]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=11750.000 Z=241.932
+[2018.07.01-22.51.23:260][584]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=11850.000 Z=241.930
+[2018.07.01-22.51.23:553][603]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=11950.000 Z=241.932
+[2018.07.01-22.51.23:842][622]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=12050.000 Z=241.932
+[2018.07.01-22.51.24:116][640]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=12150.000 Z=241.931
+[2018.07.01-22.51.24:405][659]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=12250.000 Z=241.930
+[2018.07.01-22.51.24:691][678]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=12350.000 Z=241.932
+[2018.07.01-22.51.24:984][697]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=12450.000 Z=241.930
+[2018.07.01-22.51.25:274][716]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=12550.000 Z=241.932
+[2018.07.01-22.51.25:562][735]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=12650.000 Z=241.930
+[2018.07.01-22.51.25:851][754]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=12750.000 Z=241.932
+[2018.07.01-22.51.26:138][773]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=12850.000 Z=241.930
+[2018.07.01-22.51.26:423][792]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=12950.000 Z=241.932
+[2018.07.01-22.51.26:709][811]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=13050.000 Z=241.932
+[2018.07.01-22.51.27:000][830]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=13150.000 Z=241.930
+[2018.07.01-22.51.27:273][848]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=13250.000 Z=241.930
+[2018.07.01-22.51.27:568][867]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=13350.000 Z=241.930
+[2018.07.01-22.51.27:840][885]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=13450.000 Z=241.930
+[2018.07.01-22.51.28:117][903]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=13550.000 Z=241.930
+[2018.07.01-22.51.28:404][922]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=13650.000 Z=241.930
+[2018.07.01-22.51.28:693][941]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=13750.000 Z=241.932
+[2018.07.01-22.51.28:980][960]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=13850.000 Z=241.930
+[2018.07.01-22.51.29:269][979]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=13950.000 Z=241.930
+[2018.07.01-22.51.29:561][998]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=14050.000 Z=241.930
+[2018.07.01-22.51.29:844][ 17]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=14150.000 Z=241.932
+[2018.07.01-22.51.30:119][ 35]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=14250.000 Z=241.930
+[2018.07.01-22.51.30:409][ 54]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=14350.000 Z=241.932
+[2018.07.01-22.51.30:698][ 73]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=14450.000 Z=241.932
+[2018.07.01-22.51.30:989][ 92]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=14550.000 Z=241.932
+[2018.07.01-22.51.31:275][111]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=14650.000 Z=241.930
+[2018.07.01-22.51.31:554][129]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=14750.000 Z=241.930
+[2018.07.01-22.51.31:843][147]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=14850.000 Z=241.932
+[2018.07.01-22.51.32:117][163]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=14950.000 Z=241.931
+[2018.07.01-22.51.32:402][181]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=15050.000 Z=241.932
+[2018.07.01-22.51.32:686][199]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=15150.000 Z=241.931
+[2018.07.01-22.51.32:971][217]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=15250.000 Z=241.931
+[2018.07.01-22.51.33:254][235]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=15350.000 Z=241.930
+[2018.07.01-22.51.33:540][253]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=15450.000 Z=241.932
+[2018.07.01-22.51.33:827][271]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=15550.000 Z=241.931
+[2018.07.01-22.51.34:112][289]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=15650.000 Z=241.931
+[2018.07.01-22.51.34:402][307]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=15750.000 Z=241.932
+[2018.07.01-22.51.34:689][325]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=15850.000 Z=241.931
+[2018.07.01-22.51.34:971][343]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=15950.000 Z=241.930
+[2018.07.01-22.51.35:257][361]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=16050.000 Z=241.931
+[2018.07.01-22.51.35:538][379]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=16150.000 Z=241.931
+[2018.07.01-22.51.35:823][397]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=16250.000 Z=241.931
+[2018.07.01-22.51.36:114][415]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=16350.000 Z=241.932
+[2018.07.01-22.51.36:402][433]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=16450.000 Z=241.931
+[2018.07.01-22.51.36:620][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.01-22.51.36:721][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-22.51.36:765][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/ThirdPersonBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Main.Main:PersistentLevel.Main'
