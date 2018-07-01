@@ -757,3 +757,396 @@ LogInit: Object subsystem initialized
 [2018.07.01-23.04.54:664][491]LogSavePackage: Save=160.55ms
 [2018.07.01-23.04.54:664][491]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/MainFCEE782B4818FD10A74528A499B40716.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/Project/Maps/Main.umap'
 [2018.07.01-23.04.54:668][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/Project/Maps/Main.umap
+[2018.07.01-23.05.56:798][872]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.01-23.06.51:581][ 34]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.01-23.07.14:967][855]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.01-23.07.15:003][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Project/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-23.07.15:004][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.01-23.07.15:004][855]PIE: New page: PIE session: Main (Jul 1, 2018, 5:07:15 PM)
+[2018.07.01-23.07.15:004][855]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_Main
+[2018.07.01-23.07.15:010][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006348s)
+[2018.07.01-23.07.15:012][855]LogAIModule: Creating AISystem for world Main
+[2018.07.01-23.07.15:012][855]LogPlayLevel: PIE: World Init took: (0.001685s)
+[2018.07.01-23.07.15:012][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/Main.Main to /Game/Project/Maps/UEDPIE_0_Main.Main (0.008340s)
+[2018.07.01-23.07.15:069][855]LogInit: XAudio2 using 'Alto-falantes (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.01-23.07.15:086][855]LogInit: FAudioDevice initialized.
+[2018.07.01-23.07.15:125][855]LogLoad: Game class is 'Main_GameMode_C'
+[2018.07.01-23.07.15:126][855]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.01-20.07.15
+[2018.07.01-23.07.15:126][855]LogWorld: Bringing up level for play took: 0.000720
+[2018.07.01-23.07.15:159][855]PIE: Play in editor start time for /Game/Project/Maps/UEDPIE_0_Main 0.397
+[2018.07.01-23.07.15:160][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Project/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-23.07.15:964][913]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=50.000 Z=242.015
+[2018.07.01-23.07.16:252][936]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=150.000 Z=241.194
+[2018.07.01-23.07.16:549][959]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=250.000 Z=241.932
+[2018.07.01-23.07.16:834][980]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=350.000 Z=241.931
+[2018.07.01-23.07.17:126][  1]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=450.000 Z=241.932
+[2018.07.01-23.07.17:168][  4]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Project/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-23.07.17:217][  4]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Project/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-23.07.18:385][ 72]LogSavePackage: Save=162.28ms
+[2018.07.01-23.07.18:385][ 72]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/Main5FBDCF33461C7CB4D6BA12B6FBB818B1.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/Project/Maps/Main.umap'
+[2018.07.01-23.07.18:389][ 72]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/Project/Maps/Main.umap
+[2018.07.01-23.07.32:666][880]LogSavePackage: Save=161.25ms
+[2018.07.01-23.07.32:666][880]LogSavePackage: Moving '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Saved/MainCBDAA40F4C15C2084C280F901C69E5CE.tmp' to '../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/Project/Maps/Main.umap'
+[2018.07.01-23.07.32:670][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/WyKKe/Desktop/DEV-U/EndlessRunning/git/EndlessRunning/Content/Project/Maps/Main.umap
+[2018.07.01-23.07.44:770][808]MapCheck: New page: Map Check
+[2018.07.01-23.07.44:806][808]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.01-23.07.44:806][808]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.01-23.07.44:927][808]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.01-23.07.44:938][808]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.07.01-23.07.46:448][808]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.01-23.07.46:448][808]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.01-23.07.46:448][808]TextureStreamingBuild: Display: Compiling optional shaders took 1.531 seconds.
+[2018.07.01-23.07.46:481][808]LogLevel: Display: Export Material TexCoord Scales took 0.033 seconds.
+[2018.07.01-23.07.46:500][808]TextureStreamingBuild: Display: Build Texture Streaming took 0.018 seconds.
+[2018.07.01-23.07.46:534][808]LightingResults: New page: Lighting Build - Jul 1, 2018, 5:07:46 PM
+[2018.07.01-23.07.47:340][808]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.01-23.07.47:442][808]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.01-23.07.47:551][808]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.01-23.07.49:279][808]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.01-23.07.49:279][808]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11828
+[2018.07.01-23.07.57:866][808]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.07.01-23.07.57:868][808]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.01-23.07.57:869][808]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.01-23.07.57:869][808]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.01-23.07.57:869][808]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.01-23.07.57:869][808]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.01-23.07.58:161][808]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.01-23.07.58:161][808]MapCheck: New page: Main - Jul 1, 2018, 5:07:58 PM
+[2018.07.01-23.07.58:313][808]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 152.049ms to complete.
+[2018.07.01-23.07.58:336][808]LogEditorBuildUtils: Build time 0:13
+[2018.07.01-23.08.06:850][152]Job is a success!
+[2018.07.01-23.08.07:125][153]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.198s
+[2018.07.01-23.08.07:125][153]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.01-23.08.07:125][153]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2018.07.01-23.08.07:125][153]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.01-23.08.07:125][153]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2018.07.01-23.08.07:125][153]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2018.07.01-23.08.07:125][153]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.07.01-23.08.07:174][153]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2018.07.01-23.08.07:174][153]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2018.07.01-23.08.07:276][153]Lightmass on DESKTOP-H102MS1: 6.57 sec total, 5.04 sec importing, 22 ms setup, 149 ms photons, 1.23 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 2.46 sec total, 309 ms processing.
+[2018.07.01-23.08.07:334][153]LogStaticLightingSystem: Illumination: 20.7 sec (9 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.07.01-23.08.07:334][153]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.07.01-23.08.07:334][153]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.07.01-23.08.07:859][153]DumpUnbuiltLightIteractions
+[2018.07.01-23.08.07:859][153]Lights with unbuilt interactions: 0
+[2018.07.01-23.08.07:859][153]
+[2018.07.01-23.08.07:859][153]Primitives with unbuilt interactions: 0
+[2018.07.01-23.08.07:976][154]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.01-23.08.07:976][154]MapCheck: New page: Main - Jul 1, 2018, 5:08:07 PM
+[2018.07.01-23.08.08:123][154]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 146.785ms to complete.
+[2018.07.01-23.08.14:400][629]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.01-23.08.14:433][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Project/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-23.08.14:434][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.01-23.08.14:434][629]PIE: New page: PIE session: Main (Jul 1, 2018, 5:08:14 PM)
+[2018.07.01-23.08.14:435][629]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_Main
+[2018.07.01-23.08.14:439][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004879s)
+[2018.07.01-23.08.14:441][629]LogAIModule: Creating AISystem for world Main
+[2018.07.01-23.08.14:442][629]LogPlayLevel: PIE: World Init took: (0.001941s)
+[2018.07.01-23.08.14:442][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/Main.Main to /Game/Project/Maps/UEDPIE_0_Main.Main (0.007447s)
+[2018.07.01-23.08.14:496][629]LogInit: XAudio2 using 'Alto-falantes (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.01-23.08.14:512][629]LogInit: FAudioDevice initialized.
+[2018.07.01-23.08.14:550][629]LogLoad: Game class is 'Main_GameMode_C'
+[2018.07.01-23.08.14:551][629]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.07.01-20.08.14
+[2018.07.01-23.08.14:552][629]LogWorld: Bringing up level for play took: 0.000731
+[2018.07.01-23.08.14:585][629]PIE: Play in editor start time for /Game/Project/Maps/UEDPIE_0_Main -0.177
+[2018.07.01-23.08.14:585][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Project/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-23.08.15:397][687]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=50.000 Z=242.015
+[2018.07.01-23.08.15:686][708]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=150.000 Z=241.931
+[2018.07.01-23.08.15:981][729]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=250.000 Z=241.932
+[2018.07.01-23.08.16:267][750]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=350.000 Z=241.931
+[2018.07.01-23.08.16:552][771]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=450.000 Z=241.931
+[2018.07.01-23.08.16:838][792]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=550.000 Z=241.931
+[2018.07.01-23.08.17:124][813]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=650.000 Z=241.931
+[2018.07.01-23.08.17:418][834]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=750.000 Z=241.930
+[2018.07.01-23.08.17:700][855]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=850.000 Z=241.931
+[2018.07.01-23.08.17:998][877]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=950.000 Z=241.930
+[2018.07.01-23.08.18:283][898]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1050.000 Z=241.931
+[2018.07.01-23.08.18:568][918]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1150.000 Z=241.932
+[2018.07.01-23.08.18:856][939]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1250.000 Z=241.931
+[2018.07.01-23.08.19:151][960]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1350.000 Z=241.930
+[2018.07.01-23.08.19:440][980]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1450.000 Z=241.931
+[2018.07.01-23.08.19:725][  1]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1550.000 Z=241.198
+[2018.07.01-23.08.20:011][ 21]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1650.000 Z=241.925
+[2018.07.01-23.08.20:289][ 41]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1750.000 Z=241.931
+[2018.07.01-23.08.20:576][ 63]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1850.000 Z=241.929
+[2018.07.01-23.08.20:859][ 83]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=1950.000 Z=241.932
+[2018.07.01-23.08.21:140][102]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2050.000 Z=241.931
+[2018.07.01-23.08.21:428][121]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2150.000 Z=241.930
+[2018.07.01-23.08.21:708][140]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2250.000 Z=241.932
+[2018.07.01-23.08.21:986][159]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2350.000 Z=241.931
+[2018.07.01-23.08.22:278][180]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2450.000 Z=241.930
+[2018.07.01-23.08.22:556][199]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2550.000 Z=241.284
+[2018.07.01-23.08.22:835][218]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2650.000 Z=241.932
+[2018.07.01-23.08.23:109][234]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2750.000 Z=241.933
+[2018.07.01-23.08.23:392][256]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2850.000 Z=241.930
+[2018.07.01-23.08.23:689][277]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=2950.000 Z=241.932
+[2018.07.01-23.08.23:970][297]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3050.000 Z=241.930
+[2018.07.01-23.08.24:249][317]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3150.000 Z=241.931
+[2018.07.01-23.08.24:530][338]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3250.000 Z=241.932
+[2018.07.01-23.08.24:824][361]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3350.000 Z=241.932
+[2018.07.01-23.08.25:118][382]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=3450.000 Z=241.150
+[2018.07.01-23.08.25:410][403]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=3550.000 Z=241.932
+[2018.07.01-23.08.25:692][423]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=3650.000 Z=241.932
+[2018.07.01-23.08.25:972][443]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=3750.000 Z=241.930
+[2018.07.01-23.08.26:263][464]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=3850.000 Z=241.930
+[2018.07.01-23.08.26:552][485]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=3950.000 Z=241.932
+[2018.07.01-23.08.26:844][506]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4050.000 Z=241.932
+[2018.07.01-23.08.27:129][526]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4150.000 Z=241.930
+[2018.07.01-23.08.27:426][547]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4250.000 Z=241.930
+[2018.07.01-23.08.27:712][567]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4350.000 Z=241.931
+[2018.07.01-23.08.28:001][587]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4450.000 Z=241.932
+[2018.07.01-23.08.28:292][610]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4550.000 Z=241.929
+[2018.07.01-23.08.28:580][633]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4650.000 Z=241.930
+[2018.07.01-23.08.28:860][655]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4750.000 Z=241.929
+[2018.07.01-23.08.29:141][677]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4850.000 Z=241.929
+[2018.07.01-23.08.29:439][699]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=4950.000 Z=241.932
+[2018.07.01-23.08.29:725][720]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5050.000 Z=241.932
+[2018.07.01-23.08.30:011][740]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5150.000 Z=241.930
+[2018.07.01-23.08.30:302][761]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5250.000 Z=241.930
+[2018.07.01-23.08.30:588][784]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5350.000 Z=241.931
+[2018.07.01-23.08.30:865][804]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5450.000 Z=241.931
+[2018.07.01-23.08.31:143][823]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5550.000 Z=241.667
+[2018.07.01-23.08.31:428][843]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5650.000 Z=241.930
+[2018.07.01-23.08.31:700][862]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5750.000 Z=241.930
+[2018.07.01-23.08.31:972][881]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5850.000 Z=241.931
+[2018.07.01-23.08.32:258][902]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=5950.000 Z=241.932
+[2018.07.01-23.08.32:543][922]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6050.000 Z=241.931
+[2018.07.01-23.08.32:823][942]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6150.000 Z=241.484
+[2018.07.01-23.08.33:100][961]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6250.000 Z=241.931
+[2018.07.01-23.08.33:373][980]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6350.000 Z=241.931
+[2018.07.01-23.08.33:663][  0]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6450.000 Z=241.931
+[2018.07.01-23.08.33:938][ 19]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6550.000 Z=241.931
+[2018.07.01-23.08.34:233][ 39]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6650.000 Z=241.785
+[2018.07.01-23.08.34:514][ 58]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6750.000 Z=241.932
+[2018.07.01-23.08.34:801][ 81]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6850.000 Z=241.930
+[2018.07.01-23.08.35:093][105]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=6950.000 Z=241.930
+[2018.07.01-23.08.35:389][126]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=7050.000 Z=241.930
+[2018.07.01-23.08.35:676][146]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=7150.000 Z=241.931
+[2018.07.01-23.08.35:964][166]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=7250.000 Z=241.933
+[2018.07.01-23.08.36:247][186]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=7350.000 Z=241.813
+[2018.07.01-23.08.36:534][207]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=7450.000 Z=241.932
+[2018.07.01-23.08.36:820][226]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=7550.000 Z=241.932
+[2018.07.01-23.08.37:104][244]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=7650.000 Z=241.932
+[2018.07.01-23.08.37:373][261]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=7750.000 Z=241.931
+[2018.07.01-23.08.37:652][278]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=7850.000 Z=241.932
+[2018.07.01-23.08.37:930][296]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=7950.000 Z=241.933
+[2018.07.01-23.08.38:216][314]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=8050.000 Z=241.930
+[2018.07.01-23.08.38:498][331]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=8150.000 Z=241.932
+[2018.07.01-23.08.38:786][348]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=8250.000 Z=241.929
+[2018.07.01-23.08.39:059][364]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=8350.000 Z=241.933
+[2018.07.01-23.08.39:335][381]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=8450.000 Z=241.930
+[2018.07.01-23.08.39:622][399]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=8550.000 Z=241.931
+[2018.07.01-23.08.39:901][416]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=8650.000 Z=241.931
+[2018.07.01-23.08.40:193][434]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=8750.000 Z=241.932
+[2018.07.01-23.08.40:472][452]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=8850.000 Z=241.931
+[2018.07.01-23.08.40:749][469]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=8950.000 Z=241.931
+[2018.07.01-23.08.41:039][489]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9050.000 Z=241.932
+[2018.07.01-23.08.41:322][508]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9150.000 Z=241.578
+[2018.07.01-23.08.41:605][526]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9250.000 Z=241.932
+[2018.07.01-23.08.41:889][544]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9350.000 Z=241.932
+[2018.07.01-23.08.42:159][562]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9450.000 Z=241.933
+[2018.07.01-23.08.42:446][581]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9550.000 Z=241.932
+[2018.07.01-23.08.42:741][598]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9650.000 Z=241.932
+[2018.07.01-23.08.43:034][616]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9750.000 Z=241.932
+[2018.07.01-23.08.43:314][634]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9850.000 Z=241.931
+[2018.07.01-23.08.43:604][652]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=9950.000 Z=241.932
+[2018.07.01-23.08.43:882][670]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=10050.000 Z=241.931
+[2018.07.01-23.08.44:176][691]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=10150.000 Z=241.932
+[2018.07.01-23.08.44:459][710]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=10250.000 Z=241.931
+[2018.07.01-23.08.44:734][727]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=10350.000 Z=241.931
+[2018.07.01-23.08.45:019][746]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=10450.000 Z=241.930
+[2018.07.01-23.08.45:316][765]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=10550.000 Z=241.930
+[2018.07.01-23.08.45:602][783]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=10650.000 Z=241.929
+[2018.07.01-23.08.45:877][799]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=10750.000 Z=241.933
+[2018.07.01-23.08.46:154][816]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=10850.000 Z=241.931
+[2018.07.01-23.08.46:436][834]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=10950.000 Z=241.407
+[2018.07.01-23.08.46:718][852]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=11050.000 Z=241.931
+[2018.07.01-23.08.47:004][870]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=11150.000 Z=241.931
+[2018.07.01-23.08.47:286][888]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=11250.000 Z=241.930
+[2018.07.01-23.08.47:564][906]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=11350.000 Z=241.930
+[2018.07.01-23.08.47:850][923]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=11450.000 Z=241.932
+[2018.07.01-23.08.48:124][942]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=11550.000 Z=241.931
+[2018.07.01-23.08.48:401][960]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=11650.000 Z=241.930
+[2018.07.01-23.08.48:688][978]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=11750.000 Z=241.932
+[2018.07.01-23.08.48:975][997]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=11850.000 Z=241.930
+[2018.07.01-23.08.49:257][ 15]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=11950.000 Z=241.931
+[2018.07.01-23.08.49:549][ 34]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=12050.000 Z=241.933
+[2018.07.01-23.08.49:824][ 52]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=12150.000 Z=241.930
+[2018.07.01-23.08.50:113][ 71]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=12250.000 Z=241.933
+[2018.07.01-23.08.50:407][ 90]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=12350.000 Z=241.932
+[2018.07.01-23.08.50:685][108]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=12450.000 Z=241.931
+[2018.07.01-23.08.50:965][126]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=12550.000 Z=241.930
+[2018.07.01-23.08.51:241][144]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=12650.000 Z=241.931
+[2018.07.01-23.08.51:534][163]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=12750.000 Z=241.930
+[2018.07.01-23.08.51:817][183]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=12850.000 Z=241.931
+[2018.07.01-23.08.52:104][202]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=12950.000 Z=241.932
+[2018.07.01-23.08.52:394][222]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=13050.000 Z=241.932
+[2018.07.01-23.08.52:671][241]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=13150.000 Z=241.931
+[2018.07.01-23.08.52:959][261]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=13250.000 Z=241.703
+[2018.07.01-23.08.53:245][281]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=13350.000 Z=241.931
+[2018.07.01-23.08.53:530][301]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=13450.000 Z=241.930
+[2018.07.01-23.08.53:819][321]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=13550.000 Z=241.931
+[2018.07.01-23.08.54:101][340]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=13650.000 Z=241.812
+[2018.07.01-23.08.54:381][360]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=13750.000 Z=241.931
+[2018.07.01-23.08.54:672][381]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=13850.000 Z=241.930
+[2018.07.01-23.08.54:946][400]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=13950.000 Z=240.968
+[2018.07.01-23.08.55:238][420]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=14050.000 Z=241.932
+[2018.07.01-23.08.55:517][438]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=14150.000 Z=241.933
+[2018.07.01-23.08.55:802][456]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=14250.000 Z=241.931
+[2018.07.01-23.08.56:095][477]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=14350.000 Z=241.930
+[2018.07.01-23.08.56:387][498]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=14450.000 Z=241.013
+[2018.07.01-23.08.56:680][519]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=14550.000 Z=241.492
+[2018.07.01-23.08.56:970][540]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=14650.000 Z=241.517
+[2018.07.01-23.08.57:268][561]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=14750.000 Z=241.930
+[2018.07.01-23.08.57:557][582]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=14850.000 Z=241.931
+[2018.07.01-23.08.57:852][603]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=14950.000 Z=241.334
+[2018.07.01-23.08.58:152][624]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=15050.000 Z=241.930
+[2018.07.01-23.08.58:446][645]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=15150.000 Z=266.224
+[2018.07.01-23.08.58:738][666]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=15250.000 Z=266.258
+[2018.07.01-23.08.59:018][686]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=15350.000 Z=241.933
+[2018.07.01-23.08.59:311][707]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=15450.000 Z=241.932
+[2018.07.01-23.08.59:603][728]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=15550.000 Z=266.224
+[2018.07.01-23.08.59:898][749]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=15650.000 Z=241.933
+[2018.07.01-23.09.00:195][770]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=15750.000 Z=241.930
+[2018.07.01-23.09.00:488][791]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=15850.000 Z=241.932
+[2018.07.01-23.09.00:784][812]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=15950.000 Z=241.930
+[2018.07.01-23.09.01:083][833]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=16050.000 Z=241.931
+[2018.07.01-23.09.01:375][854]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=16150.000 Z=241.930
+[2018.07.01-23.09.01:664][875]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=16250.000 Z=241.932
+[2018.07.01-23.09.01:961][896]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=16350.000 Z=241.930
+[2018.07.01-23.09.02:251][917]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=16450.000 Z=241.930
+[2018.07.01-23.09.02:543][938]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=16550.000 Z=241.932
+[2018.07.01-23.09.02:835][959]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=16650.000 Z=241.930
+[2018.07.01-23.09.03:122][979]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=16750.000 Z=241.931
+[2018.07.01-23.09.03:410][  0]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=16850.000 Z=241.932
+[2018.07.01-23.09.03:700][ 21]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=16950.000 Z=241.932
+[2018.07.01-23.09.03:977][ 41]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=17050.000 Z=241.931
+[2018.07.01-23.09.04:255][ 61]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=17150.000 Z=266.224
+[2018.07.01-23.09.04:546][ 82]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=17250.000 Z=266.259
+[2018.07.01-23.09.04:838][103]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=17350.000 Z=241.933
+[2018.07.01-23.09.05:128][124]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=17450.000 Z=241.446
+[2018.07.01-23.09.05:421][145]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=17550.000 Z=241.930
+[2018.07.01-23.09.05:711][166]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=17650.000 Z=241.932
+[2018.07.01-23.09.06:000][187]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=17750.000 Z=241.929
+[2018.07.01-23.09.06:292][208]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=17850.000 Z=241.932
+[2018.07.01-23.09.06:587][229]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=17950.000 Z=241.932
+[2018.07.01-23.09.06:880][250]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=18050.000 Z=241.932
+[2018.07.01-23.09.07:174][271]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=18150.000 Z=241.196
+[2018.07.01-23.09.07:464][292]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=18250.000 Z=241.932
+[2018.07.01-23.09.07:760][313]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=18350.000 Z=241.932
+[2018.07.01-23.09.08:053][333]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=18450.000 Z=241.930
+[2018.07.01-23.09.08:347][354]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=18550.000 Z=241.932
+[2018.07.01-23.09.08:633][374]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=18650.000 Z=241.930
+[2018.07.01-23.09.08:920][394]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=18750.000 Z=241.930
+[2018.07.01-23.09.09:213][414]LogBlueprintUserMessages: [Main_Character_C_0] X=-150.000 Y=18850.000 Z=266.214
+[2018.07.01-23.09.09:496][434]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=18950.000 Z=265.428
+[2018.07.01-23.09.09:788][455]LogBlueprintUserMessages: [Main_Character_C_0] X=50.000 Y=19050.000 Z=266.259
+[2018.07.01-23.09.10:078][475]LogBlueprintUserMessages: [Main_Character_C_0] X=150.000 Y=19150.000 Z=266.230
+[2018.07.01-23.09.10:369][496]LogBlueprintUserMessages: [Main_Character_C_0] X=250.000 Y=19250.000 Z=266.266
+[2018.07.01-23.09.10:662][517]LogBlueprintUserMessages: [Main_Character_C_0] X=150.000 Y=19350.000 Z=266.263
+[2018.07.01-23.09.10:947][537]LogBlueprintUserMessages: [Main_Character_C_0] X=50.000 Y=19450.000 Z=266.258
+[2018.07.01-23.09.11:231][557]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=19550.000 Z=266.255
+[2018.07.01-23.09.11:521][578]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=19650.000 Z=266.231
+[2018.07.01-23.09.11:813][599]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=19750.000 Z=266.247
+[2018.07.01-23.09.12:109][620]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=19850.000 Z=266.263
+[2018.07.01-23.09.12:400][641]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=19950.000 Z=266.213
+[2018.07.01-23.09.12:693][662]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=20050.000 Z=266.231
+[2018.07.01-23.09.12:979][682]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=20150.000 Z=266.245
+[2018.07.01-23.09.13:263][703]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=20250.000 Z=266.262
+[2018.07.01-23.09.13:555][724]LogBlueprintUserMessages: [Main_Character_C_0] X=-150.000 Y=20350.000 Z=266.265
+[2018.07.01-23.09.13:854][745]LogBlueprintUserMessages: [Main_Character_C_0] X=-150.000 Y=20450.000 Z=266.217
+[2018.07.01-23.09.14:149][766]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=20550.000 Z=241.933
+[2018.07.01-23.09.14:440][787]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=20650.000 Z=240.919
+[2018.07.01-23.09.14:733][808]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=20750.000 Z=241.930
+[2018.07.01-23.09.15:029][829]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=20850.000 Z=241.930
+[2018.07.01-23.09.15:318][850]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=20950.000 Z=241.930
+[2018.07.01-23.09.15:610][871]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=21050.000 Z=241.931
+[2018.07.01-23.09.15:900][892]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=21150.000 Z=241.932
+[2018.07.01-23.09.16:195][913]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=21250.000 Z=241.930
+[2018.07.01-23.09.16:484][934]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=21350.000 Z=241.932
+[2018.07.01-23.09.16:779][955]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=21450.000 Z=241.930
+[2018.07.01-23.09.17:071][976]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=21550.000 Z=241.932
+[2018.07.01-23.09.17:361][997]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=21650.000 Z=241.932
+[2018.07.01-23.09.17:654][ 18]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=21750.000 Z=241.668
+[2018.07.01-23.09.17:946][ 39]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=21850.000 Z=266.239
+[2018.07.01-23.09.18:242][ 60]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=21950.000 Z=266.226
+[2018.07.01-23.09.18:532][ 81]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=22050.000 Z=266.228
+[2018.07.01-23.09.18:828][102]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=22150.000 Z=266.242
+[2018.07.01-23.09.19:124][123]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=22250.000 Z=266.244
+[2018.07.01-23.09.19:415][144]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=22350.000 Z=241.933
+[2018.07.01-23.09.19:709][165]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=22450.000 Z=266.255
+[2018.07.01-23.09.19:998][186]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=22550.000 Z=266.259
+[2018.07.01-23.09.20:286][207]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=22650.000 Z=266.259
+[2018.07.01-23.09.20:578][228]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=22750.000 Z=265.832
+[2018.07.01-23.09.20:870][249]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=22850.000 Z=265.658
+[2018.07.01-23.09.21:159][270]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=22950.000 Z=241.933
+[2018.07.01-23.09.21:449][291]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=23050.000 Z=241.929
+[2018.07.01-23.09.21:741][312]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=23150.000 Z=241.932
+[2018.07.01-23.09.22:033][333]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=23250.000 Z=241.930
+[2018.07.01-23.09.22:321][354]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=23350.000 Z=241.931
+[2018.07.01-23.09.22:617][375]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=23450.000 Z=241.932
+[2018.07.01-23.09.22:907][396]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=23550.000 Z=241.932
+[2018.07.01-23.09.23:200][417]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=23650.000 Z=266.255
+[2018.07.01-23.09.23:489][438]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=23750.000 Z=241.933
+[2018.07.01-23.09.23:779][459]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=23850.000 Z=266.239
+[2018.07.01-23.09.24:056][479]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=23950.000 Z=244.449
+[2018.07.01-23.09.24:347][497]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=24050.000 Z=266.255
+[2018.07.01-23.09.24:630][517]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=24150.000 Z=241.933
+[2018.07.01-23.09.24:906][535]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=24250.000 Z=266.239
+[2018.07.01-23.09.25:167][553]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=24350.000 Z=241.933
+[2018.07.01-23.09.25:450][572]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=24450.000 Z=241.932
+[2018.07.01-23.09.25:728][590]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=24550.000 Z=241.931
+[2018.07.01-23.09.25:998][607]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=24650.000 Z=241.933
+[2018.07.01-23.09.26:276][626]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=24750.000 Z=241.931
+[2018.07.01-23.09.26:570][647]LogBlueprintUserMessages: [Main_Character_C_0] X=-150.000 Y=24850.000 Z=266.215
+[2018.07.01-23.09.26:863][668]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=24950.000 Z=266.245
+[2018.07.01-23.09.27:149][688]LogBlueprintUserMessages: [Main_Character_C_0] X=50.000 Y=25050.000 Z=266.258
+[2018.07.01-23.09.27:446][709]LogBlueprintUserMessages: [Main_Character_C_0] X=150.000 Y=25150.000 Z=266.230
+[2018.07.01-23.09.27:742][730]LogBlueprintUserMessages: [Main_Character_C_0] X=250.000 Y=25250.000 Z=266.264
+[2018.07.01-23.09.28:026][750]LogBlueprintUserMessages: [Main_Character_C_0] X=350.000 Y=25350.000 Z=241.933
+[2018.07.01-23.09.28:319][771]LogBlueprintUserMessages: [Main_Character_C_0] X=350.000 Y=25450.000 Z=241.932
+[2018.07.01-23.09.28:600][791]LogBlueprintUserMessages: [Main_Character_C_0] X=450.000 Y=25550.000 Z=241.932
+[2018.07.01-23.09.28:893][812]LogBlueprintUserMessages: [Main_Character_C_0] X=350.000 Y=25650.000 Z=241.930
+[2018.07.01-23.09.29:184][832]LogBlueprintUserMessages: [Main_Character_C_0] X=250.000 Y=25750.000 Z=266.245
+[2018.07.01-23.09.29:475][853]LogBlueprintUserMessages: [Main_Character_C_0] X=350.000 Y=25850.000 Z=241.933
+[2018.07.01-23.09.29:767][874]LogBlueprintUserMessages: [Main_Character_C_0] X=450.000 Y=25950.000 Z=241.930
+[2018.07.01-23.09.30:054][895]LogBlueprintUserMessages: [Main_Character_C_0] X=550.000 Y=26050.000 Z=241.931
+[2018.07.01-23.09.30:349][916]LogBlueprintUserMessages: [Main_Character_C_0] X=650.000 Y=26150.000 Z=241.930
+[2018.07.01-23.09.30:630][936]LogBlueprintUserMessages: [Main_Character_C_0] X=750.000 Y=26250.000 Z=266.254
+[2018.07.01-23.09.30:924][957]LogBlueprintUserMessages: [Main_Character_C_0] X=850.000 Y=26350.000 Z=266.226
+[2018.07.01-23.09.31:220][978]LogBlueprintUserMessages: [Main_Character_C_0] X=750.000 Y=26450.000 Z=266.226
+[2018.07.01-23.09.31:516][999]LogBlueprintUserMessages: [Main_Character_C_0] X=750.000 Y=26550.000 Z=266.242
+[2018.07.01-23.09.31:807][ 20]LogBlueprintUserMessages: [Main_Character_C_0] X=650.000 Y=26650.000 Z=241.933
+[2018.07.01-23.09.32:092][ 40]LogBlueprintUserMessages: [Main_Character_C_0] X=550.000 Y=26750.000 Z=241.931
+[2018.07.01-23.09.32:388][ 61]LogBlueprintUserMessages: [Main_Character_C_0] X=450.000 Y=26850.000 Z=241.930
+[2018.07.01-23.09.32:663][ 79]LogBlueprintUserMessages: [Main_Character_C_0] X=350.000 Y=26950.000 Z=241.931
+[2018.07.01-23.09.32:948][ 98]LogBlueprintUserMessages: [Main_Character_C_0] X=250.000 Y=27050.000 Z=266.229
+[2018.07.01-23.09.33:228][115]LogBlueprintUserMessages: [Main_Character_C_0] X=150.000 Y=27150.000 Z=266.231
+[2018.07.01-23.09.33:501][133]LogBlueprintUserMessages: [Main_Character_C_0] X=50.000 Y=27250.000 Z=266.245
+[2018.07.01-23.09.33:791][151]LogBlueprintUserMessages: [Main_Character_C_0] X=-50.000 Y=27350.000 Z=266.246
+[2018.07.01-23.09.34:078][169]LogBlueprintUserMessages: [Main_Character_C_0] X=-150.000 Y=27450.000 Z=266.250
+[2018.07.01-23.09.34:360][188]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=27550.000 Z=241.933
+[2018.07.01-23.09.34:645][207]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=27650.000 Z=241.931
+[2018.07.01-23.09.34:927][226]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=27750.000 Z=241.932
+[2018.07.01-23.09.35:204][244]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=27850.000 Z=241.933
+[2018.07.01-23.09.35:482][263]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=27950.000 Z=241.931
+[2018.07.01-23.09.35:773][283]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=28050.000 Z=266.256
+[2018.07.01-23.09.36:069][302]LogBlueprintUserMessages: [Main_Character_C_0] X=-850.000 Y=28150.000 Z=266.245
+[2018.07.01-23.09.36:363][322]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=28250.000 Z=266.243
+[2018.07.01-23.09.36:643][341]LogBlueprintUserMessages: [Main_Character_C_0] X=-750.000 Y=28350.000 Z=266.228
+[2018.07.01-23.09.36:931][356]LogBlueprintUserMessages: [Main_Character_C_0] X=-650.000 Y=28450.000 Z=246.129
+[2018.07.01-23.09.37:217][375]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=28550.000 Z=241.932
+[2018.07.01-23.09.37:499][393]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=28650.000 Z=241.064
+[2018.07.01-23.09.37:783][410]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=28750.000 Z=240.996
+[2018.07.01-23.09.38:067][428]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=28850.000 Z=241.933
+[2018.07.01-23.09.38:343][445]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=28950.000 Z=241.931
+[2018.07.01-23.09.38:624][464]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=29050.000 Z=241.931
+[2018.07.01-23.09.38:893][480]LogBlueprintUserMessages: [Main_Character_C_0] X=-550.000 Y=29150.000 Z=241.931
+[2018.07.01-23.09.39:176][498]LogBlueprintUserMessages: [Main_Character_C_0] X=-450.000 Y=29250.000 Z=241.931
+[2018.07.01-23.09.39:467][514]LogBlueprintUserMessages: [Main_Character_C_0] X=-350.000 Y=29350.000 Z=241.932
+[2018.07.01-23.09.39:752][532]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=29450.000 Z=241.931
+[2018.07.01-23.09.40:054][550]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=29550.000 Z=241.434
+[2018.07.01-23.09.40:307][569]LogBlueprintUserMessages: [Main_Character_C_0] X=-250.000 Y=29650.000 Z=241.928
+[2018.07.01-23.09.40:416][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Project/Maps/Main.Main:PersistentLevel.Main'
+[2018.07.01-23.09.40:463][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Project/Maps/Main.Main:PersistentLevel.Main'
