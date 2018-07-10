@@ -1,6 +1,6 @@
 ﻿# EndlessRunning
 Um prototipo de endless running.
-Current Ver: Alpha 1.1.0
+Current Ver: Alpha 1.2.0
 
 -- Objetivos:
 1 - aprender um pouco sobre a unreal engine 4
@@ -16,3 +16,10 @@ Current Ver: Alpha 1.1.0
 2 - Blender 2.7.9b (rip beta, cheio de bugs apesar de muitas vantagens)
 3 - Source Tree
 4 - Krita 4.1.0
+
+-- Objetivos da Alpha 1:
+1 - modelar os predios principais da bps
+2 - criar um sistema de geração de chunks
+3 - adicionar todos os npcs e veiculos ja prontos
+4 - criar um sistema de spawn aleatorio de veiculos e npcs
+
