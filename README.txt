@@ -1,6 +1,6 @@
 ﻿# EndlessRunning
 Um prototipo de endless running.
-Current Ver: Alpha 1.3.0
+Current Ver: Alpha 1.4.0
 
 -- Objetivos:
 1 - aprender um pouco sobre a unreal engine 4
