@@ -1,0 +1,54 @@
+- Alpha 1:
+	- Adicionado:
+		- Movimentação do personagem:
+		Personagem pode se mover para os lados e altenar entre ruas.
+		- Modelado alguns predios:
+		Unifei, Rei Burgão com Dom Pepe e 2 casas aleatorias
+		- Modelado alguns assets de npcs:
+		Modelado 2 de cada, cabeças, braços, corpos, pernas, pes, acessórios e chapeus e uma cabeça a mais sendo masculina.
+		- Criado um banco de dados de construções, npcs e veiculos
+		- Criado sistema de geração de spawn aleatorio de chuncks
+		- Criado sistema de geração de spawn aleatorio de npcs e veiculos
+		- Criado a IA de veiculos e NPC
+		- Criado uma tela de loading
+		- Ajustado a movimentação com o touch (ou mouse)
+
+	- Informações técnicas:
+		- Personagem principal:
+			- Se move para os lados e para frente, de 1 em 1 metro
+			- O comando de mover-se para os lados tem um delay de 0.2 segundos e não tem como mandar esse comando dependendo da coluna que o player estiver, para ele não entrar em predios e passar por cima do rio. Mandar um novo comando antes do delay terminar é desconsiderado. Ao mandar um comando, assim que o player for pular ele mudará de lado junto, não podendo mudar de lado durante um pulo em que não era para se mudar de lado, ele esperará esse pulo terminar e mudará para o lado que foi designado no próximo pula. Um comando pode ser cancelado mandando ele para o lado oposto do que foi mandado antes de ele fazer a acão
+			- Pode se mover entre ruas por meio das pontes e passarelas. Chegando 2 metros antes de chegar no quadrado da ponte/passarela abilita que o player possa mandar o comando de mover para o lado, esse comando pode ser cancelado mandando ele ir para o lado oposto antes de chegar no local que o player irá virar, se o comando não for cancelado ao chegar no local da ponte/passarela o player irá virar. Pontes que são grandes, se o comando for mandado enquanto esta passando pela ponte ele irá automaticamente, mas o sistema de 2 metros antes funciona normalmente então pode ser mandado o comando antes. Quando o player entra em uma ponte/passarela ele atravessa ate o fim e fica parado, podendo ficar o tempo que quiser, nesse momento pode dar dois comandos, um para sair (touch em direção a rua) e um para voltar para o outro lado (touch em direção ou outro lado). Ao sair do local em que tem ponte/passarela ele desabilita essa função, para ser abilitada novamente apenas na proxima ponte/passarela para que ele não abilite a função em uma ponte e sua função seja feita na proxima ponte (caso a função seja pedida durante o ultimo pulo por exemplo)
+			- Posição da camera é padrão, dada pela posição da camerá que esta na construção da classe. A camera segue o personagem mas tenta manter seu eixo z intacto (tanta pelo menos)
+			- A field of view da camera é definida por uma formula: 30*(taxa do formato da tela) + 30, essa FoV é calculada a cada tick do jogo, o que pode ser um pouco prejudicial. Ela é necessária para quando o jogador alterna entre portrait e landscape alem de deixar a multiresolução mais bacana
+			- Altura do pulo: 20
+			- Tempo de animação: 0.1 segundo
+			- Tempo de demora para pular: 0.5 segundos
+				- Primeiro é feita a animação, depois ele pula
+
+		- NPCs e veiculos:
+			- Separado por assets: acessórios, braços manga curta, braçoes manga comprida, cabeças, chapeus, corpos, pernas e pes. Tendo cada um deles tanto para masculino quanto para feminino. Assets unissex devem ser adicionados em ambos os bancos de dados
+			- Tom de pele podem ser escolhido em uma variavel na classe NPC_Default (CoresDePele, array de Linear Color) e a probabilidade de ser algum tom de pele é a mesma para todos (apesar de que se tem apenas um tom de pele definido por enquanto)
+			- Ciclistas não estão aleatórios, não possuem banco de dados e nem assets diferenciados
+			- No banco de dados pode ser escolhido qual o material é a pele, caso não tenha pele no assets (uma blusa por exemplo) deve ser colocado -1. Pode ser escolhido quais materias serão aleatorios e quais serão essas cores, preferivel dessa forma para não ter cores exageradamente aleatorias e fora de contexto. Para cabeças pode ser escolhido se a cabeça aceita chapeu, para corpos pode ser escolhido se o corpo precisa necessariamente que o braço seja manga comprida.
+			- O spawn de npcs e veiculos é feitos a cada 2 segundos no ultimo tile padrão, e também toda vez que um chunck é criado (um spawn por cada tile padrão criado no chunck). Esse spawn tem numero de vezes que acontece em um tile e probabilidade para cada numero de vez que acontece variaveis, definida por enquanto em 100% de chance de spawnar 1 npc por tile (podendo ser variado para almentar a dificuldade durante o jogo). Dois npcs nunca spawnaram no mesmo lugar. Em um tile temos 4 slots para npcs, 4 para carros e 1 para bicicletas e a probabilidade de spawnar um deles é a mesma
+			- Probabilidade de ser homem/mulher: 50%
+			- Probabilidade de ter chapeu: 30%
+			- Probabilidade de ter 0/1/2 acessórios: 33.33%
+			- Altura do pulo: 15
+			- Tempo de animação: 0.1 segundo
+			- Tempo de demora para pular: 0.5 segundos
+			- Velocidade do veiculo: 10
+			- Velocidade da bicicleta: 6
+			- Despawn é feito quando o objeto fica 20m para trás do player (checado a cada pulo para npcs e tick para veiculos)
+
+		- Construções:
+			- Dividida em 3 tipos de construções: 12m, 16m e 20m. Dessa forma podemos criar o chunck com mais facilidade. Esses metros referem-se ao tamanho do modelo, com a escala 1:1 ele vai do ponto 0m até o ponto de seu tipo. Isso é ajustado no modelo do blender mesmo.
+			- No banco de dados pode ser escolhido a static mesh, quais materiais terão cores aleatórias e quais serão essas cores para cada predio, igual aos npcs.
+			- Banco de dados separado para cada tipo de construção
+		
+		- Tiles e chuncks:
+			- Possuimos 7 tipos de tiles: Unifei, Rua para direita, rua para esquerda, rua para ambos os lados, passarela, ponte e padrão
+			- Os chuncks são gerados adicionando 10 tiles padrões e um tile aleatorio (com mesma probabilidade para todos) excluindo unifei e tile padrão (para passarelas é adicionado um tile padrão extra). Dessa forma todos os chuncks tem 48 metros, porem como temos ruas para os lados o tamanho possivel para construções é 40 e 48 metros, em que 40 metros é para o lado que terá uma rua (4 metros para 2 calçadas e 4 metros para rua). O local de spawn é calculado baseado em um ponto float designado por um objeto do tipo arrow no tile (não visivel no jogo), podendo gerar erros ao seguir para o infinito, porem tende a não gerar erros de encaixe nos tiles (precisa ser verificado mais a fundo como ele segue ao infinito)
+			- As construções aleatórias são geradas dependendo do espaço disponivel para elas: 40 metros é possivel que gere contruções de 12, 12 e 16 metros ou 20 e 20 metros em ordem aleatoria. 48 metros é possivel que gere construções de 12, 16 e 20 metros ou 16, 16 e 16 metros em ordem aleatoria. O local do spawn é calculado a cada predio adicionado, assim ao seguir para um infinito ele manterá um padrão
+			- Despawn é feito a cada chunck novo gerado, deixando sempre um chanck atrás do player
+			- Unifei sempre spawna no começo, e são gerados 4 predios de 12m aleatórios com ela. Seu despawn é feito quando ela fica a 100m do player (checado a cada tick)
