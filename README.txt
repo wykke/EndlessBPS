@@ -23,4 +23,4 @@ Current Ver: Alpha 2
 3 - criar um sistema de geração de criação de personagem
 4 - criar um sistema de skins
 5 - criar um game over
-6 - criar uma quest de testes para liberar uma skin
+6 - otimizar o jogo para mobile

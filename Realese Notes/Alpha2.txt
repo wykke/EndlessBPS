@@ -1,0 +1,14 @@
+- Alpha 2:
+	- Adicionado:
+		- Adicionado um mapa de inicio para o jogo (carregando):
+		Apresenta o logo da unifei e as palavras "carregando kkk... XD"
+		- Adicionado menu de skins e configurações:
+		Menu de configurações precisa de um rework, menu de skin com personagem que gira OwO
+		- Adicionado a mudança de skin, o save game, e a variavel que guarda skins liberadas:
+		Por hora tem a skin default e a do dollynho, que em breve será removida (?)
+		- Adicionado um gameover:
+		Ao bater em algum npc, o personagem principal cai no chão
+		- Ajustado a movimentação do personagem e da camera (esta mais suave):
+		Camera agora não fica indo e parando
+		- Otimizado o jogo para celular:
+		Muitas e muitas configurações feitas, refeito muitos scripts
