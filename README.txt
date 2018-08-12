@@ -17,10 +17,6 @@ Current Ver: Alpha 2
 3 - Source Tree
 4 - Krita 4.1.0
 
--- Objetivos da Alpha 2:
-1 - criar todos os menus
-2 - criar um inicio para o jogo
-3 - criar um sistema de geração de criação de personagem
-4 - criar um sistema de skins
-5 - criar um game over
-6 - otimizar o jogo para mobile
+-- Objetivos da Alpha 3:
+1 - criar quests
+2 - criar sistema de itens utilizaveis
