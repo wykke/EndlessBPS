@@ -8306,3 +8306,802 @@ LogInit: Object subsystem initialized
 [2018.08.13-19.43.32:689][315]LogPlayLevel: Display: Shutting down PIE online subsystems
 [2018.08.13-19.43.32:690][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
 [2018.08.13-19.43.32:778][316]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2018.08.13-19.47.05:368][670]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-19.47.05:399][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.47.05:399][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-19.47.05:399][670]PIE: New page: PIE session: Main (Aug 13, 2018, 1:47:05 PM)
+[2018.08.13-19.47.05:400][670]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-19.47.05:402][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001987s)
+[2018.08.13-19.47.05:402][670]LogAIModule: Creating AISystem for world Main
+[2018.08.13-19.47.05:403][670]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2018.08.13-19.47.05:403][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002989s)
+[2018.08.13-19.47.05:458][670]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-19.47.05:470][670]LogInit: FAudioDevice initialized.
+[2018.08.13-19.47.05:504][670]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-19.47.05:505][670]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-16.47.05
+[2018.08.13-19.47.05:506][670]LogWorld: Bringing up level for play took: 0.000573
+[2018.08.13-19.47.05:545][670]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=12150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.47.05:559][670]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main -0.75
+[2018.08.13-19.47.05:559][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.47.06:352][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.47.08:004][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.47.08:005][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.47.08:054][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-19.47.08:055][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.47.08:096][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.47.08:110][753]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2018.08.13-19.47.09:954][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-19.48.58:830][267]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-19.49.00:557][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-19.49.01:146][316]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameMode48535A2A489C936ABA4E8ABFFCB00AFA.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-19.50.43:337][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-19.50.43:933][426]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameModeBBAAC2B0464B19EB3A03DAB79E55CE75.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-19.51.14:100][221]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-19.51.15:193][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-19.51.15:784][243]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameMode7C6B622940F3A49C42543E8501C596BE.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-19.51.16:721][299]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-19.51.16:748][299]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.51.16:748][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-19.51.16:748][299]PIE: New page: PIE session: Main (Aug 13, 2018, 1:51:16 PM)
+[2018.08.13-19.51.16:748][299]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-19.51.16:750][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001773s)
+[2018.08.13-19.51.16:751][299]LogAIModule: Creating AISystem for world Main
+[2018.08.13-19.51.16:751][299]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2018.08.13-19.51.16:751][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002801s)
+[2018.08.13-19.51.16:806][299]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-19.51.16:818][299]LogInit: FAudioDevice initialized.
+[2018.08.13-19.51.16:827][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.51.16:867][299]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-19.51.16:868][299]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-16.51.16
+[2018.08.13-19.51.16:869][299]LogWorld: Bringing up level for play took: 0.000905
+[2018.08.13-19.51.16:898][299]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=7750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.51.16:933][299]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.625
+[2018.08.13-19.51.16:934][299]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.51.18:707][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.51.18:707][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.51.18:756][355]LogSlate: Window 'EndlessRunning Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.13-19.51.18:806][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-19.51.18:806][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.51.18:881][356]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2018.08.13-19.51.19:794][383]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-19.51.19:864][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.51.19:864][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-19.51.19:864][383]PIE: New page: PIE session: Main (Aug 13, 2018, 1:51:19 PM)
+[2018.08.13-19.51.19:865][383]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-19.51.19:867][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001840s)
+[2018.08.13-19.51.19:868][383]LogAIModule: Creating AISystem for world Main
+[2018.08.13-19.51.19:868][383]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.08.13-19.51.19:868][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002813s)
+[2018.08.13-19.51.19:922][383]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-19.51.19:933][383]LogInit: FAudioDevice initialized.
+[2018.08.13-19.51.19:963][383]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-19.51.19:964][383]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-16.51.19
+[2018.08.13-19.51.19:964][383]LogWorld: Bringing up level for play took: 0.000461
+[2018.08.13-19.51.19:990][383]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=7750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.51.20:024][383]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main -0.285
+[2018.08.13-19.51.20:024][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.51.53:899][270]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.52.07:565][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.52.07:566][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.52.07:627][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-19.52.07:627][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.52.07:670][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.52.07:689][620]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2018.08.13-19.52.09:468][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-19.52.19:429][249]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-19.52.20:222][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-19.52.20:806][255]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameMode47D07E6441AA59C5139CEF8D89159FA6.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-19.52.22:537][335]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-19.52.22:605][335]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.52.22:606][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-19.52.22:606][335]PIE: New page: PIE session: Main (Aug 13, 2018, 1:52:22 PM)
+[2018.08.13-19.52.22:606][335]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-19.52.22:609][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002665s)
+[2018.08.13-19.52.22:610][335]LogAIModule: Creating AISystem for world Main
+[2018.08.13-19.52.22:610][335]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2018.08.13-19.52.22:610][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.003649s)
+[2018.08.13-19.52.22:669][335]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-19.52.22:680][335]LogInit: FAudioDevice initialized.
+[2018.08.13-19.52.22:712][335]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-19.52.22:713][335]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-16.52.22
+[2018.08.13-19.52.22:713][335]LogWorld: Bringing up level for play took: 0.000509
+[2018.08.13-19.52.22:736][335]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=7350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.52.22:752][335]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=599.962 Y=11750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.52.22:753][335]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=599.962 Y=12150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.52.22:767][335]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.458
+[2018.08.13-19.52.22:767][335]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.52.28:568][482]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=399.962 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.52.40:565][810]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=399.962 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.52.43:551][887]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=399.962 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.52.57:034][220]LogEditorViewport: Clicking on Actor (context menu): Tile_Default_C (Tile_Default16)
+[2018.08.13-19.52.57:666][220]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-19.52.59:215][286]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.08.13-19.53.03:727][382]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=399.962 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.53.09:143][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.53.09:143][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.53.09:190][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-19.53.09:191][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.53.09:236][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.53.09:325][504]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2018.08.13-19.53.10:189][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-19.53.22:654][164]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-19.53.25:004][242]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-19.53.25:108][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.53.25:108][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-19.53.25:108][242]PIE: New page: PIE session: Main (Aug 13, 2018, 1:53:25 PM)
+[2018.08.13-19.53.25:108][242]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-19.53.25:110][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001933s)
+[2018.08.13-19.53.25:111][242]LogAIModule: Creating AISystem for world Main
+[2018.08.13-19.53.25:111][242]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2018.08.13-19.53.25:111][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002828s)
+[2018.08.13-19.53.25:168][242]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-19.53.25:178][242]LogInit: FAudioDevice initialized.
+[2018.08.13-19.53.25:209][242]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-19.53.25:210][242]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-16.53.25
+[2018.08.13-19.53.25:211][242]LogWorld: Bringing up level for play took: 0.000661
+[2018.08.13-19.53.25:238][242]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=8550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.53.25:264][242]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.954
+[2018.08.13-19.53.25:264][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.53.35:516][522]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=249.962 Y=14550.000 Z=153.830] for [Ciclista_C]
+[2018.08.13-19.53.42:544][693]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=249.962 Y=14550.000 Z=153.830] for [Ciclista_C]
+[2018.08.13-19.53.44:137][731]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.53.44:137][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.53.44:217][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-19.53.44:217][731]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.53.44:257][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.53.44:272][732]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2018.08.13-19.53.46:096][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-19.54.08:901][139]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-19.54.10:844][191]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-19.54.10:915][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.54.10:915][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-19.54.10:915][191]PIE: New page: PIE session: Main (Aug 13, 2018, 1:54:10 PM)
+[2018.08.13-19.54.10:915][191]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-19.54.10:917][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001798s)
+[2018.08.13-19.54.10:918][191]LogAIModule: Creating AISystem for world Main
+[2018.08.13-19.54.10:918][191]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.08.13-19.54.10:918][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002786s)
+[2018.08.13-19.54.10:974][191]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-19.54.10:985][191]LogInit: FAudioDevice initialized.
+[2018.08.13-19.54.11:016][191]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-19.54.11:017][191]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-16.54.11
+[2018.08.13-19.54.11:017][191]LogWorld: Bringing up level for play took: 0.000486
+[2018.08.13-19.54.11:057][191]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=11750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.54.11:072][191]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.762
+[2018.08.13-19.54.11:072][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.54.31:146][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.13-19.54.33:304][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.54.33:304][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.54.33:355][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-19.54.33:355][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.54.33:396][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.54.33:412][807]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2018.08.13-19.55.05:914][732]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-19.55.07:081][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-19.55.07:666][756]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameMode9A30CF9E4CBD3CFA35B8F1AC27B2EB52.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-19.55.10:123][875]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-19.55.10:159][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.55.10:159][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-19.55.10:160][875]PIE: New page: PIE session: Main (Aug 13, 2018, 1:55:10 PM)
+[2018.08.13-19.55.10:160][875]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-19.55.10:162][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001596s)
+[2018.08.13-19.55.10:162][875]LogAIModule: Creating AISystem for world Main
+[2018.08.13-19.55.10:162][875]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.08.13-19.55.10:162][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002415s)
+[2018.08.13-19.55.10:216][875]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-19.55.10:227][875]LogInit: FAudioDevice initialized.
+[2018.08.13-19.55.10:256][875]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-19.55.10:257][875]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-16.55.10
+[2018.08.13-19.55.10:257][875]LogWorld: Bringing up level for play took: 0.000467
+[2018.08.13-19.55.10:314][875]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.005
+[2018.08.13-19.55.10:314][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.55.46:246][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.55.46:247][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.55.46:325][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-19.55.46:325][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.55.46:367][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.55.46:382][784]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2018.08.13-19.55.48:435][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-19.56.02:247][657]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-19.56.03:383][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-19.56.03:976][683]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameMode06BC325443F9F6474F27FB90A08DE815.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-19.56.08:287][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-19.56.08:869][940]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameModeB63B7113469A4C03138E67BF556A82F9.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-19.56.16:045][364]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-19.56.18:032][416]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-19.56.18:101][416]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.56.18:101][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-19.56.18:101][416]PIE: New page: PIE session: Main (Aug 13, 2018, 1:56:18 PM)
+[2018.08.13-19.56.18:102][416]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-19.56.18:103][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001658s)
+[2018.08.13-19.56.18:104][416]LogAIModule: Creating AISystem for world Main
+[2018.08.13-19.56.18:104][416]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2018.08.13-19.56.18:104][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002653s)
+[2018.08.13-19.56.18:166][416]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-19.56.18:179][416]LogInit: FAudioDevice initialized.
+[2018.08.13-19.56.18:210][416]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-19.56.18:211][416]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-16.56.18
+[2018.08.13-19.56.18:211][416]LogWorld: Bringing up level for play took: 0.000581
+[2018.08.13-19.56.18:230][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=6550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:233][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=7350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:235][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=7750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:237][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=8550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:240][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=9350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:242][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=9750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:249][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=11350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:252][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=12150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:253][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=12550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:256][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=13350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:259][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=14150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.18:264][416]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main -0.045
+[2018.08.13-19.56.18:264][416]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.56.31:619][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.56.31:619][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.56.31:662][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-19.56.31:662][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.56.31:702][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.56.31:739][748]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2018.08.13-19.56.32:426][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-19.56.32:517][772]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-19.56.32:586][772]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.56.32:586][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-19.56.32:586][772]PIE: New page: PIE session: Main (Aug 13, 2018, 1:56:32 PM)
+[2018.08.13-19.56.32:587][772]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-19.56.32:588][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001645s)
+[2018.08.13-19.56.32:589][772]LogAIModule: Creating AISystem for world Main
+[2018.08.13-19.56.32:589][772]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.08.13-19.56.32:589][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002640s)
+[2018.08.13-19.56.32:643][772]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-19.56.32:654][772]LogInit: FAudioDevice initialized.
+[2018.08.13-19.56.32:684][772]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-19.56.32:684][772]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-16.56.32
+[2018.08.13-19.56.32:684][772]LogWorld: Bringing up level for play took: 0.000463
+[2018.08.13-19.56.32:705][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=6550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:706][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=6950.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:709][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=7750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:710][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=8150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:713][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=8950.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:715][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=9350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:721][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.038 Y=11350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:724][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.038 Y=12150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:726][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.038 Y=12550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:729][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.038 Y=13350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:730][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.038 Y=13750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:733][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.038 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.56.32:738][772]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.428
+[2018.08.13-19.56.32:738][772]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.56.41:258][986]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.56.41:259][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.56.41:338][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-19.56.41:338][986]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.56.41:380][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.56.41:396][987]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2018.08.13-19.56.42:659][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-19.56.49:349][416]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-19.56.50:274][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-19.56.50:882][429]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameMode0F693E584313E3B0999F33888EB00B8A.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-19.58.38:896][900]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-19.58.38:971][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.58.38:971][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-19.58.38:971][900]PIE: New page: PIE session: Main (Aug 13, 2018, 1:58:38 PM)
+[2018.08.13-19.58.38:972][900]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-19.58.38:973][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001890s)
+[2018.08.13-19.58.38:974][900]LogAIModule: Creating AISystem for world Main
+[2018.08.13-19.58.38:974][900]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.08.13-19.58.38:974][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002929s)
+[2018.08.13-19.58.39:033][900]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-19.58.39:046][900]LogInit: FAudioDevice initialized.
+[2018.08.13-19.58.39:057][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.58.39:099][900]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-19.58.39:100][900]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-16.58.39
+[2018.08.13-19.58.39:100][900]LogWorld: Bringing up level for play took: 0.000958
+[2018.08.13-19.58.39:122][900]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=6550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.58.39:146][900]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=12950.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.58.39:160][900]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.85
+[2018.08.13-19.58.39:160][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.58.40:129][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.58.45:917][123]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.59.03:419][693]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=19350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.59.18:209][200]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=26150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-19.59.20:369][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.59.20:370][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-19.59.20:394][272]LogSlate: Window 'EndlessRunning Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.13-19.59.20:433][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-19.59.20:434][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-19.59.20:498][273]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2018.08.13-19.59.52:887][302]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/NPCs/NPC_Default2.NPC_Default2
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:UserConstructionScript' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:acessorio1' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:acessorio2' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:bracos' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:cabeca' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:chapeu' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:corpo' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:pernas' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:pes' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:Box' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:Timeline_1' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:Timeline_0' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:653][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:ProxLinha' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:Linha' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:Pele' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:CoresDePele' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:Female' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:StructDefault' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:StructCorpos' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:StructBracos' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:CorCamisa' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:SegundoAcessorio' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:PrimeiroAcessorio' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:StructCabeca' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:Auto' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C:ReceiveBeginPlay' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.SKEL_NPC_Default3_C' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:Auto' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:StructCabeca' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:PrimeiroAcessorio' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:SegundoAcessorio' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:CorCamisa' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:StructBracos' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:StructCorpos' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:StructDefault' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:Female' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:CoresDePele' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:Pele' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:Linha' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:ProxLinha' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:Timeline_0' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:Timeline_1' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:Box' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:pes' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:pernas' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:corpo' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:chapeu' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:cabeca' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:bracos' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:acessorio2' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:acessorio1' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:ReceiveBeginPlay' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.50:654][975]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.NPC_Default3_C:UserConstructionScript' ref from Metadata '/Game/Project/Blueprints/NPCs/NPC_Default3.PackageMetaData'
+[2018.08.13-20.00.51:118][975]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/NPC_Default3D07F99CE4E538BBF3FCF178373918376.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Blueprints/Level/Obstacles/NPC_Default3.uasset'
+[2018.08.13-20.01.02:508][297]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/ObstacleNPC.ObstacleNPC_C' ref from Metadata '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.PackageMetaData'
+[2018.08.13-20.01.02:508][297]LogMetaData: Removing '/Game/Project/Blueprints/Level/Obstacles/ObstacleNPC.SKEL_ObstacleNPC_C' ref from Metadata '/Game/Project/Blueprints/Level/Obstacles/NPC_Default3.PackageMetaData'
+[2018.08.13-20.01.02:950][297]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/ObstacleNPC953B08E946F14C8C6FDE5F84A6DBBDD3.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Blueprints/Level/Obstacles/ObstacleNPC.uasset'
+[2018.08.13-20.01.16:904][797]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/Level/Obstacles/ObstacleNPC.ObstacleNPC
+[2018.08.13-20.01.19:070][835]LogSlate: Window 'ObstacleNPC' being destroyed
+[2018.08.13-20.01.26:974][299]BlueprintLog: New page: Compile ObstacleNPC
+[2018.08.13-20.01.29:308][411]BlueprintLog: New page: Compile ObstacleNPC
+[2018.08.13-20.01.30:435][430]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/ObstacleNPC694A9A074EFBD3C6074F32ACA8D0CABE.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Blueprints/Level/Obstacles/ObstacleNPC.uasset'
+[2018.08.13-20.02.19:406][899]LogEditorTransaction: Undo Add Node
+[2018.08.13-20.03.19:489][445]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.13-20.03.35:153][371]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-20.03.36:205][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-20.03.36:734][389]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameMode704B462A46551DAB4D212081C8CCF09A.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-20.03.38:821][489]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.03.38:917][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.03.38:917][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.03.38:918][489]PIE: New page: PIE session: Main (Aug 13, 2018, 2:03:38 PM)
+[2018.08.13-20.03.38:918][489]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.03.38:920][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001855s)
+[2018.08.13-20.03.38:920][489]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.03.38:921][489]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2018.08.13-20.03.38:921][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002930s)
+[2018.08.13-20.03.38:977][489]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.03.38:989][489]LogInit: FAudioDevice initialized.
+[2018.08.13-20.03.39:022][489]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.03.39:023][489]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.03.39
+[2018.08.13-20.03.39:023][489]LogWorld: Bringing up level for play took: 0.000607
+[2018.08.13-20.03.39:082][489]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.774
+[2018.08.13-20.03.39:083][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.03.42:337][574]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.03.56:339][926]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.04.17:931][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.04.17:931][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.04.18:065][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.04.18:065][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.04.18:125][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.04.18:141][466]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2018.08.13-20.04.19:466][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.04.35:320][422]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.13-20.04.48:657][208]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-20.04.52:146][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.04.58:284][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.04.58:352][470]BlueprintLog: New page: Compile ObstacleNPC
+[2018.08.13-20.05.00:667][519]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.05.00:740][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.00:740][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.05.00:740][519]PIE: New page: PIE session: Main (Aug 13, 2018, 2:05:00 PM)
+[2018.08.13-20.05.00:740][519]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.05.00:742][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001650s)
+[2018.08.13-20.05.00:742][519]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.05.00:743][519]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2018.08.13-20.05.00:743][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002614s)
+[2018.08.13-20.05.00:801][519]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.05.00:812][519]LogInit: FAudioDevice initialized.
+[2018.08.13-20.05.00:864][519]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.05.00:865][519]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.05.00
+[2018.08.13-20.05.00:865][519]LogWorld: Bringing up level for play took: 0.000523
+[2018.08.13-20.05.00:885][519]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=6550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.05.00:890][519]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=7750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.05.00:922][519]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.612
+[2018.08.13-20.05.00:922][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.09:997][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.09:998][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.05.10:057][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.05.10:057][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.10:097][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.05.10:117][742]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2018.08.13-20.05.11:441][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.05.14:781][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.05.14:887][874]BlueprintLog: New page: Compile ObstacleNPC
+[2018.08.13-20.05.16:255][886]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/ObstacleNPCFEB6CFDD41AB363A5B11AE8FAA4E2E34.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Blueprints/Level/Obstacles/ObstacleNPC.uasset'
+[2018.08.13-20.05.17:886][933]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.05.17:950][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.17:950][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.05.17:950][933]PIE: New page: PIE session: Main (Aug 13, 2018, 2:05:17 PM)
+[2018.08.13-20.05.17:950][933]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.05.17:952][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001673s)
+[2018.08.13-20.05.17:953][933]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.05.17:953][933]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2018.08.13-20.05.17:953][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002675s)
+[2018.08.13-20.05.18:023][933]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.05.18:034][933]LogInit: FAudioDevice initialized.
+[2018.08.13-20.05.18:067][933]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.05.18:068][933]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.05.18
+[2018.08.13-20.05.18:068][933]LogWorld: Bringing up level for play took: 0.000510
+[2018.08.13-20.05.18:093][933]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=8150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.05.18:126][933]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main -0.184
+[2018.08.13-20.05.18:126][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.25:523][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.25:524][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.05.25:628][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.05.25:628][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.25:667][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.05.25:696][115]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2018.08.13-20.05.26:287][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.05.28:950][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.05.29:025][203]BlueprintLog: New page: Compile ObstacleNPC
+[2018.08.13-20.05.30:150][209]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/ObstacleNPC1C18D8A640132D6F3775B09C823C397A.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Blueprints/Level/Obstacles/ObstacleNPC.uasset'
+[2018.08.13-20.05.31:485][244]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.05.31:554][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.31:554][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.05.31:554][244]PIE: New page: PIE session: Main (Aug 13, 2018, 2:05:31 PM)
+[2018.08.13-20.05.31:554][244]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.05.31:556][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001695s)
+[2018.08.13-20.05.31:557][244]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.05.31:557][244]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2018.08.13-20.05.31:557][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002568s)
+[2018.08.13-20.05.31:627][244]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.05.31:638][244]LogInit: FAudioDevice initialized.
+[2018.08.13-20.05.31:671][244]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.05.31:672][244]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.05.31
+[2018.08.13-20.05.31:672][244]LogWorld: Bringing up level for play took: 0.000526
+[2018.08.13-20.05.31:727][244]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main -0.582
+[2018.08.13-20.05.31:727][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.47:424][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.47:425][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.05.47:476][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.05.47:477][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.47:518][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.05.47:542][632]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2018.08.13-20.05.47:962][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.05.50:296][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.05.50:851][722]BlueprintLog: New page: Compile ObstacleNPC
+[2018.08.13-20.05.51:975][722]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/ObstacleNPC98DB157B49808FA2713C18BC645AF356.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Blueprints/Level/Obstacles/ObstacleNPC.uasset'
+[2018.08.13-20.05.54:221][781]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.05.54:286][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.05.54:286][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.05.54:286][781]PIE: New page: PIE session: Main (Aug 13, 2018, 2:05:54 PM)
+[2018.08.13-20.05.54:286][781]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.05.54:288][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001693s)
+[2018.08.13-20.05.54:289][781]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.05.54:289][781]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.08.13-20.05.54:289][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002836s)
+[2018.08.13-20.05.54:346][781]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.05.54:358][781]LogInit: FAudioDevice initialized.
+[2018.08.13-20.05.54:391][781]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.05.54:391][781]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.05.54
+[2018.08.13-20.05.54:392][781]LogWorld: Bringing up level for play took: 0.000471
+[2018.08.13-20.05.54:450][781]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.141
+[2018.08.13-20.05.54:450][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.06.06:351][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.06.06:352][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.06.06:403][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.06.06:403][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.06.06:442][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.06.06:457][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2018.08.13-20.06.07:140][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.06.14:162][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.06.21:322][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.06.21:399][475]BlueprintLog: New page: Compile ObstacleNPC
+[2018.08.13-20.06.24:299][542]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.06.24:361][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.06.24:361][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.06.24:361][542]PIE: New page: PIE session: Main (Aug 13, 2018, 2:06:24 PM)
+[2018.08.13-20.06.24:361][542]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.06.24:363][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001685s)
+[2018.08.13-20.06.24:363][542]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.06.24:363][542]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.08.13-20.06.24:364][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002577s)
+[2018.08.13-20.06.24:426][542]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.06.24:437][542]LogInit: FAudioDevice initialized.
+[2018.08.13-20.06.24:470][542]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.06.24:471][542]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.06.24
+[2018.08.13-20.06.24:471][542]LogWorld: Bringing up level for play took: 0.000572
+[2018.08.13-20.06.24:538][542]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.228
+[2018.08.13-20.06.24:538][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.06.24:538][542]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.06.31:306][712]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.06.45:316][ 95]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.06.47:407][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.06.47:408][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.06.47:473][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.06.47:474][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.06.47:515][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.06.47:555][150]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2018.08.13-20.06.48:464][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.06.49:765][201]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/ObstacleNPC1385E1EF46B0DAD72A40BD8C70EB55B4.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Blueprints/Level/Obstacles/ObstacleNPC.uasset'
+[2018.08.13-20.06.57:703][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.07.12:165][871]BlueprintLog: New page: Compile ObstacleNPC
+[2018.08.13-20.07.13:506][885]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/ObstacleNPCA5BE90344584A9CD37AA1980A3A44FE6.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Blueprints/Level/Obstacles/ObstacleNPC.uasset'
+[2018.08.13-20.07.16:754][986]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.07.16:816][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.07.16:816][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.07.16:817][986]PIE: New page: PIE session: Main (Aug 13, 2018, 2:07:16 PM)
+[2018.08.13-20.07.16:817][986]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.07.16:820][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002688s)
+[2018.08.13-20.07.16:820][986]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.07.16:820][986]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2018.08.13-20.07.16:820][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.003617s)
+[2018.08.13-20.07.16:877][986]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.07.16:888][986]LogInit: FAudioDevice initialized.
+[2018.08.13-20.07.16:896][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.07.16:935][986]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.07.16:936][986]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.07.16
+[2018.08.13-20.07.16:937][986]LogWorld: Bringing up level for play took: 0.000802
+[2018.08.13-20.07.17:001][986]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.692
+[2018.08.13-20.07.17:002][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.07.18:232][ 21]LogSlate: Window 'EndlessRunning Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.13-20.07.18:251][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.07.18:302][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.07.18:303][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.07.18:380][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2018.08.13-20.07.37:281][ 96]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.13-20.07.45:733][572]BlueprintLog: New page: Compile Main_Character
+[2018.08.13-20.07.47:092][575]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_Character29D75C254BD329108C5BD6AA18E0ECE8.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
+[2018.08.13-20.07.48:331][647]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.07.48:357][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.07.48:359][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.07.48:359][647]PIE: New page: PIE session: Main (Aug 13, 2018, 2:07:48 PM)
+[2018.08.13-20.07.48:359][647]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.07.48:360][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001752s)
+[2018.08.13-20.07.48:360][647]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.07.48:360][647]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2018.08.13-20.07.48:360][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002609s)
+[2018.08.13-20.07.48:420][647]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.07.48:431][647]LogInit: FAudioDevice initialized.
+[2018.08.13-20.07.48:439][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.07.48:503][647]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.07.48:504][647]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.07.48
+[2018.08.13-20.07.48:504][647]LogWorld: Bringing up level for play took: 0.000687
+[2018.08.13-20.07.48:578][647]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.268
+[2018.08.13-20.07.48:578][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.07.49:559][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.08.12:846][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.08.12:846][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.08.12:891][461]LogSlate: Window 'EndlessRunning Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.13-20.08.12:943][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.08.12:944][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.08.13:046][462]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2018.08.13-20.08.29:378][438]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-20.08.32:023][533]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.08.32:086][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.08.32:086][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.08.32:086][533]PIE: New page: PIE session: Main (Aug 13, 2018, 2:08:32 PM)
+[2018.08.13-20.08.32:087][533]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.08.32:089][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002794s)
+[2018.08.13-20.08.32:089][533]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.08.32:089][533]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2018.08.13-20.08.32:089][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.003732s)
+[2018.08.13-20.08.32:144][533]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.08.32:156][533]LogInit: FAudioDevice initialized.
+[2018.08.13-20.08.32:187][533]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.08.32:188][533]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.08.32
+[2018.08.13-20.08.32:188][533]LogWorld: Bringing up level for play took: 0.000610
+[2018.08.13-20.08.32:244][533]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main -0.066
+[2018.08.13-20.08.32:244][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.08.46:121][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.08.46:122][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.08.46:184][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.08.46:185][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.08.46:224][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.08.46:239][897]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2018.08.13-20.08.48:980][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.09.21:304][904]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-20.09.26:639][183]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-20.10.42:494][679]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-20.10.43:563][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-20.10.44:111][698]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameModeED24534A4204BFB28E417D859AF2E1C3.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-20.10.45:824][775]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.10.45:889][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.10.45:889][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.10.45:889][775]PIE: New page: PIE session: Main (Aug 13, 2018, 2:10:45 PM)
+[2018.08.13-20.10.45:889][775]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.10.45:891][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001736s)
+[2018.08.13-20.10.45:892][775]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.10.45:892][775]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2018.08.13-20.10.45:892][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002743s)
+[2018.08.13-20.10.45:951][775]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.10.45:962][775]LogInit: FAudioDevice initialized.
+[2018.08.13-20.10.45:996][775]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.10.45:997][775]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.10.45
+[2018.08.13-20.10.45:998][775]LogWorld: Bringing up level for play took: 0.000503
+[2018.08.13-20.10.46:023][775]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=8150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.10.46:028][775]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=9350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.10.46:046][775]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=599.962 Y=14150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.10.46:052][775]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main -0.257
+[2018.08.13-20.10.46:052][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.10.52:695][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.10.52:695][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.10.52:759][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.10.52:759][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.10.52:798][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.10.52:813][944]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2018.08.13-20.10.53:842][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.10.59:964][334]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-20.11.02:077][392]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.11.02:138][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.02:138][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.11.02:138][392]PIE: New page: PIE session: Main (Aug 13, 2018, 2:11:02 PM)
+[2018.08.13-20.11.02:138][392]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.11.02:141][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002733s)
+[2018.08.13-20.11.02:142][392]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.11.02:142][392]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.08.13-20.11.02:142][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.003632s)
+[2018.08.13-20.11.02:198][392]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.11.02:210][392]LogInit: FAudioDevice initialized.
+[2018.08.13-20.11.02:241][392]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.11.02:242][392]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.11.02
+[2018.08.13-20.11.02:242][392]LogWorld: Bringing up level for play took: 0.000588
+[2018.08.13-20.11.02:263][392]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=6950.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.02:341][392]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=9350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.02:343][392]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=9750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.02:347][392]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=250.000 Y=10950.000 Z=153.830] for [Ciclista_C]
+[2018.08.13-20.11.02:372][392]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=12150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.02:378][392]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=13350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.02:379][392]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=13750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.02:381][392]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=14150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.02:382][392]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.02:386][392]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.077
+[2018.08.13-20.11.02:386][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.05:792][486]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.12:798][657]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.16:307][744]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.17:622][775]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.17:622][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.11.17:675][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.11.17:676][775]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.17:717][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.11.17:745][776]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2018.08.13-20.11.18:692][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.11.18:786][809]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.11.18:848][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.18:849][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.11.18:849][809]PIE: New page: PIE session: Main (Aug 13, 2018, 2:11:18 PM)
+[2018.08.13-20.11.18:849][809]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.11.18:851][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001724s)
+[2018.08.13-20.11.18:851][809]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.11.18:851][809]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2018.08.13-20.11.18:851][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002599s)
+[2018.08.13-20.11.18:904][809]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.11.18:915][809]LogInit: FAudioDevice initialized.
+[2018.08.13-20.11.18:947][809]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.11.18:948][809]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.11.18
+[2018.08.13-20.11.18:949][809]LogWorld: Bringing up level for play took: 0.000765
+[2018.08.13-20.11.18:974][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=7350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.18:976][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=7750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.18:977][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=250.000 Y=8150.000 Z=153.830] for [Ciclista_C]
+[2018.08.13-20.11.18:979][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=8550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.18:981][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=8950.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.18:995][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=11750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.18:996][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=12150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.19:003][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=13350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.19:004][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=13750.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.19:006][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=250.000 Y=14150.000 Z=153.830] for [Ciclista_C]
+[2018.08.13-20.11.19:012][809]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.703
+[2018.08.13-20.11.19:012][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.19:013][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.20:617][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.20:619][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.11.20:669][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.11.20:669][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.20:714][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.11.20:732][861]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2018.08.13-20.11.35:737][655]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-20.11.38:194][735]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.11.38:222][735]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.38:222][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.11.38:222][735]PIE: New page: PIE session: Main (Aug 13, 2018, 2:11:38 PM)
+[2018.08.13-20.11.38:222][735]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.11.38:224][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001601s)
+[2018.08.13-20.11.38:225][735]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.11.38:225][735]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2018.08.13-20.11.38:225][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002438s)
+[2018.08.13-20.11.38:278][735]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.11.38:289][735]LogInit: FAudioDevice initialized.
+[2018.08.13-20.11.38:322][735]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.11.38:323][735]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.11.38
+[2018.08.13-20.11.38:323][735]LogWorld: Bringing up level for play took: 0.000506
+[2018.08.13-20.11.38:386][735]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.076
+[2018.08.13-20.11.38:386][735]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.55:738][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.55:738][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.11.55:790][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.11.55:791][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.55:832][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.11.55:868][179]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2018.08.13-20.11.56:544][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.11.56:608][202]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.11.56:670][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.56:670][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.11.56:670][202]PIE: New page: PIE session: Main (Aug 13, 2018, 2:11:56 PM)
+[2018.08.13-20.11.56:670][202]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.11.56:673][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002573s)
+[2018.08.13-20.11.56:674][202]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.11.56:674][202]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2018.08.13-20.11.56:674][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.003467s)
+[2018.08.13-20.11.56:788][202]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.11.56:800][202]LogInit: FAudioDevice initialized.
+[2018.08.13-20.11.56:834][202]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.11.56:834][202]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.11.56
+[2018.08.13-20.11.56:835][202]LogWorld: Bringing up level for play took: 0.000494
+[2018.08.13-20.11.56:880][202]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=12550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.11.56:893][202]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main 0.583
+[2018.08.13-20.11.56:893][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.11.56:894][202]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.12.12:335][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.12.12:336][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.12.12:387][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.12.12:387][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.12.12:426][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.12.12:460][590]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2018.08.13-20.12.13:200][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.12.19:141][961]BlueprintLog: New page: Compile Main_GameMode
+[2018.08.13-20.12.20:070][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.08.13-20.12.20:609][974]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Saved/Main_GameMode9BE1FD384589448B331A32B10524D909.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/[Git]/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.08.13-20.12.29:479][426]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-20.12.29:508][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.12.29:509][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-20.12.29:509][426]PIE: New page: PIE session: Main (Aug 13, 2018, 2:12:29 PM)
+[2018.08.13-20.12.29:509][426]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_Main
+[2018.08.13-20.12.29:511][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001749s)
+[2018.08.13-20.12.29:511][426]LogAIModule: Creating AISystem for world Main
+[2018.08.13-20.12.29:511][426]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2018.08.13-20.12.29:512][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/Main.Main to /Game/Project/Levels/UEDPIE_0_Main.Main (0.002672s)
+[2018.08.13-20.12.29:565][426]LogInit: XAudio2 using 'Alto-falantes (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-20.12.29:576][426]LogInit: FAudioDevice initialized.
+[2018.08.13-20.12.29:584][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.12.29:627][426]LogLoad: Game class is 'Main_GameMode_C'
+[2018.08.13-20.12.29:627][426]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.08.13-17.12.29
+[2018.08.13-20.12.29:628][426]LogWorld: Bringing up level for play took: 0.000742
+[2018.08.13-20.12.29:651][426]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.000 Y=6950.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.12.29:698][426]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_Main -0.611
+[2018.08.13-20.12.29:698][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.12.30:443][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.12.32:991][536]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=399.962 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.12.39:994][779]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=399.962 Y=14550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.13.09:026][790]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.076 Y=26950.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.13.18:496][114]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.076 Y=28950.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.13.21:792][228]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=399.924 Y=32150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.13.21:795][228]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=399.924 Y=32550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.13.21:809][228]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=399.924 Y=33350.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.13.36:011][720]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.076 Y=38550.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.13.47:792][129]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.076 Y=42150.000 Z=153.830] for [Veiculo_C]
+[2018.08.13-20.14.04:682][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-20.14.23:775][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.14.23:775][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-20.14.23:811][353]LogSlate: Window 'EndlessRunning Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.13-20.14.23:873][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-20.14.23:874][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Project/Levels/Main.Main_C' with ClassGeneratedBy '/Game/Project/Levels/Main.Main:PersistentLevel.Main'
+[2018.08.13-20.14.23:938][354]LogPlayLevel: Display: Destroying online subsystem :Context_118
