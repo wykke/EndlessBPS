@@ -1,6 +1,6 @@
 ﻿# EndlessRunning
 Um prototipo de endless running.
-Current Ver: Alpha 2
+Current Ver: Alpha 4
 
 -- Objetivos:
 1 - aprender um pouco sobre a unreal engine 4
@@ -12,11 +12,13 @@ Current Ver: Alpha 2
 7 - treinar game desing
 
 -- Programas Utilizados:
-1 - Unreal Engine 4.19.2
-2 - Blender 2.7.9b (rip beta, cheio de bugs apesar de muitas vantagens)
+1 - Unreal Engine 4.20.1
+2 - Blender 2.7.9b
 3 - Source Tree
 4 - Krita 4.1.0
 
--- Objetivos da Alpha 3:
+-- Objetivos da Alpha 4:
 1 - criar quests
 2 - criar sistema de itens utilizaveis
+3 - adicionar sons
+4 - adicionar novos assets
