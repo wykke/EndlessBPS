@@ -17753,3 +17753,1084 @@ LogInit: Object subsystem initialized
 [2018.09.23-13.47.47:743][596]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2018.09.23-13.47.54:102][843]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/NewGame827B613141BCB08E60AF14B5122FF543.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/NewGame.umap'
 [2018.09.23-13.47.54:519][843]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/NewGame_BuiltData9B6087B545317874358AA1BC8B3776FB.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/NewGame_BuiltData.uasset'
+[2018.09.23-13.48.15:596][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-13.48.15:613][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.48.15:613][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-13.48.15:667][ 31]PIE: New page: PIE session: NewGame (Sep 23, 2018, 7:48:15 AM)
+[2018.09.23-13.48.15:667][ 31]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-13.48.15:669][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002226s)
+[2018.09.23-13.48.15:670][ 31]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-13.48.15:670][ 31]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2018.09.23-13.48.15:670][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.003340s)
+[2018.09.23-13.48.16:205][ 31]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-13.48.16:218][ 31]LogInit: FAudioDevice initialized.
+[2018.09.23-13.48.16:280][ 31]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.48.16:281][ 31]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-10.48.16
+[2018.09.23-13.48.16:281][ 31]LogWorld: Bringing up level for play took: 0.000411
+[2018.09.23-13.48.16:436][ 31]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:438][ 31]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:438][ 31]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:439][ 31]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:440][ 31]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:440][ 31]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:441][ 31]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:443][ 31]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:444][ 31]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:444][ 31]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:445][ 31]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:446][ 31]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.16:586][ 31]Cmd: r.ScreenPercentage 100
+[2018.09.23-13.48.16:595][ 31]r.ScreenPercentage = "100"
+[2018.09.23-13.48.16:595][ 31]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.48.16:595][ 31]r.PostProcessAAQuality = "4"
+[2018.09.23-13.48.16:596][ 31]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.48.16:596][ 31]sg.PostProcessQuality = "2"
+[2018.09.23-13.48.16:615][ 31]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.48.16:615][ 31]r.PostProcessAAQuality = "4"
+[2018.09.23-13.48.16:615][ 31]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.48.16:616][ 31]sg.PostProcessQuality = "2"
+[2018.09.23-13.48.16:616][ 31]Cmd: sg.ShadowQuality 2
+[2018.09.23-13.48.16:616][ 31]sg.ShadowQuality = "2"
+[2018.09.23-13.48.16:616][ 31]Cmd: sg.TextureQuality 3
+[2018.09.23-13.48.16:617][ 31]sg.TextureQuality = "3"
+[2018.09.23-13.48.16:617][ 31]Cmd: sg.EffectsQuality 0
+[2018.09.23-13.48.16:617][ 31]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-13.48.16:617][ 31]sg.EffectsQuality = "0"
+[2018.09.23-13.48.16:617][ 31]Cmd: r.DetailMode 0
+[2018.09.23-13.48.16:617][ 31]r.DetailMode = "0"
+[2018.09.23-13.48.16:619][ 31]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.598
+[2018.09.23-13.48.16:619][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.48.16:659][ 32]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-13.48.16:756][ 32]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-13.48.25:000][ 32]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-13.48.25:001][ 32]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.48.25:003][ 32]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-10.48.25
+[2018.09.23-13.48.25:003][ 32]LogWorld: Bringing up level for play took: 0.001625
+[2018.09.23-13.48.25:067][ 32]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.25:067][ 32]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.25:070][ 32]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.25:070][ 32]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.25:071][ 32]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.25:071][ 32]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.25:074][ 32]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.25:177][ 32]LogLoad: Took 8.420757 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-13.48.26:325][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.48.26:325][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.48.26:450][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-13.48.26:450][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.48.26:487][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.48.26:506][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2018.09.23-13.48.33:528][356]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Main_GameMode.Main_GameMode
+[2018.09.23-13.48.35:886][459]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-13.48.35:907][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.48.35:907][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-13.48.35:907][459]PIE: New page: PIE session: NewGame (Sep 23, 2018, 7:48:35 AM)
+[2018.09.23-13.48.35:907][459]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-13.48.35:909][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001841s)
+[2018.09.23-13.48.35:909][459]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-13.48.35:910][459]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.09.23-13.48.35:910][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002707s)
+[2018.09.23-13.48.36:007][459]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-13.48.36:018][459]LogInit: FAudioDevice initialized.
+[2018.09.23-13.48.36:028][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.48.36:074][459]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.48.36:075][459]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-10.48.36
+[2018.09.23-13.48.36:076][459]LogWorld: Bringing up level for play took: 0.000595
+[2018.09.23-13.48.36:088][459]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-13.48.36:153][459]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.36:153][459]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.36:154][459]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.36:154][459]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.36:155][459]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.36:156][459]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.36:157][459]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.36:159][459]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.36:161][459]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.36:161][459]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.36:271][459]Cmd: r.ScreenPercentage 100
+[2018.09.23-13.48.36:271][459]r.ScreenPercentage = "100"
+[2018.09.23-13.48.36:272][459]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.48.36:272][459]r.PostProcessAAQuality = "4"
+[2018.09.23-13.48.36:272][459]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.48.36:272][459]sg.PostProcessQuality = "2"
+[2018.09.23-13.48.36:272][459]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.48.36:272][459]r.PostProcessAAQuality = "4"
+[2018.09.23-13.48.36:272][459]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.48.36:272][459]sg.PostProcessQuality = "2"
+[2018.09.23-13.48.36:273][459]Cmd: sg.ShadowQuality 2
+[2018.09.23-13.48.36:273][459]sg.ShadowQuality = "2"
+[2018.09.23-13.48.36:273][459]Cmd: sg.TextureQuality 3
+[2018.09.23-13.48.36:273][459]sg.TextureQuality = "3"
+[2018.09.23-13.48.36:273][459]Cmd: sg.EffectsQuality 0
+[2018.09.23-13.48.36:273][459]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-13.48.36:273][459]sg.EffectsQuality = "0"
+[2018.09.23-13.48.36:273][459]Cmd: r.DetailMode 0
+[2018.09.23-13.48.36:273][459]r.DetailMode = "0"
+[2018.09.23-13.48.36:278][459]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.257
+[2018.09.23-13.48.36:278][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.48.36:387][460]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-13.48.36:396][460]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-13.48.37:324][460]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-13.48.37:324][460]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.48.37:326][460]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-10.48.37
+[2018.09.23-13.48.37:327][460]LogWorld: Bringing up level for play took: 0.001592
+[2018.09.23-13.48.37:387][460]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.37:388][460]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.37:389][460]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.37:389][460]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.37:389][460]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.37:390][460]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.37:392][460]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.37:392][460]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.48.37:497][460]LogLoad: Took 1.100886 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-13.48.40:010][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.48.56:954][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.48.57:053][399]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-13.48.57:057][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.48.57:104][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-13.48.57:105][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.48.57:169][400]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2018.09.23-13.49.10:442][147]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/Assets/PoolClass/ObjectPool.ObjectPool
+[2018.09.23-13.51.44:965][313]BlueprintLog: New page: Compile ObjectPool
+[2018.09.23-13.51.47:508][441]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-13.51.47:565][441]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.51.47:565][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-13.51.47:565][441]PIE: New page: PIE session: NewGame (Sep 23, 2018, 7:51:47 AM)
+[2018.09.23-13.51.47:565][441]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-13.51.47:567][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001765s)
+[2018.09.23-13.51.47:567][441]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-13.51.47:568][441]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2018.09.23-13.51.47:568][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002857s)
+[2018.09.23-13.51.47:639][441]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-13.51.47:651][441]LogInit: FAudioDevice initialized.
+[2018.09.23-13.51.47:660][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.51.47:699][441]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.51.47:700][441]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-10.51.47
+[2018.09.23-13.51.47:700][441]LogWorld: Bringing up level for play took: 0.000560
+[2018.09.23-13.51.47:713][441]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-13.51.47:780][441]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.47:781][441]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.47:781][441]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.47:783][441]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.47:784][441]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.47:785][441]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.47:786][441]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.47:787][441]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.47:787][441]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.47:917][441]Cmd: r.ScreenPercentage 100
+[2018.09.23-13.51.47:917][441]r.ScreenPercentage = "100"
+[2018.09.23-13.51.47:918][441]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.51.47:918][441]r.PostProcessAAQuality = "4"
+[2018.09.23-13.51.47:918][441]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.51.47:918][441]sg.PostProcessQuality = "2"
+[2018.09.23-13.51.47:918][441]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.51.47:918][441]r.PostProcessAAQuality = "4"
+[2018.09.23-13.51.47:918][441]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.51.47:919][441]sg.PostProcessQuality = "2"
+[2018.09.23-13.51.47:919][441]Cmd: sg.ShadowQuality 2
+[2018.09.23-13.51.47:919][441]sg.ShadowQuality = "2"
+[2018.09.23-13.51.47:919][441]Cmd: sg.TextureQuality 3
+[2018.09.23-13.51.47:919][441]sg.TextureQuality = "3"
+[2018.09.23-13.51.47:919][441]Cmd: sg.EffectsQuality 0
+[2018.09.23-13.51.47:919][441]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-13.51.47:919][441]sg.EffectsQuality = "0"
+[2018.09.23-13.51.47:919][441]Cmd: r.DetailMode 0
+[2018.09.23-13.51.47:920][441]r.DetailMode = "0"
+[2018.09.23-13.51.47:923][441]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame -0.098
+[2018.09.23-13.51.47:923][441]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.51.48:104][442]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-13.51.48:115][442]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-13.51.49:105][442]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-13.51.49:105][442]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.51.49:108][442]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-10.51.49
+[2018.09.23-13.51.49:108][442]LogWorld: Bringing up level for play took: 0.001840
+[2018.09.23-13.51.49:170][442]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:170][442]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:171][442]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:171][442]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:172][442]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:172][442]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:175][442]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:175][442]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:176][442]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:177][442]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:177][442]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.49:279][442]LogLoad: Took 1.164847 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-13.51.50:237][485]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-13.51.50:244][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.51.50:289][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-13.51.50:290][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.51.50:361][486]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2018.09.23-13.51.51:419][546]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-13.51.51:445][546]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.51.51:446][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-13.51.51:446][546]PIE: New page: PIE session: NewGame (Sep 23, 2018, 7:51:51 AM)
+[2018.09.23-13.51.51:446][546]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-13.51.51:448][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002415s)
+[2018.09.23-13.51.51:449][546]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-13.51.51:449][546]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2018.09.23-13.51.51:450][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.003559s)
+[2018.09.23-13.51.51:501][546]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-13.51.51:514][546]LogInit: FAudioDevice initialized.
+[2018.09.23-13.51.51:543][546]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.51.51:544][546]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-10.51.51
+[2018.09.23-13.51.51:544][546]LogWorld: Bringing up level for play took: 0.000365
+[2018.09.23-13.51.51:617][546]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:618][546]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:618][546]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:619][546]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:620][546]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:620][546]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:621][546]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:622][546]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:624][546]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:624][546]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:625][546]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.51:725][546]Cmd: r.ScreenPercentage 100
+[2018.09.23-13.51.51:725][546]r.ScreenPercentage = "100"
+[2018.09.23-13.51.51:725][546]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.51.51:726][546]r.PostProcessAAQuality = "4"
+[2018.09.23-13.51.51:726][546]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.51.51:726][546]sg.PostProcessQuality = "2"
+[2018.09.23-13.51.51:726][546]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.51.51:726][546]r.PostProcessAAQuality = "4"
+[2018.09.23-13.51.51:726][546]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.51.51:727][546]sg.PostProcessQuality = "2"
+[2018.09.23-13.51.51:727][546]Cmd: sg.ShadowQuality 2
+[2018.09.23-13.51.51:727][546]sg.ShadowQuality = "2"
+[2018.09.23-13.51.51:727][546]Cmd: sg.TextureQuality 3
+[2018.09.23-13.51.51:727][546]sg.TextureQuality = "3"
+[2018.09.23-13.51.51:727][546]Cmd: sg.EffectsQuality 0
+[2018.09.23-13.51.51:727][546]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-13.51.51:727][546]sg.EffectsQuality = "0"
+[2018.09.23-13.51.51:727][546]Cmd: r.DetailMode 0
+[2018.09.23-13.51.51:728][546]r.DetailMode = "0"
+[2018.09.23-13.51.51:729][546]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame -0.292
+[2018.09.23-13.51.51:729][546]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.51.51:750][547]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-13.51.51:759][547]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-13.51.52:678][547]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-13.51.52:678][547]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.51.52:680][547]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-10.51.52
+[2018.09.23-13.51.52:681][547]LogWorld: Bringing up level for play took: 0.001806
+[2018.09.23-13.51.52:742][547]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.52:745][547]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.52:746][547]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.52:747][547]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.52:747][547]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.52:748][547]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.52:748][547]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.52:749][547]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.52:750][547]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.52:750][547]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.51.52:851][547]LogLoad: Took 1.092416 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-13.52.19:386][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.52.20:863][598]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.52.20:863][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.52.20:912][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-13.52.20:912][598]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.52.20:956][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.52.20:974][599]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2018.09.23-13.52.29:666][ 39]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character
+[2018.09.23-13.52.38:716][523]BlueprintLog: New page: Compile Main_Character
+[2018.09.23-13.52.40:162][523]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2018.09.23-13.52.40:162][523]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2018.09.23-13.52.40:174][523]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.41:810][563]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character9F480B054BAEB40C86C10BAF177C24B9.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
+[2018.09.23-13.52.44:054][692]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-13.52.44:135][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.52.44:135][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-13.52.44:135][692]PIE: New page: PIE session: NewGame (Sep 23, 2018, 7:52:44 AM)
+[2018.09.23-13.52.44:135][692]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-13.52.44:137][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001782s)
+[2018.09.23-13.52.44:138][692]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-13.52.44:138][692]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2018.09.23-13.52.44:138][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002758s)
+[2018.09.23-13.52.44:205][692]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-13.52.44:216][692]LogInit: FAudioDevice initialized.
+[2018.09.23-13.52.44:246][692]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.52.44:247][692]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-10.52.44
+[2018.09.23-13.52.44:247][692]LogWorld: Bringing up level for play took: 0.000335
+[2018.09.23-13.52.44:319][692]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:320][692]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:321][692]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:322][692]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:324][692]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:324][692]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:325][692]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:326][692]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:326][692]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:327][692]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:327][692]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:328][692]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.44:425][692]Cmd: r.ScreenPercentage 100
+[2018.09.23-13.52.44:425][692]r.ScreenPercentage = "100"
+[2018.09.23-13.52.44:425][692]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.52.44:425][692]r.PostProcessAAQuality = "4"
+[2018.09.23-13.52.44:425][692]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.52.44:425][692]sg.PostProcessQuality = "2"
+[2018.09.23-13.52.44:426][692]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.52.44:426][692]r.PostProcessAAQuality = "4"
+[2018.09.23-13.52.44:426][692]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.52.44:426][692]sg.PostProcessQuality = "2"
+[2018.09.23-13.52.44:426][692]Cmd: sg.ShadowQuality 2
+[2018.09.23-13.52.44:426][692]sg.ShadowQuality = "2"
+[2018.09.23-13.52.44:426][692]Cmd: sg.TextureQuality 3
+[2018.09.23-13.52.44:426][692]sg.TextureQuality = "3"
+[2018.09.23-13.52.44:426][692]Cmd: sg.EffectsQuality 0
+[2018.09.23-13.52.44:426][692]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-13.52.44:427][692]sg.EffectsQuality = "0"
+[2018.09.23-13.52.44:427][692]Cmd: r.DetailMode 0
+[2018.09.23-13.52.44:427][692]r.DetailMode = "0"
+[2018.09.23-13.52.44:429][692]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.408
+[2018.09.23-13.52.44:429][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.52.44:452][693]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-13.52.44:541][693]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-13.52.45:577][693]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-13.52.45:578][693]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.52.45:580][693]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-10.52.45
+[2018.09.23-13.52.45:581][693]LogWorld: Bringing up level for play took: 0.001637
+[2018.09.23-13.52.45:661][693]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.45:662][693]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.45:662][693]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.45:662][693]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.45:664][693]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.45:665][693]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.45:666][693]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.45:667][693]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.45:668][693]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.45:669][693]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.52.45:776][693]LogLoad: Took 1.235037 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-13.52.48:493][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.52.49:261][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.54.01:596][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.54.01:675][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.54.01:676][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.54.01:723][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-13.54.01:723][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.54.01:767][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.54.01:785][788]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2018.09.23-13.54.07:802][138]BlueprintLog: New page: Compile Main_Character
+[2018.09.23-13.54.09:222][138]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2018.09.23-13.54.09:222][138]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2018.09.23-13.54.09:977][138]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character14CB0EEA4E4CE39007F0ADA366AA0F8A.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
+[2018.09.23-13.54.11:349][183]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character1448ED7A493B8C92F80901A80F587EDB.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
+[2018.09.23-13.54.32:653][461]BlueprintLog: New page: Compile ObjectPool
+[2018.09.23-13.54.33:704][481]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/ObjectPool2ED6884C4C7EBCA3A397B09505BC8F88.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Assets/PoolClass/ObjectPool.uasset'
+[2018.09.23-13.54.35:919][608]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-13.54.35:997][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.54.35:998][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-13.54.35:998][608]PIE: New page: PIE session: NewGame (Sep 23, 2018, 7:54:35 AM)
+[2018.09.23-13.54.35:998][608]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-13.54.36:000][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001829s)
+[2018.09.23-13.54.36:000][608]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-13.54.36:001][608]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2018.09.23-13.54.36:001][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002904s)
+[2018.09.23-13.54.36:058][608]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-13.54.36:069][608]LogInit: FAudioDevice initialized.
+[2018.09.23-13.54.36:078][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.54.36:122][608]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.54.36:123][608]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-10.54.36
+[2018.09.23-13.54.36:124][608]LogWorld: Bringing up level for play took: 0.000689
+[2018.09.23-13.54.36:136][608]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-13.54.36:200][608]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.36:202][608]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.36:202][608]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.36:203][608]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.36:206][608]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.36:207][608]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.36:209][608]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.36:209][608]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.36:315][608]Cmd: r.ScreenPercentage 100
+[2018.09.23-13.54.36:315][608]r.ScreenPercentage = "100"
+[2018.09.23-13.54.36:315][608]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.54.36:315][608]r.PostProcessAAQuality = "4"
+[2018.09.23-13.54.36:315][608]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.54.36:315][608]sg.PostProcessQuality = "2"
+[2018.09.23-13.54.36:316][608]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.54.36:316][608]r.PostProcessAAQuality = "4"
+[2018.09.23-13.54.36:316][608]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.54.36:316][608]sg.PostProcessQuality = "2"
+[2018.09.23-13.54.36:316][608]Cmd: sg.ShadowQuality 2
+[2018.09.23-13.54.36:316][608]sg.ShadowQuality = "2"
+[2018.09.23-13.54.36:316][608]Cmd: sg.TextureQuality 3
+[2018.09.23-13.54.36:316][608]sg.TextureQuality = "3"
+[2018.09.23-13.54.36:317][608]Cmd: sg.EffectsQuality 0
+[2018.09.23-13.54.36:317][608]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-13.54.36:317][608]sg.EffectsQuality = "0"
+[2018.09.23-13.54.36:317][608]Cmd: r.DetailMode 0
+[2018.09.23-13.54.36:317][608]r.DetailMode = "0"
+[2018.09.23-13.54.36:322][608]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.302
+[2018.09.23-13.54.36:323][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.54.36:460][609]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-13.54.36:470][609]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-13.54.37:379][609]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-13.54.37:379][609]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.54.37:382][609]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-10.54.37
+[2018.09.23-13.54.37:382][609]LogWorld: Bringing up level for play took: 0.001663
+[2018.09.23-13.54.37:444][609]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:445][609]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:445][609]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:446][609]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:446][609]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:447][609]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:448][609]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:449][609]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:449][609]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:452][609]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:452][609]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:453][609]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.37:558][609]LogLoad: Took 1.088509 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-13.54.39:631][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.54.48:514][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.54.48:515][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.54.48:539][124]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-13.54.48:585][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-13.54.48:586][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.54.48:650][125]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2018.09.23-13.54.49:768][192]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-13.54.49:794][192]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.54.49:794][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-13.54.49:794][192]PIE: New page: PIE session: NewGame (Sep 23, 2018, 7:54:49 AM)
+[2018.09.23-13.54.49:794][192]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-13.54.49:796][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001668s)
+[2018.09.23-13.54.49:797][192]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-13.54.49:797][192]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2018.09.23-13.54.49:797][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002582s)
+[2018.09.23-13.54.49:950][192]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-13.54.49:961][192]LogInit: FAudioDevice initialized.
+[2018.09.23-13.54.49:970][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.54.50:014][192]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.54.50:014][192]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-10.54.50
+[2018.09.23-13.54.50:015][192]LogWorld: Bringing up level for play took: 0.000462
+[2018.09.23-13.54.50:027][192]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-13.54.50:093][192]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.50:094][192]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.50:096][192]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.50:098][192]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.50:100][192]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.50:102][192]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.50:102][192]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.50:209][192]Cmd: r.ScreenPercentage 100
+[2018.09.23-13.54.50:209][192]r.ScreenPercentage = "100"
+[2018.09.23-13.54.50:210][192]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.54.50:210][192]r.PostProcessAAQuality = "4"
+[2018.09.23-13.54.50:210][192]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.54.50:210][192]sg.PostProcessQuality = "2"
+[2018.09.23-13.54.50:210][192]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.54.50:210][192]r.PostProcessAAQuality = "4"
+[2018.09.23-13.54.50:210][192]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.54.50:211][192]sg.PostProcessQuality = "2"
+[2018.09.23-13.54.50:211][192]Cmd: sg.ShadowQuality 2
+[2018.09.23-13.54.50:211][192]sg.ShadowQuality = "2"
+[2018.09.23-13.54.50:211][192]Cmd: sg.TextureQuality 3
+[2018.09.23-13.54.50:211][192]sg.TextureQuality = "3"
+[2018.09.23-13.54.50:211][192]Cmd: sg.EffectsQuality 0
+[2018.09.23-13.54.50:211][192]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-13.54.50:211][192]sg.EffectsQuality = "0"
+[2018.09.23-13.54.50:211][192]Cmd: r.DetailMode 0
+[2018.09.23-13.54.50:211][192]r.DetailMode = "0"
+[2018.09.23-13.54.50:216][192]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.196
+[2018.09.23-13.54.50:216][192]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.54.50:315][193]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-13.54.50:322][193]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-13.54.51:221][193]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-13.54.51:221][193]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.54.51:224][193]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-10.54.51
+[2018.09.23-13.54.51:224][193]LogWorld: Bringing up level for play took: 0.001674
+[2018.09.23-13.54.51:285][193]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:286][193]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:286][193]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:288][193]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:288][193]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:289][193]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:291][193]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:291][193]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:291][193]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:293][193]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:293][193]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.54.51:396][193]LogLoad: Took 1.073555 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-13.54.53:177][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-13.55.12:277][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.55.14:439][322]LogNet: Browse: /Game/Project/Levels/NewGame
+[2018.09.23-13.55.14:440][322]LogLoad: LoadMap: /Game/Project/Levels/NewGame
+[2018.09.23-13.55.14:503][322]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-13.55.14:505][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001864s)
+[2018.09.23-13.55.14:568][322]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-13.55.14:568][322]LogPlayLevel: PIE: World Init took: (0.063408s)
+[2018.09.23-13.55.14:568][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.065454s)
+[2018.09.23-13.55.14:568][322]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.55.14:569][322]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-10.55.14
+[2018.09.23-13.55.14:569][322]LogWorld: Bringing up level for play took: 0.000422
+[2018.09.23-13.55.14:570][322]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-13.55.14:633][322]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:633][322]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:634][322]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:635][322]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:636][322]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:636][322]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:637][322]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:638][322]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:638][322]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:639][322]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:640][322]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.14:742][322]Cmd: r.ScreenPercentage 100
+[2018.09.23-13.55.14:743][322]r.ScreenPercentage = "100"
+[2018.09.23-13.55.14:743][322]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.55.14:743][322]r.PostProcessAAQuality = "4"
+[2018.09.23-13.55.14:743][322]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.55.14:744][322]sg.PostProcessQuality = "2"
+[2018.09.23-13.55.14:744][322]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-13.55.14:744][322]r.PostProcessAAQuality = "4"
+[2018.09.23-13.55.14:744][322]Cmd: sg.PostProcessQuality 2
+[2018.09.23-13.55.14:744][322]sg.PostProcessQuality = "2"
+[2018.09.23-13.55.14:744][322]Cmd: sg.ShadowQuality 2
+[2018.09.23-13.55.14:744][322]sg.ShadowQuality = "2"
+[2018.09.23-13.55.14:744][322]Cmd: sg.TextureQuality 3
+[2018.09.23-13.55.14:745][322]sg.TextureQuality = "3"
+[2018.09.23-13.55.14:745][322]Cmd: sg.EffectsQuality 0
+[2018.09.23-13.55.14:745][322]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-13.55.14:745][322]sg.EffectsQuality = "0"
+[2018.09.23-13.55.14:745][322]Cmd: r.DetailMode 0
+[2018.09.23-13.55.14:745][322]r.DetailMode = "0"
+[2018.09.23-13.55.14:746][322]LogLoad: Took 0.305799 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
+[2018.09.23-13.55.14:764][323]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-13.55.14:854][323]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-13.55.15:741][323]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-13.55.15:742][323]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-13.55.15:744][323]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-10.55.15
+[2018.09.23-13.55.15:744][323]LogWorld: Bringing up level for play took: 0.001613
+[2018.09.23-13.55.15:804][323]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.15:804][323]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.15:805][323]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.15:805][323]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.15:806][323]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.15:809][323]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.15:809][323]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.15:810][323]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.15:811][323]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.15:812][323]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.55.15:913][323]LogLoad: Took 1.058360 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-13.55.16:666][353]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-13.55.16:671][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.55.16:717][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-13.55.16:718][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-13.55.16:785][354]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2018.09.23-13.55.45:195][168]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/Quests/QuestCl.QuestCl
+[2018.09.23-14.01.00:322][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Levels/NewGame' took 3.632
+[2018.09.23-14.01.01:210][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project/Assets/Vehicles/Ciclista/Ciclista_Cube] ([1] browsable assets)...
+[2018.09.23-14.01.04:685][228]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Project/Assets/Vehicles/Ciclista/Ciclista_Cube.Ciclista_Cube]
+[2018.09.23-14.01.04:685][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Assets/Vehicles/Ciclista/Ciclista_Cube]
+[2018.09.23-14.01.20:756][228]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Ciclista_Cube_Auto12594781B40CFC6DA5E47D0860B41B127.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Autosaves/Game/Project/Assets/Vehicles/Ciclista/Ciclista_Cube_Auto1.uasset'
+[2018.09.23-14.01.20:792][228]LogFileHelpers: Auto-saving content packages took 20.420
+[2018.09.23-14.32.07:698][238]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\WyKKe\Documentos\Dev-u\EndlessRunning\EndlessSongs\questw.wav)
+[2018.09.23-14.32.59:721][922]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Levels/NewGame' took 0.710
+[2018.09.23-14.32.59:743][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project/Assets/Audios/questw] ([1] browsable assets)...
+[2018.09.23-14.32.59:858][922]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Project/Assets/Audios/questw.questw]
+[2018.09.23-14.32.59:858][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Assets/Audios/questw]
+[2018.09.23-14.33.00:336][922]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/questw_Auto2B2D2DA46435C23A2A206A48DA8376374.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Autosaves/Game/Project/Assets/Audios/questw_Auto2.uasset'
+[2018.09.23-14.33.00:337][922]LogFileHelpers: Auto-saving content packages took 0.615
+[2018.09.23-14.33.39:071][622]BlueprintLog: New page: Compile QuestCl
+[2018.09.23-14.34.04:612][705]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/QuestCl9FFB84EB4C3BF716106B6ABCA0C5C12E.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset'
+[2018.09.23-14.34.35:606][519]BlueprintLog: New page: Compile QuestCl
+[2018.09.23-14.34.40:677][762]BlueprintLog: New page: Compile QuestCl
+[2018.09.23-14.34.41:911][788]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-14.34.42:133][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.34.42:181][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-14.34.42:344][788]PIE: New page: PIE session: NewGame (Sep 23, 2018, 8:34:42 AM)
+[2018.09.23-14.34.42:392][788]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-14.34.42:644][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.232594s)
+[2018.09.23-14.34.42:871][788]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-14.34.43:026][788]LogPlayLevel: PIE: World Init took: (0.381090s)
+[2018.09.23-14.34.43:088][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.696485s)
+[2018.09.23-14.34.44:110][788]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-14.34.44:410][788]LogInit: FAudioDevice initialized.
+[2018.09.23-14.34.44:701][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.34.45:063][788]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-14.34.45:416][788]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-11.34.45
+[2018.09.23-14.34.45:516][788]LogWorld: Bringing up level for play took: 0.109890
+[2018.09.23-14.34.46:140][788]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-14.34.47:183][788]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.34.47:185][788]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.34.47:187][788]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.34.47:187][788]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.34.47:201][788]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.34.47:202][788]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.34.47:222][788]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.34.47:224][788]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.34.47:259][788]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.34.47:275][788]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.34.47:692][788]Cmd: r.ScreenPercentage 100
+[2018.09.23-14.34.47:945][788]r.ScreenPercentage = "100"
+[2018.09.23-14.34.48:052][788]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-14.34.48:052][788]r.PostProcessAAQuality = "4"
+[2018.09.23-14.34.48:052][788]Cmd: sg.PostProcessQuality 2
+[2018.09.23-14.34.48:077][788]sg.PostProcessQuality = "2"
+[2018.09.23-14.34.48:077][788]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-14.34.48:077][788]r.PostProcessAAQuality = "4"
+[2018.09.23-14.34.48:078][788]Cmd: sg.PostProcessQuality 2
+[2018.09.23-14.34.48:078][788]sg.PostProcessQuality = "2"
+[2018.09.23-14.34.48:078][788]Cmd: sg.ShadowQuality 2
+[2018.09.23-14.34.48:078][788]sg.ShadowQuality = "2"
+[2018.09.23-14.34.48:078][788]Cmd: sg.TextureQuality 3
+[2018.09.23-14.34.48:078][788]sg.TextureQuality = "3"
+[2018.09.23-14.34.48:079][788]Cmd: sg.EffectsQuality 0
+[2018.09.23-14.34.48:079][788]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-14.34.48:079][788]sg.EffectsQuality = "0"
+[2018.09.23-14.34.48:079][788]Cmd: r.DetailMode 0
+[2018.09.23-14.34.48:079][788]r.DetailMode = "0"
+[2018.09.23-14.34.48:311][788]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 6.29
+[2018.09.23-14.34.48:427][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.34.50:133][789]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-14.34.50:140][789]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-14.35.02:919][789]LogLinker: Warning: Can't find file '/Game/Project/Assets/Audios/questw'
+[2018.09.23-14.35.02:940][789]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Audios/questw' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset.
+[2018.09.23-14.35.02:961][789]LoadErrors: Error: /Game/Project/Blueprints/Quests/QuestCl : Can't find file for asset. /Game/Project/Assets/Audios/questw
+[2018.09.23-14.35.02:962][789]LogLinker: Warning: Can't find file '/Game/Project/Assets/Audios/questw'
+[2018.09.23-14.35.02:962][789]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Audios/questw' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset.
+[2018.09.23-14.35.21:051][789]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-14.35.21:051][789]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-14.35.21:160][789]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-11.35.21
+[2018.09.23-14.35.21:161][789]LogWorld: Bringing up level for play took: 0.107913
+[2018.09.23-14.35.21:337][789]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.21:338][789]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.21:339][789]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.21:339][789]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.21:340][789]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.21:405][789]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.21:406][789]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.21:407][789]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.21:408][789]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.21:479][789]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.22:460][789]LogLoad: Took 32.320482 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-14.35.32:692][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.35.42:242][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-14.35.44:547][422]LogNet: Browse: /Game/Project/Levels/NewGame
+[2018.09.23-14.35.44:547][422]LogLoad: LoadMap: /Game/Project/Levels/NewGame
+[2018.09.23-14.35.44:905][422]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-14.35.44:908][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002656s)
+[2018.09.23-14.35.44:909][422]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-14.35.44:909][422]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2018.09.23-14.35.44:909][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.003714s)
+[2018.09.23-14.35.44:909][422]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-14.35.44:933][422]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-11.35.44
+[2018.09.23-14.35.44:933][422]LogWorld: Bringing up level for play took: 0.023456
+[2018.09.23-14.35.44:933][422]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-14.35.44:998][422]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:019][422]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:019][422]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:020][422]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:021][422]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:023][422]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:025][422]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:025][422]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:027][422]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:027][422]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:028][422]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:028][422]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.45:134][422]Cmd: r.ScreenPercentage 100
+[2018.09.23-14.35.45:134][422]r.ScreenPercentage = "100"
+[2018.09.23-14.35.45:134][422]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-14.35.45:134][422]r.PostProcessAAQuality = "4"
+[2018.09.23-14.35.45:135][422]Cmd: sg.PostProcessQuality 2
+[2018.09.23-14.35.45:135][422]sg.PostProcessQuality = "2"
+[2018.09.23-14.35.45:135][422]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-14.35.45:135][422]r.PostProcessAAQuality = "4"
+[2018.09.23-14.35.45:135][422]Cmd: sg.PostProcessQuality 2
+[2018.09.23-14.35.45:135][422]sg.PostProcessQuality = "2"
+[2018.09.23-14.35.45:142][422]Cmd: sg.ShadowQuality 2
+[2018.09.23-14.35.45:142][422]sg.ShadowQuality = "2"
+[2018.09.23-14.35.45:142][422]Cmd: sg.TextureQuality 3
+[2018.09.23-14.35.45:142][422]sg.TextureQuality = "3"
+[2018.09.23-14.35.45:142][422]Cmd: sg.EffectsQuality 0
+[2018.09.23-14.35.45:142][422]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-14.35.45:142][422]sg.EffectsQuality = "0"
+[2018.09.23-14.35.45:142][422]Cmd: r.DetailMode 0
+[2018.09.23-14.35.45:143][422]r.DetailMode = "0"
+[2018.09.23-14.35.45:144][422]LogLoad: Took 0.595900 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
+[2018.09.23-14.35.45:212][423]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-14.35.45:350][423]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-14.35.46:263][423]LogLinker: Warning: Can't find file '/Game/Project/Assets/Audios/questw'
+[2018.09.23-14.35.46:263][423]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Audios/questw' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset.
+[2018.09.23-14.35.46:290][423]LogLinker: Warning: Can't find file '/Game/Project/Assets/Audios/questw'
+[2018.09.23-14.35.46:290][423]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Audios/questw' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset.
+[2018.09.23-14.35.48:042][423]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-14.35.48:043][423]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-14.35.48:045][423]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-11.35.48
+[2018.09.23-14.35.48:045][423]LogWorld: Bringing up level for play took: 0.001559
+[2018.09.23-14.35.48:140][423]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:141][423]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:142][423]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:142][423]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:143][423]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:144][423]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:144][423]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:145][423]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:147][423]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:147][423]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:147][423]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:148][423]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.35.48:677][423]LogLoad: Took 3.326252 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-14.35.50:444][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.36.12:654][532]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave questw...
+[2018.09.23-14.36.12:676][532]LogTemp: Couldn't find amount to resample to.
+[2018.09.23-14.36.13:440][532]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 220500 while cooking SoundWave /Game/Project/Assets/Audios/questw.questw.
+[2018.09.23-14.36.33:034][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-14.36.34:913][675]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-14.36.35:212][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.36.35:458][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-14.36.35:480][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.36.35:803][676]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2018.09.23-14.37.08:273][499]BlueprintLog: New page: Compile QuestCl
+[2018.09.23-14.37.39:815][217]BlueprintLog: New page: Compile QuestCl
+[2018.09.23-14.37.52:965][958]BlueprintLog: New page: Compile QuestCl
+[2018.09.23-14.37.55:077][968]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/QuestCl5972D5FC4212AD442F35ABBB5AA7285C.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset'
+[2018.09.23-14.38.17:093][871]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.23-14.38.50:578][194]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Project/HUD/Menu/Configuration.Configuration
+[2018.09.23-14.39.08:658][929]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Project/HUD/Menu/Pause.Pause
+[2018.09.23-14.41.19:098][641]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\WyKKe\Documentos\Dev-u\EndlessRunning\HUD\download\Monster Game Assets\Monster Game Assets\png\small\flat_0009_Vector-Smart-Object.png)
+[2018.09.23-14.41.21:492][641]LogTexture: Display: Building textures: flat_0009_Vector-Smart-Object (BGRA8, 128X127)
+[2018.09.23-14.42.13:060][843]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-14.42.27:034][616]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-14.42.28:767][720]BlueprintLog: New page: Compile Configuration
+[2018.09.23-14.42.31:636][756]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Configuration2DF7C31643EC9AB578E378B935467F2A.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Configuration.uasset'
+[2018.09.23-14.42.57:746][289]BlueprintLog: New page: Compile Configuration
+[2018.09.23-14.43.23:603][587]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/ConfigurationA89C518844C639AD0B4C19A0578FEB98.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Configuration.uasset'
+[2018.09.23-14.43.32:136][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-14.43.32:557][ 99]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.43.32:557][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-14.43.32:580][ 99]PIE: New page: PIE session: NewGame (Sep 23, 2018, 8:43:32 AM)
+[2018.09.23-14.43.32:648][ 99]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-14.43.32:650][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001920s)
+[2018.09.23-14.43.32:655][ 99]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-14.43.32:656][ 99]LogPlayLevel: PIE: World Init took: (0.006053s)
+[2018.09.23-14.43.32:656][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.008199s)
+[2018.09.23-14.43.32:716][ 99]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-14.43.32:728][ 99]LogInit: FAudioDevice initialized.
+[2018.09.23-14.43.32:738][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.43.32:828][ 99]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-14.43.32:829][ 99]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-11.43.32
+[2018.09.23-14.43.32:829][ 99]LogWorld: Bringing up level for play took: 0.000479
+[2018.09.23-14.43.32:840][ 99]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-14.43.32:937][ 99]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.32:938][ 99]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.32:939][ 99]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.32:940][ 99]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.32:940][ 99]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.32:944][ 99]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.32:971][ 99]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.32:971][ 99]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.32:972][ 99]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.32:973][ 99]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.33:749][ 99]Cmd: r.ScreenPercentage 100
+[2018.09.23-14.43.33:749][ 99]r.ScreenPercentage = "100"
+[2018.09.23-14.43.33:749][ 99]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-14.43.33:749][ 99]r.PostProcessAAQuality = "4"
+[2018.09.23-14.43.33:749][ 99]Cmd: sg.PostProcessQuality 2
+[2018.09.23-14.43.33:750][ 99]sg.PostProcessQuality = "2"
+[2018.09.23-14.43.33:750][ 99]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-14.43.33:750][ 99]r.PostProcessAAQuality = "4"
+[2018.09.23-14.43.33:750][ 99]Cmd: sg.PostProcessQuality 2
+[2018.09.23-14.43.33:750][ 99]sg.PostProcessQuality = "2"
+[2018.09.23-14.43.33:750][ 99]Cmd: sg.ShadowQuality 2
+[2018.09.23-14.43.33:750][ 99]sg.ShadowQuality = "2"
+[2018.09.23-14.43.33:750][ 99]Cmd: sg.TextureQuality 3
+[2018.09.23-14.43.33:750][ 99]sg.TextureQuality = "3"
+[2018.09.23-14.43.33:751][ 99]Cmd: sg.EffectsQuality 0
+[2018.09.23-14.43.33:751][ 99]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-14.43.33:751][ 99]sg.EffectsQuality = "0"
+[2018.09.23-14.43.33:751][ 99]Cmd: r.DetailMode 0
+[2018.09.23-14.43.33:751][ 99]r.DetailMode = "0"
+[2018.09.23-14.43.33:756][ 99]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 1.736
+[2018.09.23-14.43.33:803][ 99]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.43.34:932][100]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-14.43.34:933][100]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-14.43.36:810][100]LogLinker: Warning: Can't find file '/Game/Project/Assets/Audios/questw'
+[2018.09.23-14.43.36:810][100]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Audios/questw' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset.
+[2018.09.23-14.43.36:811][100]LogLinker: Warning: Can't find file '/Game/Project/Assets/Audios/questw'
+[2018.09.23-14.43.36:811][100]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Audios/questw' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset.
+[2018.09.23-14.43.38:031][100]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-14.43.38:032][100]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-14.43.38:034][100]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-11.43.38
+[2018.09.23-14.43.38:034][100]LogWorld: Bringing up level for play took: 0.001672
+[2018.09.23-14.43.38:101][100]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:102][100]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:102][100]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:103][100]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:104][100]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:106][100]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:108][100]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:108][100]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:109][100]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:110][100]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:110][100]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.43.38:384][100]LogLoad: Took 3.450950 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-14.43.45:555][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.43.53:870][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-14.43.54:009][554]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-14.43.54:013][554]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.43.54:063][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-14.43.54:064][554]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.43.54:335][555]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2018.09.23-14.44.34:827][615]BlueprintLog: New page: Compile Configuration
+[2018.09.23-14.44.35:977][648]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/ConfigurationFF4A072B48400E6CA164189A0EDADD4F.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Configuration.uasset'
+[2018.09.23-14.44.38:588][789]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Project/HUD/Menu/Credits.Credits
+[2018.09.23-14.45.07:846][635]LogSlate: Window 'Credits*' being destroyed
+[2018.09.23-14.45.35:655][855]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-14.45.37:590][971]BlueprintLog: New page: Compile Credits
+[2018.09.23-14.45.37:785][971]LogBlueprint: Warning: [Compiler Credits] Could not find a variable named "ButtonGrap" in 'Credits_C'.
+Make sure 'Credits_C' has been compiled for  Get ButtonGrap
+[2018.09.23-14.45.37:786][971]LogBlueprint: Warning: [Compiler Credits] Could not find a variable named "ButtonGrap" in 'Credits_C'.
+Make sure 'Credits_C' has been compiled for  Get ButtonGrap
+[2018.09.23-14.45.37:853][971]LogBlueprint: Error: [Compiler Credits] The property associated with  Button Grap  could not be found in '/Game/Project/HUD/Menu/Credits.Credits_C'
+[2018.09.23-14.45.37:853][971]LogBlueprint: Error: [Compiler Credits] The property associated with  Button Grap  could not be found in '/Game/Project/HUD/Menu/Credits.Credits_C'
+[2018.09.23-14.45.38:091][971]LogBlueprint: Warning: [Compiler Credits] [8059.43] Compile of Credits failed. 2 Fatal Issue(s) 2 Warning(s) [in 487 ms] (/Game/Project/HUD/Menu/Credits.Credits)
+[2018.09.23-14.45.53:567][759]BlueprintLog: New page: Compile Credits
+[2018.09.23-14.46.33:107][ 41]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.23-14.46.42:794][614]BlueprintLog: New page: Compile Credits
+[2018.09.23-14.46.43:575][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Credits" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Credits.uasset" SILENT=true
+[2018.09.23-14.46.43:598][649]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Credits7BE5F3C44B2CF2623C1D0CB8A2D9F8DB.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Credits.uasset'
+[2018.09.23-14.46.45:240][738]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-14.46.45:266][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.46.45:266][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-14.46.45:267][738]PIE: New page: PIE session: NewGame (Sep 23, 2018, 8:46:45 AM)
+[2018.09.23-14.46.45:332][738]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-14.46.45:334][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001923s)
+[2018.09.23-14.46.45:335][738]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-14.46.45:335][738]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2018.09.23-14.46.45:335][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.003160s)
+[2018.09.23-14.46.45:396][738]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-14.46.45:408][738]LogInit: FAudioDevice initialized.
+[2018.09.23-14.46.45:417][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.46.45:460][738]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-14.46.45:461][738]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-11.46.45
+[2018.09.23-14.46.45:462][738]LogWorld: Bringing up level for play took: 0.000521
+[2018.09.23-14.46.45:474][738]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-14.46.45:579][738]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:580][738]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:580][738]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:581][738]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:581][738]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:600][738]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:601][738]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:602][738]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:603][738]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:605][738]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:605][738]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:607][738]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.45:744][738]Cmd: r.ScreenPercentage 100
+[2018.09.23-14.46.45:744][738]r.ScreenPercentage = "100"
+[2018.09.23-14.46.45:744][738]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-14.46.45:744][738]r.PostProcessAAQuality = "4"
+[2018.09.23-14.46.45:744][738]Cmd: sg.PostProcessQuality 2
+[2018.09.23-14.46.45:744][738]sg.PostProcessQuality = "2"
+[2018.09.23-14.46.45:744][738]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-14.46.45:745][738]r.PostProcessAAQuality = "4"
+[2018.09.23-14.46.45:745][738]Cmd: sg.PostProcessQuality 2
+[2018.09.23-14.46.45:745][738]sg.PostProcessQuality = "2"
+[2018.09.23-14.46.45:745][738]Cmd: sg.ShadowQuality 2
+[2018.09.23-14.46.45:745][738]sg.ShadowQuality = "2"
+[2018.09.23-14.46.45:745][738]Cmd: sg.TextureQuality 3
+[2018.09.23-14.46.45:745][738]sg.TextureQuality = "3"
+[2018.09.23-14.46.45:745][738]Cmd: sg.EffectsQuality 0
+[2018.09.23-14.46.45:745][738]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-14.46.45:745][738]sg.EffectsQuality = "0"
+[2018.09.23-14.46.45:746][738]Cmd: r.DetailMode 0
+[2018.09.23-14.46.45:746][738]r.DetailMode = "0"
+[2018.09.23-14.46.45:748][738]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame -0.273
+[2018.09.23-14.46.45:748][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.46.45:982][739]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-14.46.45:982][739]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-14.46.46:651][739]LogLinker: Warning: Can't find file '/Game/Project/Assets/Audios/questw'
+[2018.09.23-14.46.46:652][739]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Audios/questw' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset.
+[2018.09.23-14.46.46:653][739]LogLinker: Warning: Can't find file '/Game/Project/Assets/Audios/questw'
+[2018.09.23-14.46.46:653][739]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Audios/questw' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset.
+[2018.09.23-14.46.47:868][739]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-14.46.47:869][739]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-14.46.47:870][739]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-11.46.47
+[2018.09.23-14.46.47:871][739]LogWorld: Bringing up level for play took: 0.001431
+[2018.09.23-14.46.47:933][739]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:934][739]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:935][739]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:935][739]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:937][739]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:937][739]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:938][739]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:939][739]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:939][739]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:940][739]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:940][739]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:941][739]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:941][739]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.47:942][739]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.46.48:074][739]LogLoad: Took 2.092702 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-14.46.49:657][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.46.50:554][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.46.58:894][293]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-14.46.58:901][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.46.58:951][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-14.46.58:951][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.46.59:211][294]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2018.09.23-14.47.47:175][130]BlueprintLog: New page: Compile Credits
+[2018.09.23-14.47.59:917][847]BlueprintLog: New page: Compile Credits
+[2018.09.23-14.48.00:707][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Credits" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Credits.uasset" SILENT=true
+[2018.09.23-14.48.00:790][872]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/CreditsB18304F649C081A83E5DBE806F000606.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Credits.uasset'
+[2018.09.23-14.48.11:456][512]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-14.48.11:540][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.48.11:541][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-14.48.11:541][512]PIE: New page: PIE session: NewGame (Sep 23, 2018, 8:48:11 AM)
+[2018.09.23-14.48.11:549][512]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-14.48.11:569][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020612s)
+[2018.09.23-14.48.11:570][512]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-14.48.11:570][512]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2018.09.23-14.48.11:570][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.021674s)
+[2018.09.23-14.48.11:625][512]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-14.48.11:637][512]LogInit: FAudioDevice initialized.
+[2018.09.23-14.48.11:647][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.48.11:685][512]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-14.48.11:686][512]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-11.48.11
+[2018.09.23-14.48.11:687][512]LogWorld: Bringing up level for play took: 0.000663
+[2018.09.23-14.48.11:699][512]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-14.48.11:767][512]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.11:768][512]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.11:769][512]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.11:769][512]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.11:772][512]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.11:775][512]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.11:967][512]Cmd: r.ScreenPercentage 100
+[2018.09.23-14.48.11:967][512]r.ScreenPercentage = "100"
+[2018.09.23-14.48.11:968][512]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-14.48.11:968][512]r.PostProcessAAQuality = "4"
+[2018.09.23-14.48.11:968][512]Cmd: sg.PostProcessQuality 2
+[2018.09.23-14.48.11:968][512]sg.PostProcessQuality = "2"
+[2018.09.23-14.48.11:968][512]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-14.48.11:968][512]r.PostProcessAAQuality = "4"
+[2018.09.23-14.48.11:968][512]Cmd: sg.PostProcessQuality 2
+[2018.09.23-14.48.11:969][512]sg.PostProcessQuality = "2"
+[2018.09.23-14.48.11:969][512]Cmd: sg.ShadowQuality 2
+[2018.09.23-14.48.11:969][512]sg.ShadowQuality = "2"
+[2018.09.23-14.48.11:969][512]Cmd: sg.TextureQuality 3
+[2018.09.23-14.48.11:969][512]sg.TextureQuality = "3"
+[2018.09.23-14.48.11:969][512]Cmd: sg.EffectsQuality 0
+[2018.09.23-14.48.11:969][512]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-14.48.11:969][512]sg.EffectsQuality = "0"
+[2018.09.23-14.48.11:969][512]Cmd: r.DetailMode 0
+[2018.09.23-14.48.11:969][512]r.DetailMode = "0"
+[2018.09.23-14.48.11:972][512]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame -0.049
+[2018.09.23-14.48.11:972][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.48.12:196][513]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-14.48.12:196][513]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-14.48.12:669][513]LogLinker: Warning: Can't find file '/Game/Project/Assets/Audios/questw'
+[2018.09.23-14.48.12:669][513]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Audios/questw' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset.
+[2018.09.23-14.48.12:670][513]LogLinker: Warning: Can't find file '/Game/Project/Assets/Audios/questw'
+[2018.09.23-14.48.12:670][513]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Audios/questw' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Quests/QuestCl.uasset.
+[2018.09.23-14.48.13:341][513]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-14.48.13:341][513]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-14.48.13:344][513]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-11.48.13
+[2018.09.23-14.48.13:344][513]LogWorld: Bringing up level for play took: 0.001910
+[2018.09.23-14.48.13:405][513]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.13:405][513]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.13:407][513]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.13:408][513]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.13:408][513]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.13:410][513]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.13:411][513]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.13:412][513]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.13:412][513]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.13:413][513]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-14.48.13:520][513]LogLoad: Took 1.323784 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-14.48.14:656][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.48.15:472][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.48.16:570][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-14.48.18:582][715]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-14.48.18:588][715]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.48.18:693][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-14.48.18:693][715]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-14.48.18:838][716]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2018.09.23-14.48.43:990][806]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Levels/NewGame' took 0.260
+[2018.09.23-14.48.44:452][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project/HUD/APK/MButtons/flat_0009_Vector-Smart-Object] ([1] browsable assets)...
+[2018.09.23-14.48.44:870][806]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Project/HUD/APK/MButtons/flat_0009_Vector-Smart-Object.flat_0009_Vector-Smart-Object]
+[2018.09.23-14.48.44:871][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/HUD/APK/MButtons/flat_0009_Vector-Smart-Object]
+[2018.09.23-14.48.45:373][806]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/flat_0009_Vector-Smart-Object_AuD5099A314E8AA0E4C15D99960376BD98.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Autosaves/Game/Project/HUD/APK/MButtons/flat_0009_Vector-Smart-Object_Auto3.uasset'
+[2018.09.23-14.48.45:465][806]LogFileHelpers: Auto-saving content packages took 1.474
+[2018.09.23-14.59.23:979][473]BlueprintLog: New page: Compile Credits
+[2018.09.23-14.59.31:253][851]LogEditorTransaction: Undo Edit Bottom
+[2018.09.23-14.59.34:633][851]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.198 s
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: 
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: 
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: Stack: 
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7c447136 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7c180c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7c19b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7a48ee3f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7a4344c6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:633][851]LogOutputDevice: Error: [Callstack] 0x00007ffa76b29e58 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa76b2abfd UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa76b2a89e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa76b74391 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa76a6ce5a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa769f0e88 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa769764ba UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa76a904c9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa769f3049 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa79d56a2e UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa79b693b0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa79b01444 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa72a86cd4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa72a25a96 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa729b73c4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa72ab9a79 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa72a7ee5b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7608fce9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7cd1d8d3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7a804515 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa761fe4bd UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7a434d16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7a46015b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7a446485 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7a4b2d25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7a4f9acd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7a48c77f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa760905b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa79b024df UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa79b4437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7ace34fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7acd1498 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa79ac70ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa79b4606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa79b39846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7c94ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7c940270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7c94f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7c93c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffab8c26cc1 USER32.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffab8c26693 USER32.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffa7c950646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ff6a5ab54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ff6a5ac5b3c UE4Editor.exe!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ff6a5ac5bba UE4Editor.exe!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ff6a5ad3dac UE4Editor.exe!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ff6a5ad5aaa UE4Editor.exe!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffab9653034 KERNEL32.DLL!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: [Callstack] 0x00007ffabb451461 ntdll.dll!UnknownFunction []
+[2018.09.23-14.59.34:634][851]LogOutputDevice: Error: 
+[2018.09.23-14.59.34:677][851]LogStats:                SubmitErrorReport -  0.012 s
+[2018.09.23-15.00.04:507][851]LogStats:                    SendNewReport - 29.831 s
+[2018.09.23-15.00.04:507][851]LogStats:             FDebug::EnsureFailed - 33.135 s
+[2018.09.23-15.00.05:869][852]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Levels/NewGame' took 0.043
+[2018.09.23-15.00.05:966][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/HUD/Menu/Configuration] ([1] browsable assets)...
+[2018.09.23-15.00.05:966][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/HUD/Menu/Configuration]
+[2018.09.23-15.00.15:088][852]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Configuration_Auto45D215D9A4D5296EC26AA96A9E616BAE9.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Autosaves/Game/Project/HUD/Menu/Configuration_Auto4.uasset'
+[2018.09.23-15.00.15:602][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/HUD/Menu/Credits] ([1] browsable assets)...
+[2018.09.23-15.00.15:602][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/HUD/Menu/Credits]
+[2018.09.23-15.00.16:011][852]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Credits_Auto4B61F20564D95B6D674E363BC703117FB.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Autosaves/Game/Project/HUD/Menu/Credits_Auto4.uasset'
+[2018.09.23-15.00.16:012][852]LogFileHelpers: Auto-saving content packages took 10.142
+[2018.09.23-15.00.22:118][185]BlueprintLog: New page: Compile Configuration
+[2018.09.23-15.00.23:658][216]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Configuration34053703442F6F14E9A2919A53E23E33.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Configuration.uasset'
+[2018.09.23-15.00.24:874][287]BlueprintLog: New page: Compile Credits
+[2018.09.23-15.00.26:218][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Credits" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Credits.uasset" SILENT=true
+[2018.09.23-15.00.26:336][350]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Credits3AB1F5B2467FC7CCC8223F82E2DA5412.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Credits.uasset'
+[2018.09.23-15.01.33:852][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Credits" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Credits.uasset" SILENT=true
+[2018.09.23-15.01.34:202][397]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Credits100170E44F0C17ABDB5645B443904D6C.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Credits.uasset'
