@@ -1,4 +1,4 @@
-﻿Log file open, 09/19/18 17:26:07
+﻿Log file open, 09/23/18 03:32:10
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: EndlessRunning
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 2.882170
+LogStats: Stats thread started at 7.768523
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -67,7 +67,7 @@ LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin SlateRemote
-LogStreaming: Display: Took  1.159s to configure plugins.
+LogStreaming: Display: Took  1.125s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -121,860 +121,448 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.263s to delete old logs.
+LogStreaming: Display: Took  0.128s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.09.19-20.26.10:537][  0]LogInit: Selected Device Profile: [Windows]
-[2018.09.19-20.26.10:547][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.09.19-20.26.10:730][  0]LogHAL: Display: Platform has ~ 4 GB [4198641664 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.09.19-20.26.10:755][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.09.19-20.26.10:755][  0]LogInit: Going up to parent DeviceProfile []
-[2018.09.19-20.26.10:826][  0]LogInit: Computer: DESKTOP-787UAHE
-[2018.09.19-20.26.10:826][  0]LogInit: User: WyKKe
-[2018.09.19-20.26.10:826][  0]LogInit: CPU Page size=4096, Cores=2
-[2018.09.19-20.26.10:826][  0]LogInit: High frequency timer resolution =2.648439 MHz
-[2018.09.19-20.26.10:831][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
-[2018.09.19-20.26.10:831][  0]LogMemory: Platform Memory Stats for Windows
-[2018.09.19-20.26.10:831][  0]LogMemory: Process Physical Memory: 98.12 MB used, 98.12 MB peak
-[2018.09.19-20.26.10:831][  0]LogMemory: Process Virtual Memory: 92.01 MB used, 92.01 MB peak
-[2018.09.19-20.26.10:831][  0]LogMemory: Physical Memory: 3188.09 MB used,  816.05 MB free, 4004.14 MB total
-[2018.09.19-20.26.10:831][  0]LogMemory: Virtual Memory: 4618.20 MB used,  816.05 MB free, 134217728.00 MB total
-[2018.09.19-20.26.12:268][  0]LogInit: Overriding language with editor language configuration option (en).
-[2018.09.19-20.26.12:268][  0]LogInit: Overriding locale with editor locale configuration option (en).
-[2018.09.19-20.26.13:532][  0]LogStreaming: Display: Took  1.266s to InitEngineTextLocalization.
-[2018.09.19-20.26.13:546][  0]LogInit: Setting process to per monitor DPI aware
-[2018.09.19-20.26.14:984][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.09.19-20.26.14:984][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.09.19-20.26.22:766][  0]LogD3D11RHI: D3D11 adapters:
-[2018.09.19-20.26.23:170][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
-[2018.09.19-20.26.23:170][  0]LogD3D11RHI:       128/0/2002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
-[2018.09.19-20.26.23:195][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.09.19-20.26.23:195][  0]LogD3D11RHI:       0/0/2002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.09.19-20.26.23:195][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.09.19-20.26.23:214][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.09.19-20.26.23:214][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
-[2018.09.19-20.26.23:234][  0]LogWindows: EnumDisplayDevices:
-[2018.09.19-20.26.23:234][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
-[2018.09.19-20.26.23:255][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
-[2018.09.19-20.26.23:255][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
-[2018.09.19-20.26.23:255][  0]LogWindows: DebugString: FoundDriverCount:3 
-[2018.09.19-20.26.23:255][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
-[2018.09.19-20.26.23:255][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
-[2018.09.19-20.26.23:255][  0]LogD3D11RHI:      Driver Date: 2-28-2018
-[2018.09.19-20.26.23:263][  0]LogRHI: Texture pool is 790 MB (70% of 1129 MB)
-[2018.09.19-20.26.23:519][  0]LogD3D11RHI: Async texture creation enabled
-[2018.09.19-20.26.23:862][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
-[2018.09.19-20.26.24:026][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Intermediate/Shaders/WorkingDirectory/10980/).
-[2018.09.19-20.26.24:026][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/WyKKe/AppData/Local/Temp/UnrealShaderWorkingDir/32FBA79F4920858BC6C8789E43C3D791/'.
-[2018.09.19-20.26.32:989][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.09.19-20.26.33:028][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.09.19-20.26.33:090][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.09.19-20.26.33:130][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.09.19-20.26.33:230][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.09.19-20.26.33:310][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.09.19-20.26.33:351][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.09.19-20.26.33:403][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.09.19-20.26.33:455][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.19-20.26.33:683][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.09.19-20.26.33:893][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.09.19-20.26.33:893][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.09.19-20.26.33:972][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.09.19-20.26.33:972][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.09.19-20.26.34:026][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.09.19-20.26.34:063][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.09.19-20.26.34:113][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.09.19-20.26.34:199][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.09.19-20.26.34:229][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.09.19-20.26.34:229][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.09.19-20.26.35:797][  0]LogXGEController: Cleaning working directory: C:/Users/WyKKe/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.09.19-20.26.35:797][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.09.19-20.26.35:798][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.09.19-20.26.35:798][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.09.19-20.26.42:754][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.09.19-20.26.43:613][  0]LogDerivedDataCache: Loaded boot cache 0.84s 65MB C:/Users/WyKKe/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.09.19-20.26.43:614][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/WyKKe/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.09.19-20.26.43:614][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.09.19-20.26.43:614][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.09.19-20.26.43:614][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.09.19-20.26.43:614][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.09.19-20.26.43:745][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.09.19-20.26.43:889][  0]LogDerivedDataCache: Using Local data cache path C:/Users/WyKKe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.09.19-20.26.43:889][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.09.19-20.26.43:889][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.09.19-20.26.44:009][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.09.19-20.26.44:123][  0]LogSlate: Using FreeType 2.6.0
-[2018.09.19-20.26.44:362][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.09.19-20.26.47:046][  0]LogAssetRegistry: FAssetRegistry took 0.0690 seconds to start up
-[2018.09.19-20.26.53:150][  0]LogInit: Selected Device Profile: [Windows]
-[2018.09.19-20.26.58:512][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.09.19-20.26.58:576][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.09.19-20.26.58:576][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.09.19-20.26.58:576][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.09.19-20.26.58:576][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.09.19-20.26.58:576][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.09.19-20.27.01:081][  0]LogNetVersion: EndlessRunning 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2830718741)
-[2018.09.19-20.27.12:712][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 1 prioritized culture(s) in 0.544432 seconds
-[2018.09.19-20.27.12:787][  0]LogUObjectArray: 37353 objects as part of root set at end of initial load.
-[2018.09.19-20.27.12:787][  0]LogUObjectAllocator: 6485040 out of 0 bytes used by permanent object pool.
-[2018.09.19-20.27.12:787][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.09.19-20.27.58:037][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.09.19-20.27.58:079][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.09.19-20.27.58:366][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.012 s
-[2018.09.19-20.27.58:366][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.09.19-20.27.58:366][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.09.19-20.27.58:366][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.09.19-20.27.59:427][  0]SourceControl: Source control is disabled
-[2018.09.19-20.27.59:445][  0]SourceControl: Source control is disabled
-[2018.09.19-20.27.59:546][  0]SourceControl: Source control is disabled
-[2018.09.19-20.27.59:577][  0]SourceControl: Source control is disabled
-[2018.09.19-20.28.01:670][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.09.19-20.28.02:810][  0]LogEngine: Initializing Engine...
-[2018.09.19-20.28.05:178][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.09.19-20.28.06:313][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.09.19-20.28.07:007][  0]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.28.07:189][  0]LogInit: FAudioDevice initialized.
-[2018.09.19-20.28.07:205][  0]LogNetVersion: Set ProjectVersion to 1.0.0. Version Checksum will be recalculated on next use.
-[2018.09.19-20.28.07:563][  0]LogDerivedDataCache: Saved boot cache 0.36s 65MB C:/Users/WyKKe/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.09.19-20.28.07:610][  0]LogInit: Texture streaming: Enabled
-[2018.09.19-20.28.08:005][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.09.19-20.28.08:706][  0]LogInit: Transaction tracking system initialized
-[2018.09.19-20.28.10:435][  0]BlueprintLog: New page: Editor Load
-[2018.09.19-20.28.12:658][  0]LocalizationService: Localization service is disabled
-[2018.09.19-20.28.20:963][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.09.19-20.28.20:967][  0]LogCook: Display: Mobile HDR setting 0
-[2018.09.19-20.28.21:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/' took 0.31s
-[2018.09.19-20.28.21:036][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.09.19-20.28.21:057][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.09.19-20.28.21:057][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.09.19-20.28.21:057][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.09.19-20.28.21:094][  0]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.025 s
-[2018.09.19-20.28.21:094][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.037 s
-[2018.09.19-20.28.25:874][  0]SourceControl: Source control is disabled
-[2018.09.19-20.28.25:936][  0]Cmd: MAP LOAD FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/NewGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.09.19-20.28.26:050][  0]LightingResults: New page: Lighting Build
-[2018.09.19-20.28.26:427][  0]MapCheck: New page: Map Check
-[2018.09.19-20.28.26:427][  0]LightingResults: New page: Lighting Build
-[2018.09.19-20.28.26:456][  0]LogGarbage: Warning: 15.777596 ms for acquiring GC lock
-[2018.09.19-20.28.32:090][  0]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.28.32:688][  0]LogEditorServer: Finished looking for orphan Actors (0.061 secs)
-[2018.09.19-20.28.33:126][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.09.19-20.28.33:265][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 138.618ms to complete.
-[2018.09.19-20.28.33:284][  0]LogFileHelpers: Loading map 'NewGame' took 7.371
-[2018.09.19-20.28.36:412][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.28.36:509][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.28.36:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.28.36:528][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.28.36:704][  0]LogCollectionManager: Loaded 0 collections in 0.002275 seconds
-[2018.09.19-20.28.36:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Collections/' took 0.01s
-[2018.09.19-20.28.36:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Developers/WyKKe/Collections/' took 0.01s
-[2018.09.19-20.28.36:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Collections/' took 0.01s
-[2018.09.19-20.28.36:936][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.09.19-20.28.36:966][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2575 classes and 521 folders.
-[2018.09.19-20.28.37:117][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.09.19-20.28.39:526][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.09.19-20.28.39:591][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.09.19-20.28.40:640][  0]LogSlate: Took 0.031980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.09.19-20.28.40:866][  0]LogSlate: Took 0.047225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.09.19-20.28.41:043][  0]LogSlate: Took 0.024353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.09.19-20.28.45:705][  0]LogRenderer: Reallocating scene render targets to support 852x324 Format 10 NumSamples 1 (Frame:1).
-[2018.09.19-20.28.48:149][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.09.19-20.28.48:149][  0]LogLoad: (Engine Initialization) Total time: 199.11 seconds
-[2018.09.19-20.28.48:149][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.09.19-20.28.50:177][  0]LogContentStreaming: Texture pool size now 3000 MB
-[2018.09.19-20.28.51:174][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/' took 2.47s
-[2018.09.19-20.28.51:701][  1]LogSlate: Took 0.019829 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.09.19-20.28.51:937][  2]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.09.19-20.28.52:236][  4]LogAssetRegistry: Asset discovery search completed in 125.2320 seconds
-[2018.09.19-20.28.52:284][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.09.19-20.28.52:284][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000114 seconds (updated 0 objects)
-[2018.09.19-20.29.11:085][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.09.19-20.29.16:010][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.09.19-20.29.42:024][581]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Project/Assets/Audios/SoundGameplay.SoundGameplay
-[2018.09.19-20.29.43:807][581]LogSlate: Took 0.017598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.09.19-20.30.00:101][288]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave MainTheme...
-[2018.09.19-20.30.00:211][288]LogTemp: Couldn't find amount to resample to.
-[2018.09.19-20.30.01:252][288]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 8951040 while cooking SoundWave /Game/Project/Assets/Audios/MainTheme.MainTheme.
-[2018.09.19-20.30.03:877][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.09.19-20.30.29:558][454]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/SoundGameplay8A93BC5448E647A9778F9A83101F4648.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Assets/Audios/SoundGameplay.uasset'
-[2018.09.19-20.30.38:762][690]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/SoundGameplay3B47001F4866CA49DEBE8893F6F9703B.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Assets/Audios/SoundGameplay.uasset'
-[2018.09.19-20.30.39:625][724]LogSlate: Window 'SoundGameplay' being destroyed
-[2018.09.19-20.30.52:064][343]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Project/Assets/Audios/SoundShop.SoundShop
-[2018.09.19-20.31.02:084][738]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/SoundShop3176CC1349D5DD484BF89CA7DECE90F3.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Assets/Audios/SoundShop.uasset'
-[2018.09.19-20.31.03:869][809]LogSlate: Window 'SoundShop' being destroyed
-[2018.09.19-20.32.23:116][ 34]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.32.23:950][ 34]LogAssetEditorManager: Opening Asset editor for World /Game/Project/Levels/Main.Main
-[2018.09.19-20.32.24:449][ 34]Cmd: MAP LOAD FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.09.19-20.32.24:450][ 34]LightingResults: New page: Lighting Build
-[2018.09.19-20.32.24:504][ 34]LoadErrors: New page: Loading map: Main.umap
-[2018.09.19-20.32.24:548][ 34]MapCheck: New page: Map Check
-[2018.09.19-20.32.24:548][ 34]LightingResults: New page: Lighting Build
-[2018.09.19-20.32.26:190][ 34]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.09.19-20.32.26:385][ 34]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.09.19-20.32.28:463][ 34]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,076.793ms to complete.
-[2018.09.19-20.32.28:464][ 34]LogFileHelpers: Loading map 'Main' took 4.061
-[2018.09.19-20.32.38:255][170]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Project/Levels/Main.Main:PersistentLevel.Main
-[2018.09.19-20.32.42:456][170]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0381 seconds. Added 116 classes and 0 folders.
-[2018.09.19-20.32.57:750][171]LogSlate: Took 0.038548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.09.19-20.33.52:727][239]BlueprintLog: New page: Compile Main
-[2018.09.19-20.33.56:181][239]LogGarbage: Warning: 10.501280 ms for acquiring GC lock
-[2018.09.19-20.34.15:425][275]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/MainAAF3F8764C6287AA8784C8B8BE8BE78C.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/Main.umap'
-[2018.09.19-20.34.15:826][275]LogFileHelpers: Saving map 'Main' took 18.382
-[2018.09.19-20.35.23:057][931]BlueprintLog: New page: Compile Main
-[2018.09.19-20.35.24:656][965]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/MainFF05B4A1472C3527FFB2379B9ED406BC.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/Main.umap'
-[2018.09.19-20.35.24:719][965]LogFileHelpers: Saving map 'Main' took 0.602
-[2018.09.19-20.35.47:018][676]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Project/HUD/Menu/Menu.Menu
-[2018.09.19-20.37.44:053][273]BlueprintLog: New page: Compile Main
-[2018.09.19-20.38.31:121][ 58]LogEditorTransaction: Undo Move Node
-[2018.09.19-20.38.32:637][130]LogEditorTransaction: Undo Move Node
-[2018.09.19-20.38.33:188][163]LogEditorTransaction: Undo Delete current selection
-[2018.09.19-20.38.55:040][431]BlueprintLog: New page: Compile Main
-[2018.09.19-20.38.58:957][573]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Main_GameMode.Main_GameMode
-[2018.09.19-20.39.21:338][667]LogSlate: Took 0.062229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
-[2018.09.19-20.39.50:089][349]BlueprintLog: New page: Compile Main_GameMode
-[2018.09.19-20.39.53:158][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
-[2018.09.19-20.39.53:970][469]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameMode9F8B571448BFB6C5854576B0888AC1CD.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
-[2018.09.19-20.40.14:321][683]BlueprintLog: New page: Compile Main
-[2018.09.19-20.40.15:536][714]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main76722CA349BBD56DBAC9F685CA345C49.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/Main.umap'
-[2018.09.19-20.40.15:572][714]LogFileHelpers: Saving map 'Main' took 0.526
-[2018.09.19-20.41.01:963][438]BlueprintLog: New page: Compile Menu
-[2018.09.19-20.41.02:700][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
-[2018.09.19-20.41.02:865][466]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/MenuDAF0DAF04C3E874D84618185F5C996FC.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
-[2018.09.19-20.41.57:851][737]BlueprintLog: New page: Compile Menu
-[2018.09.19-20.41.58:898][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
-[2018.09.19-20.41.59:170][788]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/MenuB2C19EC64BFABF7A8FE5C0AA9CA51D81.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
-[2018.09.19-20.42.20:585][631]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Project/HUD/Menu/CharacterCreation.CharacterCreation
-[2018.09.19-20.43.57:883][386]BlueprintLog: New page: Compile CharacterCreation
-[2018.09.19-20.43.58:721][408]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/CharacterCreation7C4B4E9D4FFE858470D7DAA9AF7BEFC9.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/CharacterCreation.uasset'
-[2018.09.19-20.44.04:446][618]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.44.04:558][618]LogAssetEditorManager: Opening Asset editor for World /Game/Project/Levels/NewGame.NewGame
-[2018.09.19-20.44.04:635][618]Cmd: MAP LOAD FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/NewGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.09.19-20.44.04:635][618]LightingResults: New page: Lighting Build
-[2018.09.19-20.44.04:675][618]LoadErrors: New page: Loading map: NewGame.umap
-[2018.09.19-20.44.05:155][618]MapCheck: New page: Map Check
-[2018.09.19-20.44.05:156][618]LightingResults: New page: Lighting Build
-[2018.09.19-20.44.05:673][618]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.09.19-20.44.05:822][618]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.09.19-20.44.06:007][618]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 185.521ms to complete.
-[2018.09.19-20.44.06:007][618]LogFileHelpers: Loading map 'NewGame' took 1.412
-[2018.09.19-20.44.08:034][698]LogTemp: Repeating last play command: Selected Viewport
-[2018.09.19-20.44.11:119][698]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.44.11:188][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.09.19-20.44.12:088][698]PIE: New page: PIE session: NewGame (Sep 19, 2018, 2:44:12 PM)
-[2018.09.19-20.44.12:146][698]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.44.12:199][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052905s)
-[2018.09.19-20.44.12:220][698]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.44.12:276][698]LogPlayLevel: PIE: World Init took: (0.056420s)
-[2018.09.19-20.44.12:288][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.154158s)
-[2018.09.19-20.44.13:227][698]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.44.13:429][698]LogInit: FAudioDevice initialized.
-[2018.09.19-20.44.13:971][698]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.44.13:991][698]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.44.13
-[2018.09.19-20.44.14:043][698]LogWorld: Bringing up level for play took: 0.051732
-[2018.09.19-20.44.14:726][698]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0091 seconds. Added 10 classes and 0 folders.
-[2018.09.19-20.44.15:781][698]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 3.78
-[2018.09.19-20.44.15:781][698]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.44.16:687][699]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.44.16:688][699]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.44.24:758][699]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.44.24:759][699]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.44.24:867][699]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.44.24
-[2018.09.19-20.44.24:867][699]LogWorld: Bringing up level for play took: 0.070773
-[2018.09.19-20.44.25:383][699]LogLoad: Took 8.694313 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.44.30:129][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.44.30:205][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.44.30:831][780]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.09.19-20.44.30:861][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.44.30:994][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.44.31:125][781]LogPlayLevel: Display: Destroying online subsystem :Context_18
-[2018.09.19-20.44.33:051][888]LogTemp: Repeating last play command: Selected Viewport
-[2018.09.19-20.44.33:077][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.44.33:077][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.09.19-20.44.33:077][888]PIE: New page: PIE session: NewGame (Sep 19, 2018, 2:44:33 PM)
-[2018.09.19-20.44.33:077][888]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.44.33:079][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001286s)
-[2018.09.19-20.44.33:079][888]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.44.33:079][888]LogPlayLevel: PIE: World Init took: (0.000679s)
-[2018.09.19-20.44.33:079][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002089s)
-[2018.09.19-20.44.33:150][888]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.44.33:179][888]LogInit: FAudioDevice initialized.
-[2018.09.19-20.44.33:369][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.44.33:585][888]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.44.33:585][888]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.44.33
-[2018.09.19-20.44.33:586][888]LogWorld: Bringing up level for play took: 0.000417
-[2018.09.19-20.44.33:637][888]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.44.33:937][888]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame -0.064
-[2018.09.19-20.44.33:937][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.44.34:038][888]LogRenderer: Reallocating scene render targets to support 852x636 Format 10 NumSamples 1 (Frame:1).
-[2018.09.19-20.44.34:749][889]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.44.34:749][889]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.44.42:032][889]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.44.42:032][889]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.44.42:035][889]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.44.42
-[2018.09.19-20.44.42:035][889]LogWorld: Bringing up level for play took: 0.001471
-[2018.09.19-20.44.42:208][889]LogLoad: Took 7.458689 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.44.47:292][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.44.49:501][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.44.51:005][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.44.51:566][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.44.52:300][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.44.53:068][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.44.53:934][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.45.07:453][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.45.07:455][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.45.07:567][771]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.09.19-20.45.07:695][771]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.09.19-20.45.07:695][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.45.07:826][772]LogPlayLevel: Display: Destroying online subsystem :Context_19
-[2018.09.19-20.45.18:592][247]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character
-[2018.09.19-20.46.12:609][287]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.46.18:335][315]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_CharacterAD1531AF4995BA8B80D6829EBCD42446.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.46.19:603][387]LogTemp: Repeating last play command: Selected Viewport
-[2018.09.19-20.46.19:632][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.46.19:632][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.09.19-20.46.19:632][387]PIE: New page: PIE session: NewGame (Sep 19, 2018, 2:46:19 PM)
-[2018.09.19-20.46.19:632][387]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.46.19:634][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001143s)
-[2018.09.19-20.46.19:634][387]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.46.19:634][387]LogPlayLevel: PIE: World Init took: (0.000777s)
-[2018.09.19-20.46.19:634][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002045s)
-[2018.09.19-20.46.19:794][387]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.46.19:835][387]LogInit: FAudioDevice initialized.
-[2018.09.19-20.46.19:846][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.46.19:893][387]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.46.19:895][387]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.46.19
-[2018.09.19-20.46.19:895][387]LogWorld: Bringing up level for play took: 0.000762
-[2018.09.19-20.46.19:907][387]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.46.20:104][387]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.103
-[2018.09.19-20.46.20:104][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.46.20:299][388]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.46.20:299][388]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.46.33:577][388]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.46.33:577][388]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.46.33:634][388]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.46.33
-[2018.09.19-20.46.33:635][388]LogWorld: Bringing up level for play took: 0.056613
-[2018.09.19-20.46.34:011][388]LogLoad: Took 13.711714 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.46.36:425][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.46.39:224][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.09.19-20.46.45:257][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.46.47:071][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.46.57:024][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.46.57:187][  4]LogNet: Browse: /Game/Project/Levels/NewGame
-[2018.09.19-20.46.57:190][  4]LogLoad: LoadMap: /Game/Project/Levels/NewGame
-[2018.09.19-20.46.57:398][  4]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.46.57:400][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001312s)
-[2018.09.19-20.46.57:400][  4]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.46.57:400][  4]LogPlayLevel: PIE: World Init took: (0.000766s)
-[2018.09.19-20.46.57:400][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002262s)
-[2018.09.19-20.46.57:401][  4]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.46.57:402][  4]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.46.57
-[2018.09.19-20.46.57:402][  4]LogWorld: Bringing up level for play took: 0.000510
-[2018.09.19-20.46.57:402][  4]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.46.57:617][  4]LogLoad: Took 0.427392 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
-[2018.09.19-20.46.57:635][  5]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.46.59:238][  5]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.47.11:794][  5]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.47.11:817][  5]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.47.11:968][  5]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.47.11
-[2018.09.19-20.47.11:987][  5]LogWorld: Bringing up level for play took: 0.158566
-[2018.09.19-20.47.12:705][  5]LogLoad: Took 13.466746 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.47.14:958][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.47.19:959][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.09.19-20.47.39:655][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.47.39:695][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.47.39:797][928]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.09.19-20.47.40:534][928]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.09.19-20.47.40:686][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.47.41:726][929]LogPlayLevel: Display: Destroying online subsystem :Context_21
-[2018.09.19-20.47.51:255][266]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave MenuPop...
-[2018.09.19-20.47.51:291][266]LogTemp: Couldn't find amount to resample to.
-[2018.09.19-20.47.51:573][266]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 161280 while cooking SoundWave /Game/Project/Assets/Audios/MenuPop.MenuPop.
-[2018.09.19-20.48.59:238][563]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.49.04:027][579]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character38119B0E4B80100CCA0030BD1AF77BE5.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.49.05:601][669]LogTemp: Repeating last play command: Selected Viewport
-[2018.09.19-20.49.05:779][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.49.05:779][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.09.19-20.49.05:792][669]PIE: New page: PIE session: NewGame (Sep 19, 2018, 2:49:05 PM)
-[2018.09.19-20.49.05:792][669]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.49.05:793][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001433s)
-[2018.09.19-20.49.05:794][669]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.49.05:794][669]LogPlayLevel: PIE: World Init took: (0.000843s)
-[2018.09.19-20.49.05:794][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002423s)
-[2018.09.19-20.49.05:880][669]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.49.05:926][669]LogInit: FAudioDevice initialized.
-[2018.09.19-20.49.05:937][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.49.06:052][669]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.49.06:052][669]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.49.06
-[2018.09.19-20.49.06:053][669]LogWorld: Bringing up level for play took: 0.000476
-[2018.09.19-20.49.06:087][669]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.49.06:329][669]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.328
-[2018.09.19-20.49.06:349][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.49.06:603][670]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.49.06:603][670]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.49.08:192][670]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.49.08:192][670]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.49.08:195][670]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.49.08
-[2018.09.19-20.49.08:195][670]LogWorld: Bringing up level for play took: 0.001472
-[2018.09.19-20.49.08:380][670]LogLoad: Took 1.777482 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.49.09:591][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.50.52:453][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.50.52:481][456]LogNet: Browse: /Game/Project/Levels/NewGame
-[2018.09.19-20.50.52:505][456]LogLoad: LoadMap: /Game/Project/Levels/NewGame
-[2018.09.19-20.50.52:579][456]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.50.52:580][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001325s)
-[2018.09.19-20.50.52:581][456]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.50.52:581][456]LogPlayLevel: PIE: World Init took: (0.000782s)
-[2018.09.19-20.50.52:581][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002287s)
-[2018.09.19-20.50.52:581][456]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.50.52:582][456]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.50.52
-[2018.09.19-20.50.52:582][456]LogWorld: Bringing up level for play took: 0.000534
-[2018.09.19-20.50.52:583][456]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.50.52:821][456]LogLoad: Took 0.316166 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
-[2018.09.19-20.50.52:841][457]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.50.52:929][457]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.50.53:925][457]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.50.53:925][457]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.50.53:927][457]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.50.53
-[2018.09.19-20.50.53:927][457]LogWorld: Bringing up level for play took: 0.001584
-[2018.09.19-20.50.54:099][457]LogLoad: Took 1.168798 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.50.55:602][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.50.55:603][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.50.55:696][507]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.09.19-20.50.55:743][507]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.09.19-20.50.55:743][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.50.55:845][508]LogPlayLevel: Display: Destroying online subsystem :Context_22
-[2018.09.19-20.51.53:705][936]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.51.55:655][965]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character97586082419BE0249ABE228578A4669A.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.51.56:934][ 41]LogTemp: Repeating last play command: Selected Viewport
-[2018.09.19-20.51.56:967][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.51.56:967][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.09.19-20.51.56:967][ 41]PIE: New page: PIE session: NewGame (Sep 19, 2018, 2:51:56 PM)
-[2018.09.19-20.51.56:967][ 41]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.51.56:968][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001324s)
-[2018.09.19-20.51.56:969][ 41]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.51.56:969][ 41]LogPlayLevel: PIE: World Init took: (0.000827s)
-[2018.09.19-20.51.56:969][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002299s)
-[2018.09.19-20.51.57:025][ 41]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.51.57:038][ 41]LogInit: FAudioDevice initialized.
-[2018.09.19-20.51.57:048][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.51.57:110][ 41]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.51.57:111][ 41]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.51.57
-[2018.09.19-20.51.57:112][ 41]LogWorld: Bringing up level for play took: 0.000690
-[2018.09.19-20.51.57:124][ 41]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.51.57:551][ 41]LogScript: Warning: Accessed None trying to read property GameSound
-	Main_Character_C /Game/Project/Levels/UEDPIE_0_NewGame.NewGame:PersistentLevel.Main_Character_C_0
-	Function /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character_C:GameOver:02CD
-[2018.09.19-20.51.57:615][ 41]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameSound". Blueprint:  Main_Character Function:  Game Over Graph:  GameOver Node:  Stop
-[2018.09.19-20.51.57:653][ 41]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 1.652
-[2018.09.19-20.51.57:653][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.51.57:824][ 42]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.51.57:824][ 42]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.51.58:793][ 42]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.51.58:793][ 42]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.51.58:796][ 42]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.51.58
-[2018.09.19-20.51.58:796][ 42]LogWorld: Bringing up level for play took: 0.001213
-[2018.09.19-20.51.58:970][ 42]LogLoad: Took 1.146078 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.51.59:734][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.52.12:371][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.52.12:397][522]LogNet: Browse: /Game/Project/Levels/NewGame
-[2018.09.19-20.52.12:400][522]LogLoad: LoadMap: /Game/Project/Levels/NewGame
-[2018.09.19-20.52.12:460][522]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.52.12:461][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001165s)
-[2018.09.19-20.52.12:462][522]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.52.12:462][522]LogPlayLevel: PIE: World Init took: (0.000714s)
-[2018.09.19-20.52.12:462][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002061s)
-[2018.09.19-20.52.12:462][522]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.52.12:463][522]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.52.12
-[2018.09.19-20.52.12:463][522]LogWorld: Bringing up level for play took: 0.000428
-[2018.09.19-20.52.12:463][522]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.52.12:628][522]LogScript: Warning: Accessed None trying to read property GameSound
-	Main_Character_C /Game/Project/Levels/UEDPIE_0_NewGame.NewGame:PersistentLevel.Main_Character_C_0
-	Function /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character_C:GameOver:02CD
-[2018.09.19-20.52.12:628][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameSound". Blueprint:  Main_Character Function:  Game Over Graph:  GameOver Node:  Stop
-[2018.09.19-20.52.12:637][522]LogLoad: Took 0.237762 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
-[2018.09.19-20.52.12:659][523]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.52.12:765][523]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.52.13:580][523]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.52.13:581][523]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.52.13:583][523]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.52.13
-[2018.09.19-20.52.13:583][523]LogWorld: Bringing up level for play took: 0.001329
-[2018.09.19-20.52.13:756][523]LogLoad: Took 0.991517 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.52.14:206][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.52.27:094][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.09.19-20.52.27:259][  2]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.09.19-20.52.27:269][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.52.27:309][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.09.19-20.52.27:309][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.52.27:450][  3]LogPlayLevel: Display: Destroying online subsystem :Context_23
-[2018.09.19-20.52.32:169][274]LogSlate: Window 'Message Log' being destroyed
-[2018.09.19-20.52.32:175][274]LogSlate: Window 'Message Log' being destroyed
-[2018.09.19-20.52.36:502][525]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.52.38:365][553]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character0FE5A2D24F175A3E86C73BA9EC4B97F6.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.52.53:227][292]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character
-[2018.09.19-20.53.03:482][831]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.53.05:208][848]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character77FB7B2B490F58C80F3CE4A5C8C4037C.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.53.05:690][877]LogTemp: Repeating last play command: Selected Viewport
-[2018.09.19-20.53.05:860][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.53.05:860][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.09.19-20.53.05:860][877]PIE: New page: PIE session: NewGame (Sep 19, 2018, 2:53:05 PM)
-[2018.09.19-20.53.05:861][877]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.53.05:862][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001158s)
-[2018.09.19-20.53.05:862][877]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.53.05:863][877]LogPlayLevel: PIE: World Init took: (0.000741s)
-[2018.09.19-20.53.05:863][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002122s)
-[2018.09.19-20.53.05:925][877]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.53.05:936][877]LogInit: FAudioDevice initialized.
-[2018.09.19-20.53.05:952][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.53.05:995][877]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.53.05:996][877]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.53.05
-[2018.09.19-20.53.05:996][877]LogWorld: Bringing up level for play took: 0.000609
-[2018.09.19-20.53.06:008][877]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.53.06:215][877]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.214
-[2018.09.19-20.53.06:215][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.53.06:386][878]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.53.06:387][878]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.53.07:232][878]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.53.07:232][878]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.53.07:235][878]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.53.07
-[2018.09.19-20.53.07:235][878]LogWorld: Bringing up level for play took: 0.001644
-[2018.09.19-20.53.07:412][878]LogLoad: Took 1.025162 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.53.07:837][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.53.20:185][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.53.20:214][352]LogNet: Browse: /Game/Project/Levels/NewGame
-[2018.09.19-20.53.20:229][352]LogLoad: LoadMap: /Game/Project/Levels/NewGame
-[2018.09.19-20.53.20:303][352]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.53.20:304][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001168s)
-[2018.09.19-20.53.20:304][352]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.53.20:305][352]LogPlayLevel: PIE: World Init took: (0.000742s)
-[2018.09.19-20.53.20:305][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002087s)
-[2018.09.19-20.53.20:305][352]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.53.20:306][352]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.53.20
-[2018.09.19-20.53.20:306][352]LogWorld: Bringing up level for play took: 0.000439
-[2018.09.19-20.53.20:306][352]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.53.20:491][352]LogLoad: Took 0.262351 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
-[2018.09.19-20.53.20:511][353]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.53.20:611][353]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.53.21:436][353]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.53.21:436][353]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.53.21:439][353]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.53.21
-[2018.09.19-20.53.21:439][353]LogWorld: Bringing up level for play took: 0.002012
-[2018.09.19-20.53.21:613][353]LogLoad: Took 1.001859 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.53.22:074][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.53.33:908][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.53.33:927][813]LogNet: Browse: /Game/Project/Levels/NewGame
-[2018.09.19-20.53.33:941][813]LogLoad: LoadMap: /Game/Project/Levels/NewGame
-[2018.09.19-20.53.34:012][813]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.53.34:013][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001233s)
-[2018.09.19-20.53.34:014][813]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.53.34:014][813]LogPlayLevel: PIE: World Init took: (0.000729s)
-[2018.09.19-20.53.34:014][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002140s)
-[2018.09.19-20.53.34:014][813]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.53.34:015][813]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.53.34
-[2018.09.19-20.53.34:015][813]LogWorld: Bringing up level for play took: 0.000492
-[2018.09.19-20.53.34:016][813]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.53.34:191][813]LogScript: Warning: Accessed None trying to read property GameSound
-	Main_Character_C /Game/Project/Levels/UEDPIE_0_NewGame.NewGame:PersistentLevel.Main_Character_C_0
-	Function /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character_C:GameOver:02CD
-[2018.09.19-20.53.34:191][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameSound". Blueprint:  Main_Character Function:  Game Over Graph:  GameOver Node:  Stop
-[2018.09.19-20.53.34:197][813]LogLoad: Took 0.255879 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
-[2018.09.19-20.53.34:222][814]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.53.34:314][814]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.53.35:542][814]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.53.35:542][814]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.53.35:545][814]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.53.35
-[2018.09.19-20.53.35:545][814]LogWorld: Bringing up level for play took: 0.001567
-[2018.09.19-20.53.35:713][814]LogLoad: Took 1.399453 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.53.36:317][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.53.36:318][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.53.36:347][833]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.09.19-20.53.36:390][833]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.09.19-20.53.36:391][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.53.36:471][834]LogPlayLevel: Display: Destroying online subsystem :Context_25
-[2018.09.19-20.53.46:783][443]LogSlate: Window 'Message Log' being destroyed
-[2018.09.19-20.53.46:788][443]LogSlate: Window 'Message Log' being destroyed
-[2018.09.19-20.54.40:134][641]LogTemp: Repeating last play command: Selected Viewport
-[2018.09.19-20.54.40:171][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.54.40:171][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.09.19-20.54.40:172][641]PIE: New page: PIE session: NewGame (Sep 19, 2018, 2:54:40 PM)
-[2018.09.19-20.54.40:172][641]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.54.40:173][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001334s)
-[2018.09.19-20.54.40:174][641]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.54.40:174][641]LogPlayLevel: PIE: World Init took: (0.000871s)
-[2018.09.19-20.54.40:174][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002339s)
-[2018.09.19-20.54.40:227][641]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.54.40:238][641]LogInit: FAudioDevice initialized.
-[2018.09.19-20.54.40:248][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.54.40:286][641]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.54.40:288][641]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.54.40
-[2018.09.19-20.54.40:289][641]LogWorld: Bringing up level for play took: 0.000800
-[2018.09.19-20.54.40:301][641]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.54.40:503][641]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.502
-[2018.09.19-20.54.40:503][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.54.40:660][642]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.54.40:660][642]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.54.42:517][642]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.54.42:518][642]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.54.42:520][642]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.54.42
-[2018.09.19-20.54.42:520][642]LogWorld: Bringing up level for play took: 0.001517
-[2018.09.19-20.54.42:715][642]LogLoad: Took 2.053934 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.54.43:783][670]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.09.19-20.54.43:789][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.54.43:838][670]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.09.19-20.54.43:838][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.54.43:913][671]LogPlayLevel: Display: Destroying online subsystem :Context_26
-[2018.09.19-20.55.58:165][117]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.55.59:804][131]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_CharacterF4284E204D78CDBCC3B49B8F8B5FF9B5.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.56.27:274][371]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.56.31:331][396]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_CharacterC972AD484B43C397E96EABA7952040F6.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.56.34:715][598]LogTemp: Repeating last play command: Selected Viewport
-[2018.09.19-20.56.34:746][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.56.34:746][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.09.19-20.56.34:746][598]PIE: New page: PIE session: NewGame (Sep 19, 2018, 2:56:34 PM)
-[2018.09.19-20.56.34:746][598]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.56.34:747][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001228s)
-[2018.09.19-20.56.34:748][598]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.56.34:748][598]LogPlayLevel: PIE: World Init took: (0.000797s)
-[2018.09.19-20.56.34:748][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002179s)
-[2018.09.19-20.56.34:856][598]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.56.34:868][598]LogInit: FAudioDevice initialized.
-[2018.09.19-20.56.34:879][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.56.34:932][598]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.56.34:945][598]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.56.34
-[2018.09.19-20.56.34:946][598]LogWorld: Bringing up level for play took: 0.013563
-[2018.09.19-20.56.34:958][598]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.56.35:210][598]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 1.21
-[2018.09.19-20.56.35:210][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.56.35:504][599]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.56.35:504][599]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.56.37:015][599]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.56.37:015][599]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.56.37:018][599]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.56.37
-[2018.09.19-20.56.37:018][599]LogWorld: Bringing up level for play took: 0.001734
-[2018.09.19-20.56.37:324][599]LogLoad: Took 1.820846 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.56.37:874][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.56.52:762][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.56.52:788][142]LogNet: Browse: /Game/Project/Levels/NewGame
-[2018.09.19-20.56.52:810][142]LogLoad: LoadMap: /Game/Project/Levels/NewGame
-[2018.09.19-20.56.52:880][142]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.56.52:882][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001343s)
-[2018.09.19-20.56.52:882][142]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.56.52:882][142]LogPlayLevel: PIE: World Init took: (0.000695s)
-[2018.09.19-20.56.52:882][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002215s)
-[2018.09.19-20.56.52:883][142]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.56.52:883][142]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.56.52
-[2018.09.19-20.56.52:884][142]LogWorld: Bringing up level for play took: 0.000486
-[2018.09.19-20.56.52:884][142]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.56.53:054][142]LogScript: Warning: Accessed None trying to read property GameSound
-	Main_Character_C /Game/Project/Levels/UEDPIE_0_NewGame.NewGame:PersistentLevel.Main_Character_C_0
-	Function /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character_C:GameOver:0316
-[2018.09.19-20.56.53:054][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameSound". Blueprint:  Main_Character Function:  Game Over Graph:  GameOver Node:  Stop
-[2018.09.19-20.56.53:063][142]LogLoad: Took 0.251553 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
-[2018.09.19-20.56.53:082][143]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.56.53:184][143]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.56.54:053][143]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.56.54:054][143]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.56.54:056][143]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.56.54
-[2018.09.19-20.56.54:056][143]LogWorld: Bringing up level for play took: 0.001559
-[2018.09.19-20.56.54:236][143]LogLoad: Took 1.052037 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.56.54:954][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.56.54:954][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.56.55:038][164]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.09.19-20.56.55:088][164]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.09.19-20.56.55:089][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.56.55:173][165]LogPlayLevel: Display: Destroying online subsystem :Context_27
-[2018.09.19-20.57.04:621][730]LogSlate: Window 'Message Log' being destroyed
-[2018.09.19-20.57.04:626][730]LogSlate: Window 'Message Log' being destroyed
-[2018.09.19-20.57.38:932][691]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.57.40:618][704]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_CharacterC44A30ED4D61314253168F8751C43B31.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.57.54:361][169]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.57.57:395][271]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_CharacterD4075446445F9BD1F48AD69263199225.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.58.16:016][387]LogEditorTransaction: Undo Move Node
-[2018.09.19-20.58.25:237][604]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.58.27:148][638]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character8FF71DE048B7169B0E7057A8EC0D3A06.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.59.00:143][116]LogTemp: Repeating last play command: Selected Viewport
-[2018.09.19-20.59.00:179][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.59.00:179][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.09.19-20.59.00:179][116]PIE: New page: PIE session: NewGame (Sep 19, 2018, 2:59:00 PM)
-[2018.09.19-20.59.00:179][116]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.59.00:181][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001356s)
-[2018.09.19-20.59.00:181][116]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.59.00:182][116]LogPlayLevel: PIE: World Init took: (0.000809s)
-[2018.09.19-20.59.00:182][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002300s)
-[2018.09.19-20.59.00:243][116]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.59.00:257][116]LogInit: FAudioDevice initialized.
-[2018.09.19-20.59.00:288][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.59.00:335][116]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.59.00:336][116]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.59.00
-[2018.09.19-20.59.00:337][116]LogWorld: Bringing up level for play took: 0.000759
-[2018.09.19-20.59.00:349][116]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.59.00:533][116]LogScript: Warning: Accessed None trying to read property GameSound
-	Main_Character_C /Game/Project/Levels/UEDPIE_0_NewGame.NewGame:PersistentLevel.Main_Character_C_0
-	Function /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character_C:GameOver:02D6
-[2018.09.19-20.59.00:533][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameSound". Blueprint:  Main_Character Function:  Game Over Graph:  GameOver Node:  Branch
-[2018.09.19-20.59.00:544][116]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.544
-[2018.09.19-20.59.00:545][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.59.00:843][117]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.59.00:843][117]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.59.01:753][117]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.59.01:753][117]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.59.01:755][117]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.59.01
-[2018.09.19-20.59.01:755][117]LogWorld: Bringing up level for play took: 0.001629
-[2018.09.19-20.59.01:939][117]LogLoad: Took 1.095612 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.59.02:864][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.59.15:307][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.59.15:330][579]LogNet: Browse: /Game/Project/Levels/NewGame
-[2018.09.19-20.59.15:333][579]LogLoad: LoadMap: /Game/Project/Levels/NewGame
-[2018.09.19-20.59.15:401][579]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.59.15:402][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001460s)
-[2018.09.19-20.59.15:403][579]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.59.15:403][579]LogPlayLevel: PIE: World Init took: (0.001036s)
-[2018.09.19-20.59.15:403][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002720s)
-[2018.09.19-20.59.15:403][579]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.59.15:405][579]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.59.15
-[2018.09.19-20.59.15:405][579]LogWorld: Bringing up level for play took: 0.000518
-[2018.09.19-20.59.15:405][579]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.59.15:658][579]LogLoad: Took 0.324890 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
-[2018.09.19-20.59.15:679][580]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.59.15:772][580]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.59.16:620][580]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.59.16:621][580]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.59.16:623][580]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.59.16
-[2018.09.19-20.59.16:623][580]LogWorld: Bringing up level for play took: 0.001611
-[2018.09.19-20.59.16:805][580]LogLoad: Took 1.033885 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.59.17:337][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.59.29:835][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.59.29:867][ 34]LogNet: Browse: /Game/Project/Levels/NewGame
-[2018.09.19-20.59.29:871][ 34]LogLoad: LoadMap: /Game/Project/Levels/NewGame
-[2018.09.19-20.59.29:938][ 34]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.59.29:940][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001164s)
-[2018.09.19-20.59.29:940][ 34]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.59.29:940][ 34]LogPlayLevel: PIE: World Init took: (0.000698s)
-[2018.09.19-20.59.29:941][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002039s)
-[2018.09.19-20.59.29:941][ 34]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.59.29:941][ 34]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.59.29
-[2018.09.19-20.59.29:942][ 34]LogWorld: Bringing up level for play took: 0.000430
-[2018.09.19-20.59.29:942][ 34]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.59.30:110][ 34]LogScript: Warning: Accessed None trying to read property GameSound
-	Main_Character_C /Game/Project/Levels/UEDPIE_0_NewGame.NewGame:PersistentLevel.Main_Character_C_0
-	Function /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character_C:GameOver:02D6
-[2018.09.19-20.59.30:110][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameSound". Blueprint:  Main_Character Function:  Game Over Graph:  GameOver Node:  Branch
-[2018.09.19-20.59.30:114][ 34]LogLoad: Took 0.244126 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
-[2018.09.19-20.59.30:139][ 35]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.59.30:224][ 35]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-20.59.31:036][ 35]LogAIModule: Creating AISystem for world Main
-[2018.09.19-20.59.31:036][ 35]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.59.31:039][ 35]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-17.59.31
-[2018.09.19-20.59.31:039][ 35]LogWorld: Bringing up level for play took: 0.001754
-[2018.09.19-20.59.31:214][ 35]LogLoad: Took 0.990490 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-20.59.35:146][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.59.35:147][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.59.35:180][164]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.09.19-20.59.35:222][164]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.09.19-20.59.35:223][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.59.35:304][165]LogPlayLevel: Display: Destroying online subsystem :Context_28
-[2018.09.19-20.59.44:341][703]LogSlate: Window 'Message Log' being destroyed
-[2018.09.19-20.59.44:345][703]LogSlate: Window 'Message Log' being destroyed
-[2018.09.19-20.59.56:786][423]BlueprintLog: New page: Compile Main_Character
-[2018.09.19-20.59.58:466][448]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character46C6339040A98979CC24699A7162C386.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
-[2018.09.19-20.59.59:197][491]LogTemp: Repeating last play command: Selected Viewport
-[2018.09.19-20.59.59:270][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.59.59:270][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.09.19-20.59.59:271][491]PIE: New page: PIE session: NewGame (Sep 19, 2018, 2:59:59 PM)
-[2018.09.19-20.59.59:271][491]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-20.59.59:272][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001252s)
-[2018.09.19-20.59.59:273][491]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-20.59.59:273][491]LogPlayLevel: PIE: World Init took: (0.000734s)
-[2018.09.19-20.59.59:273][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002112s)
-[2018.09.19-20.59.59:338][491]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.09.19-20.59.59:350][491]LogInit: FAudioDevice initialized.
-[2018.09.19-20.59.59:359][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-20.59.59:400][491]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-20.59.59:402][491]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-17.59.59
-[2018.09.19-20.59.59:402][491]LogWorld: Bringing up level for play took: 0.000553
-[2018.09.19-20.59.59:414][491]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-20.59.59:621][491]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame -0.38
-[2018.09.19-20.59.59:621][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-20.59.59:766][492]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-20.59.59:766][492]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-21.00.00:607][492]LogAIModule: Creating AISystem for world Main
-[2018.09.19-21.00.00:607][492]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-21.00.00:610][492]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-18.00.00
-[2018.09.19-21.00.00:610][492]LogWorld: Bringing up level for play took: 0.001538
-[2018.09.19-21.00.00:797][492]LogLoad: Took 1.031342 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-21.00.01:431][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-21.00.14:806][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-21.00.14:831][ 22]LogNet: Browse: /Game/Project/Levels/NewGame
-[2018.09.19-21.00.14:854][ 22]LogLoad: LoadMap: /Game/Project/Levels/NewGame
-[2018.09.19-21.00.14:924][ 22]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-21.00.14:925][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001227s)
-[2018.09.19-21.00.14:926][ 22]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-21.00.14:926][ 22]LogPlayLevel: PIE: World Init took: (0.000706s)
-[2018.09.19-21.00.14:926][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002099s)
-[2018.09.19-21.00.14:926][ 22]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-21.00.14:927][ 22]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-18.00.14
-[2018.09.19-21.00.14:927][ 22]LogWorld: Bringing up level for play took: 0.000412
-[2018.09.19-21.00.14:928][ 22]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-21.00.15:103][ 22]LogLoad: Took 0.249533 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
-[2018.09.19-21.00.15:122][ 23]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-21.00.15:216][ 23]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-21.00.16:032][ 23]LogAIModule: Creating AISystem for world Main
-[2018.09.19-21.00.16:033][ 23]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-21.00.16:035][ 23]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-18.00.16
-[2018.09.19-21.00.16:035][ 23]LogWorld: Bringing up level for play took: 0.001618
-[2018.09.19-21.00.16:217][ 23]LogLoad: Took 1.001390 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-21.00.16:672][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-21.00.29:931][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-21.00.29:955][526]LogNet: Browse: /Game/Project/Levels/NewGame
-[2018.09.19-21.00.29:979][526]LogLoad: LoadMap: /Game/Project/Levels/NewGame
-[2018.09.19-21.00.30:055][526]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
-[2018.09.19-21.00.30:056][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001204s)
-[2018.09.19-21.00.30:057][526]LogAIModule: Creating AISystem for world NewGame
-[2018.09.19-21.00.30:057][526]LogPlayLevel: PIE: World Init took: (0.000760s)
-[2018.09.19-21.00.30:057][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002137s)
-[2018.09.19-21.00.30:057][526]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-21.00.30:058][526]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.19-18.00.30
-[2018.09.19-21.00.30:058][526]LogWorld: Bringing up level for play took: 0.000687
-[2018.09.19-21.00.30:059][526]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.09.19-21.00.30:238][526]LogLoad: Took 0.260058 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
-[2018.09.19-21.00.30:258][527]LogNet: Browse: /Game/Project/Levels/Main
-[2018.09.19-21.00.30:359][527]LogLoad: LoadMap: /Game/Project/Levels/Main
-[2018.09.19-21.00.31:175][527]LogAIModule: Creating AISystem for world Main
-[2018.09.19-21.00.31:176][527]LogLoad: Game class is 'Main_GameMode_C'
-[2018.09.19-21.00.31:179][527]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.09.19-18.00.31
-[2018.09.19-21.00.31:180][527]LogWorld: Bringing up level for play took: 0.002791
-[2018.09.19-21.00.31:351][527]LogLoad: Took 0.993273 seconds to LoadMap(/Game/Project/Levels/Main)
-[2018.09.19-21.00.32:321][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-21.00.32:322][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.09.19-21.00.32:364][562]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
-[2018.09.19-21.00.32:417][562]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.09.19-21.00.32:418][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
-[2018.09.19-21.00.32:503][563]LogPlayLevel: Display: Destroying online subsystem :Context_29
-[2018.09.19-21.01.05:069][444]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2018.09.19-21.01.05:354][444]LogSlate: Window 'EndlessRunning - Unreal Editor' being destroyed
-[2018.09.19-21.01.12:751][445]Cmd: QUIT_EDITOR
-[2018.09.19-21.01.21:589][445]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.09.19-21.01.24:159][445]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2018.09.19-21.01.24:622][445]LogExit: Preparing to exit.
-[2018.09.19-21.01.41:735][445]LogExit: Editor shut down
-[2018.09.19-21.01.42:303][445]LogExit: Transaction tracking system shut down
-[2018.09.19-21.02.06:692][445]LogExit: Object subsystem successfully closed.
-[2018.09.19-21.02.11:493][445]LogShaderCompilers: Display: Shaders left to compile 0
-[2018.09.19-21.02.12:072][445]LogD3D11RHI: Shutdown
-[2018.09.19-21.02.12:083][445]LogD3D11RHI: CleanupD3DDevice
+[2018.09.23-06.32.15:456][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.23-06.32.15:467][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.23-06.32.15:808][  0]LogHAL: Display: Platform has ~ 4 GB [4198641664 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.23-06.32.15:819][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.23-06.32.15:830][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.23-06.32.15:924][  0]LogInit: Computer: DESKTOP-787UAHE
+[2018.09.23-06.32.15:924][  0]LogInit: User: WyKKe
+[2018.09.23-06.32.15:924][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.09.23-06.32.15:924][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2018.09.23-06.32.15:924][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2018.09.23-06.32.15:925][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.23-06.32.15:925][  0]LogMemory: Process Physical Memory: 105.66 MB used, 105.66 MB peak
+[2018.09.23-06.32.15:925][  0]LogMemory: Process Virtual Memory: 92.86 MB used, 92.86 MB peak
+[2018.09.23-06.32.15:925][  0]LogMemory: Physical Memory: 2819.80 MB used,  1184.34 MB free, 4004.14 MB total
+[2018.09.23-06.32.15:925][  0]LogMemory: Virtual Memory: 4619.14 MB used,  1184.34 MB free, 134217728.00 MB total
+[2018.09.23-06.32.16:967][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.09.23-06.32.16:967][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.09.23-06.32.18:055][  0]LogStreaming: Display: Took  1.076s to InitEngineTextLocalization.
+[2018.09.23-06.32.18:073][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.23-06.32.19:419][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.23-06.32.19:419][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.23-06.32.25:548][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.23-06.32.26:088][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.09.23-06.32.26:088][  0]LogD3D11RHI:       128/0/2002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.09.23-06.32.26:138][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.23-06.32.26:138][  0]LogD3D11RHI:       0/0/2002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.23-06.32.26:138][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.23-06.32.26:207][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.23-06.32.26:207][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.23-06.32.26:229][  0]LogWindows: EnumDisplayDevices:
+[2018.09.23-06.32.26:229][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.09.23-06.32.26:239][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.09.23-06.32.26:239][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.09.23-06.32.26:240][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.09.23-06.32.26:240][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.09.23-06.32.26:240][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2018.09.23-06.32.26:240][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2018.09.23-06.32.26:240][  0]LogRHI: Texture pool is 790 MB (70% of 1129 MB)
+[2018.09.23-06.32.26:291][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.23-06.32.26:661][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2018.09.23-06.32.26:832][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Intermediate/Shaders/WorkingDirectory/11412/).
+[2018.09.23-06.32.26:832][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/WyKKe/AppData/Local/Temp/UnrealShaderWorkingDir/962FDE1D4F7790D7818738AF1838A287/'.
+[2018.09.23-06.32.32:199][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.23-06.32.32:234][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.23-06.32.32:287][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.23-06.32.32:331][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.23-06.32.32:426][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.23-06.32.32:475][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.23-06.32.32:513][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.23-06.32.32:571][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.23-06.32.32:607][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.23-06.32.32:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:789][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-06.32.32:800][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.23-06.32.33:122][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.23-06.32.33:122][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.23-06.32.33:177][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.23-06.32.33:177][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.23-06.32.33:253][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.23-06.32.33:281][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.23-06.32.33:362][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.23-06.32.33:451][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.23-06.32.33:479][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.23-06.32.33:479][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.23-06.32.34:517][  0]LogXGEController: Cleaning working directory: C:/Users/WyKKe/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.23-06.32.34:517][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.23-06.32.34:517][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.23-06.32.34:528][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.23-06.32.41:160][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.23-06.32.42:097][  0]LogDerivedDataCache: Loaded boot cache 0.91s 65MB C:/Users/WyKKe/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.23-06.32.42:097][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/WyKKe/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.23-06.32.42:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.23-06.32.42:098][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.23-06.32.42:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.23-06.32.42:098][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.23-06.32.42:249][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.23-06.32.42:401][  0]LogDerivedDataCache: Using Local data cache path C:/Users/WyKKe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.23-06.32.42:401][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.23-06.32.42:401][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.23-06.32.42:664][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.23-06.32.42:809][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.23-06.32.42:996][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.23-06.32.45:419][  0]LogAssetRegistry: FAssetRegistry took 0.0697 seconds to start up
+[2018.09.23-06.32.56:988][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.23-06.33.01:841][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.23-06.33.01:893][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.23-06.33.01:905][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.23-06.33.01:905][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.23-06.33.01:905][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.23-06.33.01:905][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.23-06.33.03:445][  0]LogNetVersion: EndlessRunning 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2830718741)
+[2018.09.23-06.33.16:630][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 1 prioritized culture(s) in 0.205024 seconds
+[2018.09.23-06.33.16:723][  0]LogUObjectArray: 37353 objects as part of root set at end of initial load.
+[2018.09.23-06.33.16:723][  0]LogUObjectAllocator: 6485040 out of 0 bytes used by permanent object pool.
+[2018.09.23-06.33.16:723][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.23-06.33.52:486][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.23-06.33.52:524][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.23-06.33.53:313][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.034 s
+[2018.09.23-06.33.53:313][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.23-06.33.53:314][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.09.23-06.33.53:314][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.23-06.33.55:010][  0]SourceControl: Source control is disabled
+[2018.09.23-06.33.55:045][  0]SourceControl: Source control is disabled
+[2018.09.23-06.33.55:231][  0]SourceControl: Source control is disabled
+[2018.09.23-06.33.55:296][  0]SourceControl: Source control is disabled
+[2018.09.23-06.33.57:974][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.23-06.33.59:815][  0]LogEngine: Initializing Engine...
+[2018.09.23-06.34.02:294][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.23-06.34.08:732][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.23-06.34.11:205][  0]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-06.34.11:422][  0]LogInit: FAudioDevice initialized.
+[2018.09.23-06.34.11:439][  0]LogNetVersion: Set ProjectVersion to 1.0.0. Version Checksum will be recalculated on next use.
+[2018.09.23-06.34.12:357][  0]LogDerivedDataCache: Saved boot cache 0.92s 65MB C:/Users/WyKKe/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.23-06.34.12:398][  0]LogInit: Texture streaming: Enabled
+[2018.09.23-06.34.13:504][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.23-06.34.14:290][  0]LogInit: Transaction tracking system initialized
+[2018.09.23-06.34.15:659][  0]BlueprintLog: New page: Editor Load
+[2018.09.23-06.34.18:515][  0]LocalizationService: Localization service is disabled
+[2018.09.23-06.34.27:121][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/' took 0.12s
+[2018.09.23-06.34.27:121][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.23-06.34.27:139][  0]LogCook: Display: Mobile HDR setting 0
+[2018.09.23-06.34.27:175][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.23-06.34.27:176][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.23-06.34.27:176][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.23-06.34.27:177][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.23-06.34.27:199][  0]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.008 s
+[2018.09.23-06.34.27:199][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.023 s
+[2018.09.23-06.34.30:104][  0]SourceControl: Source control is disabled
+[2018.09.23-06.34.30:160][  0]Cmd: MAP LOAD FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/NewGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.23-06.34.30:202][  0]LightingResults: New page: Lighting Build
+[2018.09.23-06.34.30:639][  0]MapCheck: New page: Map Check
+[2018.09.23-06.34.30:639][  0]LightingResults: New page: Lighting Build
+[2018.09.23-06.34.30:657][  0]LogGarbage: Warning: 15.606563 ms for acquiring GC lock
+[2018.09.23-06.34.36:424][  0]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-06.34.36:868][  0]LogEditorServer: Finished looking for orphan Actors (0.006 secs)
+[2018.09.23-06.34.37:339][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.23-06.34.37:482][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 143.356ms to complete.
+[2018.09.23-06.34.37:526][  0]LogFileHelpers: Loading map 'NewGame' took 7.390
+[2018.09.23-06.34.41:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-06.34.41:584][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-06.34.41:592][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-06.34.41:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-06.34.41:806][  0]LogCollectionManager: Loaded 0 collections in 0.002298 seconds
+[2018.09.23-06.34.42:188][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Collections/' took 0.01s
+[2018.09.23-06.34.42:188][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Developers/WyKKe/Collections/' took 0.01s
+[2018.09.23-06.34.42:188][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Collections/' took 0.01s
+[2018.09.23-06.34.42:188][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.23-06.34.42:248][  0]LogContentBrowser: Native class hierarchy populated in 0.0174 seconds. Added 2575 classes and 521 folders.
+[2018.09.23-06.34.42:514][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.23-06.34.44:833][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.23-06.34.44:909][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.23-06.34.46:347][  0]LogSlate: Took 0.026114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.23-06.34.46:618][  0]LogSlate: Took 0.047529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.23-06.34.46:871][  0]LogSlate: Took 0.021889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.23-06.34.48:634][  0]LogRenderer: Reallocating scene render targets to support 852x324 Format 10 NumSamples 1 (Frame:1).
+[2018.09.23-06.34.52:611][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.23-06.34.52:611][  0]LogLoad: (Engine Initialization) Total time: 204.13 seconds
+[2018.09.23-06.34.52:611][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.23-06.34.54:334][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.23-06.34.55:212][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/' took 2.08s
+[2018.09.23-06.34.56:034][  4]LogAssetRegistry: Asset discovery search completed in 130.6688 seconds
+[2018.09.23-06.34.56:162][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.23-06.34.56:162][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.098419 seconds (updated 0 objects)
+[2018.09.23-06.34.59:322][ 13]LogSlate: Took 0.016987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.23-06.35.10:859][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-06.35.54:862][ 48]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.23-06.35.54:894][ 48]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character
+[2018.09.23-06.35.56:593][ 48]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0081 seconds. Added 116 classes and 0 folders.
+[2018.09.23-06.36.02:952][ 48]LogSlate: Took 0.193296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.23-06.36.06:468][ 51]LogSlate: Took 0.021122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.23-07.12.25:260][785]LogGarbage: Warning: 8.660580 ms for acquiring GC lock
+[2018.09.23-07.12.39:105][785]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Levels/NewGame' took 13.862
+[2018.09.23-07.12.39:544][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project/Blueprints/Main_Character/Main_Character] ([1] browsable assets)...
+[2018.09.23-07.12.39:817][785]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Project/Blueprints/Main_Character/Main_Character.Main_Character]
+[2018.09.23-07.12.39:817][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/Main_Character/Main_Character]
+[2018.09.23-07.12.52:634][785]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character_Auto1BD831CF6447D527E06EC889E7666825C.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Autosaves/Game/Project/Blueprints/Main_Character/Main_Character_Auto1.uasset'
+[2018.09.23-07.12.52:862][785]LogFileHelpers: Auto-saving content packages took 13.756
+[2018.09.23-07.14.44:009][725]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Project/HUD/Menu/Menu.Menu
+[2018.09.23-07.15.03:204][310]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Dados/Save.Save
+[2018.09.23-07.15.09:543][510]BlueprintLog: New page: Compile Save
+[2018.09.23-07.15.12:784][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Dados/Save" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset" SILENT=true
+[2018.09.23-07.15.12:875][536]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Save92BB11E948B9F774BB044791400FAA28.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset'
+[2018.09.23-07.15.26:826][167]BlueprintLog: New page: Compile Menu
+[2018.09.23-07.15.28:362][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.15.28:624][217]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/MenuF448AABD4ADACD91D277C3A9815F337B.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.15.48:509][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.15.48:639][403]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/MenuD602A7964920B2D179E7998694476D6C.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.17.29:998][ 54]BlueprintLog: New page: Compile Main_Character
+[2018.09.23-07.17.37:673][255]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_CharacterBF0D064C45FF66B95EBD7A93680F5389.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
+[2018.09.23-07.19.05:491][419]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-07.19.17:006][ 99]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-07.19.25:125][584]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-07.19.35:447][186]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-07.19.39:005][398]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-07.19.42:320][592]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-07.19.44:013][690]BlueprintLog: New page: Compile Menu
+[2018.09.23-07.19.44:821][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.19.44:951][711]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Menu789A2DB3400BE7D29877B582552E6FB0.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.20.15:981][148]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-07.20.28:985][779]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-07.20.37:049][256]BlueprintLog: New page: Compile Menu
+[2018.09.23-07.20.37:687][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.20.37:881][278]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Menu975E8FC14D81AD26980C49BEB6BB170F.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.20.48:111][887]BlueprintLog: New page: Compile Menu
+[2018.09.23-07.20.48:761][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.20.48:891][909]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Menu05F109E2473812E57EAD78B9F2F636CD.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.20.55:054][273]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-07.20.55:439][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.20.55:504][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-07.20.56:096][273]PIE: New page: PIE session: NewGame (Sep 23, 2018, 1:20:55 AM)
+[2018.09.23-07.20.56:121][273]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-07.20.56:261][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140145s)
+[2018.09.23-07.20.56:287][273]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-07.20.56:362][273]LogPlayLevel: PIE: World Init took: (0.089620s)
+[2018.09.23-07.20.56:375][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.254134s)
+[2018.09.23-07.20.56:646][273]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-07.20.56:729][273]LogInit: FAudioDevice initialized.
+[2018.09.23-07.20.56:907][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.20.57:096][273]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.20.57:124][273]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-04.20.57
+[2018.09.23-07.20.57:144][273]LogWorld: Bringing up level for play took: 0.047189
+[2018.09.23-07.20.57:295][273]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-07.20.58:133][273]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0200 seconds. Added 10 classes and 0 folders.
+[2018.09.23-07.20.59:414][273]Cmd: r.ScreenPercentage 100
+[2018.09.23-07.20.59:902][273]r.ScreenPercentage = "100"
+[2018.09.23-07.21.00:092][273]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.21.00:093][273]r.PostProcessAAQuality = "4"
+[2018.09.23-07.21.00:148][273]LogRenderer: Reallocating scene render targets to support 852x636 Format 10 NumSamples 1 (Frame:1).
+[2018.09.23-07.21.00:406][273]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.21.00:630][273]sg.PostProcessQuality = "2"
+[2018.09.23-07.21.00:630][273]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.21.00:630][273]r.PostProcessAAQuality = "4"
+[2018.09.23-07.21.00:630][273]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.21.00:631][273]sg.PostProcessQuality = "2"
+[2018.09.23-07.21.00:631][273]Cmd: sg.ShadowQuality 2
+[2018.09.23-07.21.00:809][273]sg.ShadowQuality = "2"
+[2018.09.23-07.21.00:809][273]Cmd: sg.TextureQuality 3
+[2018.09.23-07.21.00:809][273]sg.TextureQuality = "3"
+[2018.09.23-07.21.00:810][273]Cmd: sg.EffectsQuality 0
+[2018.09.23-07.21.00:817][273]sg.EffectsQuality = "0"
+[2018.09.23-07.21.05:351][273]Cmd: r.DetailMode 0
+[2018.09.23-07.21.05:351][273]r.DetailMode = "0"
+[2018.09.23-07.21.05:628][273]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 9.612
+[2018.09.23-07.21.06:094][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.21.07:055][273]LogRenderer: Reallocating scene render targets to support 852x636 Format 9 NumSamples 1 (Frame:2).
+[2018.09.23-07.21.07:202][274]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-07.21.07:408][274]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-07.21.17:957][274]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-07.21.17:958][274]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.21.18:115][274]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-04.21.18
+[2018.09.23-07.21.18:116][274]LogWorld: Bringing up level for play took: 0.099962
+[2018.09.23-07.21.18:592][274]LogLoad: Took 11.183270 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-07.21.36:519][931]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.40:356][ 89]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.42:061][162]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.43:133][208]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.43:732][234]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.43:982][245]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.44:192][254]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.44:352][261]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.44:516][268]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.44:803][280]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.44:964][287]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.45:124][294]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.45:265][300]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.21.46:572][346]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-07.21.46:606][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.21.46:704][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-07.21.46:721][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.21.46:949][347]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.23-07.21.58:443][999]BlueprintLog: New page: Compile Menu
+[2018.09.23-07.21.59:221][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.21.59:422][ 28]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Menu7E2138074156A19A969BE49D97AAF3DC.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.22.00:180][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-07.22.00:206][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.22.00:206][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-07.22.00:207][ 73]PIE: New page: PIE session: NewGame (Sep 23, 2018, 1:22:00 AM)
+[2018.09.23-07.22.00:207][ 73]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-07.22.00:209][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002016s)
+[2018.09.23-07.22.00:210][ 73]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-07.22.00:210][ 73]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2018.09.23-07.22.00:210][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.003422s)
+[2018.09.23-07.22.00:261][ 73]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-07.22.00:273][ 73]LogInit: FAudioDevice initialized.
+[2018.09.23-07.22.00:283][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.22.00:332][ 73]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.22.00:334][ 73]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-04.22.00
+[2018.09.23-07.22.00:334][ 73]LogWorld: Bringing up level for play took: 0.000676
+[2018.09.23-07.22.00:346][ 73]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-07.22.00:617][ 73]Cmd: r.ScreenPercentage 100
+[2018.09.23-07.22.00:617][ 73]r.ScreenPercentage = "100"
+[2018.09.23-07.22.00:617][ 73]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.22.00:617][ 73]r.PostProcessAAQuality = "4"
+[2018.09.23-07.22.00:617][ 73]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.22.00:617][ 73]sg.PostProcessQuality = "2"
+[2018.09.23-07.22.00:617][ 73]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.22.00:617][ 73]r.PostProcessAAQuality = "4"
+[2018.09.23-07.22.00:618][ 73]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.22.00:618][ 73]sg.PostProcessQuality = "2"
+[2018.09.23-07.22.00:618][ 73]Cmd: sg.ShadowQuality 2
+[2018.09.23-07.22.00:618][ 73]sg.ShadowQuality = "2"
+[2018.09.23-07.22.00:618][ 73]Cmd: sg.TextureQuality 3
+[2018.09.23-07.22.00:618][ 73]sg.TextureQuality = "3"
+[2018.09.23-07.22.00:618][ 73]Cmd: sg.EffectsQuality 0
+[2018.09.23-07.22.00:618][ 73]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-07.22.00:618][ 73]sg.EffectsQuality = "0"
+[2018.09.23-07.22.00:618][ 73]Cmd: r.DetailMode 0
+[2018.09.23-07.22.00:619][ 73]r.DetailMode = "0"
+[2018.09.23-07.22.00:624][ 73]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.623
+[2018.09.23-07.22.00:624][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.22.00:827][ 74]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-07.22.00:839][ 74]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-07.22.09:727][ 74]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-07.22.09:727][ 74]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.22.09:730][ 74]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-04.22.09
+[2018.09.23-07.22.09:730][ 74]LogWorld: Bringing up level for play took: 0.001655
+[2018.09.23-07.22.09:919][ 74]LogLoad: Took 9.080279 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-07.22.13:057][201]LogScript: Warning: Script Msg: External UI not supported by the current online subsystem
+[2018.09.23-07.22.19:078][471]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-07.22.19:085][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.22.19:185][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-07.22.19:185][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.22.19:271][472]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.09.23-07.22.24:178][764]BlueprintLog: New page: Compile Menu
+[2018.09.23-07.22.24:870][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.22.25:036][792]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Menu5DDE14E648E14018DF492E8CA64C2230.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.22.37:346][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.22.37:474][529]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/MenuDF3967DB4F025DFD932B129FDEB09E4F.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.22.49:510][116]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame
+[2018.09.23-07.28.30:706][761]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Dados/Save.Save
+[2018.09.23-07.28.50:322][737]BlueprintLog: New page: Compile Save
+[2018.09.23-07.28.53:741][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Dados/Save" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset" SILENT=true
+[2018.09.23-07.28.55:581][858]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Save42170FB249E0677799B8D2B74AF19A7E.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset'
+[2018.09.23-07.30.22:413][988]BlueprintLog: New page: Compile Menu
+[2018.09.23-07.30.23:342][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.30.23:611][ 12]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/MenuF2A04B13451CAF4D4132E988CCEAE265.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.30.30:664][431]BlueprintLog: New page: Compile Menu
+[2018.09.23-07.30.31:278][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.30.31:441][452]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Menu3D7235554C05EB8356DC23B0081F055A.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.30.58:875][ 92]BlueprintLog: New page: Compile Menu
+[2018.09.23-07.30.59:606][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.30.59:741][118]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Menu2575E65F4D1EC590FB63E6AECF4D5FA7.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.32.05:057][ 28]BlueprintLog: New page: Compile Menu
+[2018.09.23-07.32.06:479][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.32.06:717][ 98]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Menu8DC6D4D34D92949FF7A0928C94785CDF.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.32.12:104][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/HUD/Menu/Menu" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset" SILENT=true
+[2018.09.23-07.32.12:237][414]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Menu40C51F3442D255CE5A5250BEFAF7CC9B.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/HUD/Menu/Menu.uasset'
+[2018.09.23-07.33.19:372][236]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/NewGame84E9E62E40CC8B695ED3A18F08BFD2B2.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/NewGame.umap'
+[2018.09.23-07.33.19:787][236]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/NewGame_BuiltData3C8DBCF449BA33B4A2D6968942DDFA00.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/NewGame_BuiltData.uasset'
+[2018.09.23-07.33.39:764][223]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Main_GameMode.Main_GameMode
+[2018.09.23-07.34.32:069][219]BlueprintLog: New page: Compile Main_GameMode
+[2018.09.23-07.34.48:856][115]BlueprintLog: New page: Compile Main_GameMode
+[2018.09.23-07.35.18:391][813]BlueprintLog: New page: Compile Main_GameMode
+[2018.09.23-07.35.19:244][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.09.23-07.35.19:945][813]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameMode49FC36FC4247D80A4C54A789BF8ED7BE.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.09.23-07.35.20:737][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.09.23-07.35.21:388][852]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameModeEF03B2FF48D7D1BDE058EA80E7738D25.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.09.23-07.35.52:492][592]BlueprintLog: New page: Compile Main_GameMode
+[2018.09.23-07.35.53:850][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.09.23-07.35.54:440][620]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameMode5696359D4E03FCE6E7B06DA006A4AEB9.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.09.23-07.36.47:641][781]BlueprintLog: New page: Compile Main_GameMode
+[2018.09.23-07.36.48:475][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.09.23-07.36.49:111][781]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameMode5305E8444403F3D4953E7EB0F70F5FBC.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.09.23-07.37.06:948][841]BlueprintLog: New page: Compile Main_GameMode
+[2018.09.23-07.37.09:029][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.09.23-07.37.09:700][841]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameMode2B19849342756485DCD3C380B73E985D.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.09.23-07.37.10:687][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.09.23-07.37.11:316][895]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameModeE33B1C10458227DA2A0197894A1815B4.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.09.23-07.37.15:545][148]BlueprintLog: New page: Compile Main_GameMode
+[2018.09.23-07.37.17:727][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.09.23-07.37.18:386][178]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameModeC37BD6214EFA5C411C89C095F91BDBF3.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.09.23-07.37.47:854][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.09.23-07.37.48:502][944]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameMode6EC8342C44F56C9F6517B6BB678C0BF8.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.09.23-07.37.50:898][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-07.37.50:979][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.37.50:980][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-07.37.51:083][ 87]PIE: New page: PIE session: NewGame (Sep 23, 2018, 1:37:50 AM)
+[2018.09.23-07.37.51:102][ 87]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-07.37.51:117][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014878s)
+[2018.09.23-07.37.51:167][ 87]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-07.37.51:204][ 87]LogPlayLevel: PIE: World Init took: (0.086780s)
+[2018.09.23-07.37.51:204][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.102030s)
+[2018.09.23-07.37.51:326][ 87]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-07.37.51:372][ 87]LogInit: FAudioDevice initialized.
+[2018.09.23-07.37.51:496][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.37.51:569][ 87]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.37.51:578][ 87]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-04.37.51
+[2018.09.23-07.37.51:578][ 87]LogWorld: Bringing up level for play took: 0.008319
+[2018.09.23-07.37.51:750][ 87]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-07.37.52:164][ 87]Cmd: r.ScreenPercentage 100
+[2018.09.23-07.37.52:249][ 87]r.ScreenPercentage = "100"
+[2018.09.23-07.37.52:303][ 87]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.37.52:303][ 87]r.PostProcessAAQuality = "4"
+[2018.09.23-07.37.52:303][ 87]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.37.52:320][ 87]sg.PostProcessQuality = "2"
+[2018.09.23-07.37.52:320][ 87]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.37.52:320][ 87]r.PostProcessAAQuality = "4"
+[2018.09.23-07.37.52:320][ 87]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.37.52:320][ 87]sg.PostProcessQuality = "2"
+[2018.09.23-07.37.52:320][ 87]Cmd: sg.ShadowQuality 2
+[2018.09.23-07.37.52:321][ 87]sg.ShadowQuality = "2"
+[2018.09.23-07.37.52:321][ 87]Cmd: sg.TextureQuality 3
+[2018.09.23-07.37.52:321][ 87]sg.TextureQuality = "3"
+[2018.09.23-07.37.52:321][ 87]Cmd: sg.EffectsQuality 0
+[2018.09.23-07.37.52:328][ 87]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-07.37.52:328][ 87]sg.EffectsQuality = "0"
+[2018.09.23-07.37.52:328][ 87]Cmd: r.DetailMode 0
+[2018.09.23-07.37.52:328][ 87]r.DetailMode = "0"
+[2018.09.23-07.37.52:384][ 87]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 2.384
+[2018.09.23-07.37.52:400][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.37.52:714][ 88]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-07.37.52:738][ 88]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-07.38.12:643][ 88]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-07.38.12:644][ 88]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.38.12:660][ 88]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-04.38.12
+[2018.09.23-07.38.12:661][ 88]LogWorld: Bringing up level for play took: 0.016217
+[2018.09.23-07.38.12:940][ 88]LogLoad: Took 20.201593 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-07.38.15:538][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.38.20:546][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-07.38.20:653][405]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-07.38.20:660][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.38.20:753][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-07.38.20:753][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.38.20:835][406]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.23-07.38.52:006][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
+[2018.09.23-07.38.52:654][275]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameMode09C4A683425A458222E48CAFD3983309.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
