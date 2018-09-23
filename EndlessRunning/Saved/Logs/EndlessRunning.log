@@ -17556,3 +17556,200 @@ LogInit: Object subsystem initialized
 [2018.09.23-13.20.55:798][978]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Project/Assets/Vehicles/Ciclista/Ciclista_body.Ciclista_body
 [2018.09.23-13.21.19:543][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.09.23-13.21.19:635][540]LogSlate: Window 'Ciclista_body' being destroyed
+[2018.09.23-13.31.33:783][498]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\WyKKe\Documentos\Dev-u\EndlessRunning\Models\Actors\Ciclistas\Ciclista.fbx)
+[2018.09.23-13.31.34:233][498]LogFbx: Loading FBX Scene from C:\Users\WyKKe\Documentos\Dev-u\EndlessRunning\Models\Actors\Ciclistas\Ciclista.fbx
+[2018.09.23-13.31.34:351][498]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.23-13.31.36:906][498]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.23-13.31.52:918][628]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\WyKKe\Documentos\Dev-u\EndlessRunning\Models\Actors\Ciclistas\Ciclista.fbx)
+[2018.09.23-13.31.52:931][628]LogFbx: Loading FBX Scene from C:\Users\WyKKe\Documentos\Dev-u\EndlessRunning\Models\Actors\Ciclistas\Ciclista.fbx
+[2018.09.23-13.31.52:938][628]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.23-13.31.57:297][628]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.23-13.31.57:792][628]LogFbx: Warning: Triangulating static mesh Cube
+[2018.09.23-13.31.58:108][628]LogStaticMesh: Building static mesh Ciclista_Cube...
+[2018.09.23-13.31.58:344][628]LogStaticMesh: Built static mesh [0.32s] /Game/Project/Assets/Vehicles/Ciclista/Ciclista_Cube.Ciclista_Cube
+[2018.09.23-13.31.58:586][628]LogStaticMesh: Warning: Ciclista_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.09.23-13.31.58:597][628]LogStaticMesh: Warning: Ciclista_Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.09.23-13.31.58:767][628]LogFbx: Warning: Triangulating static mesh body
+[2018.09.23-13.31.58:880][628]LogStaticMesh: Building static mesh Ciclista_body...
+[2018.09.23-13.31.58:883][628]LogStaticMesh: Built static mesh [0.04s] /Game/Project/Assets/Vehicles/Ciclista/Ciclista_body.Ciclista_body
+[2018.09.23-13.31.58:902][628]LogStaticMesh: Warning: Ciclista_body has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.09.23-13.31.58:902][628]LogStaticMesh: Warning: Ciclista_body has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.09.23-13.31.58:988][628]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.09.23-13.31.58:988][628]FBXImport: Warning: Ciclista_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.09.23-13.31.58:988][628]FBXImport: Warning: Ciclista_Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.09.23-13.31.58:988][628]FBXImport: Warning: Ciclista_body has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.09.23-13.31.58:988][628]FBXImport: Warning: Ciclista_body has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.09.23-13.32.02:041][722]LogSlate: Window 'Message Log' being destroyed
+[2018.09.23-13.32.02:044][722]LogSlate: Window 'Message Log' being destroyed
+[2018.09.23-13.32.07:596][832]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Project/Assets/Vehicles/Ciclista/Ciclista_body.Ciclista_body
+[2018.09.23-13.32.32:108][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-13.32.34:862][335]LogSlate: Window 'Save Asset As' being destroyed
+[2018.09.23-13.32.44:908][526]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Ciclista_body787E069D4A40962EC6167D81C03CB307.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Assets/Vehicles/Ciclista/Ciclista_body.uasset'
+[2018.09.23-13.32.56:912][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.32.56:986][821]LogSlate: Window 'Ciclista_body' being destroyed
+[2018.09.23-13.33.00:352][903]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Project/Assets/Vehicles/Ciclista/Ciclista_Cube.Ciclista_Cube
+[2018.09.23-13.33.12:983][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.33.13:087][195]LogSlate: Window 'Ciclista_Cube*' being destroyed
+[2018.09.23-13.33.30:020][775]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/Vehicles/Ciclista.Ciclista
+[2018.09.23-13.33.43:433][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.33.52:067][617]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/Vehicles/Veiculo.Veiculo
+[2018.09.23-13.34.48:777][684]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.36.05:670][603]LogSlate: Took 0.131643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.23-13.36.14:991][143]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.36.35:088][167]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.36.49:785][951]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.36.52:603][115]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.36.59:360][503]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.37.07:754][979]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.37.11:171][184]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.37.11:278][184]LogBlueprint: Error: [Compiler Ciclista] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.09.23-13.37.11:707][184]LogBlueprint: Warning: [Compiler Ciclista] [3953.00] Compile of Ciclista failed. 1 Fatal Issue(s) 0 Warning(s) [in 480 ms] (/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista)
+[2018.09.23-13.37.20:478][692]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.37.26:382][ 34]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.37.27:615][108]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.37.27:633][108]LogBlueprint: Error: [Compiler Ciclista] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.09.23-13.37.27:811][108]LogBlueprint: Warning: [Compiler Ciclista] [3969.16] Compile of Ciclista failed. 1 Fatal Issue(s) 0 Warning(s) [in 196 ms] (/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista)
+[2018.09.23-13.38.43:241][406]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Project/Assets/Vehicles/Ciclista/Ciclista_Cube.Ciclista_Cube
+[2018.09.23-13.38.47:527][466]LogSlate: Window 'Ciclista_Cube*' being destroyed
+[2018.09.23-13.39.17:151][140]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.39.28:873][658]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.23-13.39.30:429][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.39.35:131][  7]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.39.53:436][ 14]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Project/Assets/Vehicles/Ciclista/Ciclista_body.Ciclista_body
+[2018.09.23-13.39.57:647][106]LogSlate: Window 'Ciclista_body' being destroyed
+[2018.09.23-13.39.58:812][149]LogSlate: Window 'Ciclista_body' being destroyed
+[2018.09.23-13.40.08:250][532]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.40.30:105][388]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.40.42:680][914]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.40.54:727][421]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.41.06:514][738]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.23-13.41.08:949][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.41.21:785][391]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.41.35:143][737]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/NPCs/NPC_Default2.NPC_Default2
+[2018.09.23-13.42.18:589][551]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.42.27:233][922]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.42.43:310][550]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.42.51:839][937]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.43.12:087][467]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Ciclista50208D154D17DD1EA538C4A9BDE83FC6.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Vehicles/Ciclista.uasset'
+[2018.09.23-13.43.33:785][588]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Project/Assets/Vehicles/Ciclista/Ciclista_body.Ciclista_body
+[2018.09.23-13.44.17:903][271]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.44.30:240][612]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.23-13.44.32:339][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.44.32:445][694]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.44.52:870][279]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Project/Dados/NPCs/Male/NPCM_Cabecas.NPCM_Cabecas
+[2018.09.23-13.45.31:600][819]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.45.31:877][819]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.31:878][819]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.31:887][819]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.31:888][819]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:076][936]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:120][937]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:162][938]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:276][941]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:320][942]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:396][944]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:516][947]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:558][948]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:637][950]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:727][952]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.36:939][958]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.37:091][962]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.37:326][968]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.37:416][970]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.37:537][973]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.37:969][984]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.38:077][987]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.38:399][995]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.38:611][  0]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.38:661][  1]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.38:703][  2]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.38:812][  5]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.38:907][  7]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.39:267][ 17]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.39:472][ 22]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.39:635][ 25]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.40:157][ 38]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.23-13.45.40:178][ 38]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.40:979][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.45.41:046][ 79]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.45.41:087][ 79]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.41:265][ 79]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.41:265][ 79]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.41:312][ 79]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.45.42:238][ 99]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/CiclistaFBC07EFC4E2223DB3950B0A890688A36.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Vehicles/Ciclista.uasset'
+[2018.09.23-13.46.10:447][110]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Ciclista54B1ACC4480C3019BFA8F6A9F43F3796.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Vehicles/Ciclista.uasset'
+[2018.09.23-13.46.25:925][804]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.46.26:152][804]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.29:675][919]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.46.32:612][ 25]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.46.35:656][125]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.46.38:668][233]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.46.42:193][361]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.46.43:357][406]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.46.43:395][406]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.43:571][406]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.43:582][406]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.43:583][406]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.47:126][494]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.47:288][498]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.47:329][499]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.47:853][512]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.48:575][531]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.48:828][537]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.49:062][543]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.49:473][554]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.49:523][555]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.50:068][569]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.50:818][588]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.50:888][590]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.51:988][617]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.23-13.46.52:196][617]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.46.53:651][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.47.00:692][960]LogEditorTransaction: Undo Edit 5
+[2018.09.23-13.47.00:707][960]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.02:349][ 16]LogEditorTransaction: Undo Edit 5
+[2018.09.23-13.47.02:364][ 16]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.02:365][ 16]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.03:051][ 36]LogEditorTransaction: Undo Edit 4
+[2018.09.23-13.47.03:066][ 36]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.03:067][ 36]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.03:798][ 58]LogEditorTransaction: Undo Edit 3
+[2018.09.23-13.47.03:813][ 58]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.04:562][ 78]LogEditorTransaction: Undo Edit 2
+[2018.09.23-13.47.04:577][ 78]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.04:577][ 78]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.06:823][158]LogEditorTransaction: Undo Edit 0
+[2018.09.23-13.47.06:838][158]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.10:366][307]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.24:133][876]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.47.26:913][966]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.47.30:448][ 88]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.47.33:454][192]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.47.36:182][280]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-13.47.37:363][325]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.47.37:594][325]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.37:607][325]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.40:907][413]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.40:986][415]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.41:179][420]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.41:383][425]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.41:569][430]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.41:661][432]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.41:840][436]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.41:885][437]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.41:923][438]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.42:039][441]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.42:239][446]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.42:421][450]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.43:092][468]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.43:640][481]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.44:063][492]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.44:761][509]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.23-13.47.44:788][509]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.45:640][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-13.47.45:723][554]BlueprintLog: New page: Compile Ciclista
+[2018.09.23-13.47.45:946][554]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CoresCabelo' of length 3 in '/Game/Project/Blueprints/Vehicles/Ciclista.Ciclista_C:UserConstructionScript'!
+[2018.09.23-13.47.46:743][571]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/CiclistaC0E036C44D6FC4396AD1CCB1DC0F1D4A.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Vehicles/Ciclista.uasset'
+[2018.09.23-13.47.47:743][596]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.23-13.47.54:102][843]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/NewGame827B613141BCB08E60AF14B5122FF543.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/NewGame.umap'
+[2018.09.23-13.47.54:519][843]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/NewGame_BuiltData9B6087B545317874358AA1BC8B3776FB.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Levels/NewGame_BuiltData.uasset'
