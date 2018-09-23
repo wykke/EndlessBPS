@@ -809,3 +809,188 @@ LogInit: Object subsystem initialized
 [2018.09.23-07.46.52:051][495]LogPlayLevel: Display: Shutting down PIE online subsystems
 [2018.09.23-07.46.52:051][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
 [2018.09.23-07.46.52:127][496]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.09.23-07.54.35:797][176]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\WyKKe\Documentos\Dev-u\EndlessRunning\Models\Actors\Main_Character\Default\Default.fbx)
+[2018.09.23-07.54.36:480][176]LogFbx: Loading FBX Scene from C:\Users\WyKKe\Documentos\Dev-u\EndlessRunning\Models\Actors\Main_Character\Default\Default.fbx
+[2018.09.23-07.54.36:597][176]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.23-07.55.07:106][176]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.23-07.55.07:511][176]LogFbx: Warning: Triangulating static mesh legs
+[2018.09.23-07.55.07:959][176]LogStaticMesh: Building static mesh Default_legs...
+[2018.09.23-07.55.08:610][176]LogStaticMesh: Built static mesh [0.75s] /Game/Project/Assets/Main_Character/Skin1/Default_legs.Default_legs
+[2018.09.23-07.55.09:019][176]LogStaticMesh: Warning: Default_legs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.09.23-07.55.09:031][176]LogStaticMesh: Warning: Default_legs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.09.23-07.55.09:092][176]LogFbx: Warning: Triangulating static mesh body
+[2018.09.23-07.55.09:294][176]LogStaticMesh: Building static mesh Default_body...
+[2018.09.23-07.55.09:300][176]LogStaticMesh: Built static mesh [0.05s] /Game/Project/Assets/Main_Character/Skin1/Default_body.Default_body
+[2018.09.23-07.55.09:367][176]LogStaticMesh: Warning: Default_body has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.09.23-07.55.09:367][176]LogStaticMesh: Warning: Default_body has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.09.23-07.55.09:484][176]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.09.23-07.55.09:485][176]FBXImport: Warning: Default_legs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.09.23-07.55.09:485][176]FBXImport: Warning: Default_legs has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.09.23-07.55.09:485][176]FBXImport: Warning: Default_body has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.09.23-07.55.09:485][176]FBXImport: Warning: Default_body has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.09.23-07.55.14:403][218]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Levels/NewGame' took 0.202
+[2018.09.23-07.55.14:406][218]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project/Assets/Main_Character/Skin1/Default_legs] ([1] browsable assets)...
+[2018.09.23-07.55.14:561][218]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Project/Assets/Main_Character/Skin1/Default_legs.Default_legs]
+[2018.09.23-07.55.14:586][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Assets/Main_Character/Skin1/Default_legs]
+[2018.09.23-07.55.14:729][218]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Default_legs_Auto259CDD70B4065CFB1588260A7E9DA5E7B.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Autosaves/Game/Project/Assets/Main_Character/Skin1/Default_legs_Auto2.uasset'
+[2018.09.23-07.55.14:731][218]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project/Assets/Main_Character/Skin1/Default_body] ([1] browsable assets)...
+[2018.09.23-07.55.14:762][218]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Project/Assets/Main_Character/Skin1/Default_body.Default_body]
+[2018.09.23-07.55.14:762][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Assets/Main_Character/Skin1/Default_body]
+[2018.09.23-07.55.14:877][218]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Default_body_Auto25B23EA6A442F52DF8E9617A7B6161431.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Autosaves/Game/Project/Assets/Main_Character/Skin1/Default_body_Auto2.uasset'
+[2018.09.23-07.55.14:878][218]LogFileHelpers: Auto-saving content packages took 0.473
+[2018.09.23-07.55.16:486][275]LogSlate: Window 'Message Log' being destroyed
+[2018.09.23-07.55.16:490][275]LogSlate: Window 'Message Log' being destroyed
+[2018.09.23-07.56.11:373][156]LogSlate: Window 'Replace References' being destroyed
+[2018.09.23-07.56.34:009][235]LogSlate: Window 'Replace References?' being destroyed
+[2018.09.23-07.56.34:012][235]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.23-07.56.34:775][235]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.23-07.56.37:426][235]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.23-07.56.41:824][235]LogSlate: Window 'Save Content' being destroyed
+[2018.09.23-07.56.42:972][235]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/skin1_body758A390B41B7C30CFE2EB481EC967FA5.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Assets/Main_Character/Skin1/skin1_body.uasset'
+[2018.09.23-07.56.43:677][235]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_CharacterAE2F87F84FDFC0C82100599DC4538F53.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
+[2018.09.23-07.56.43:686][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Dados/Save" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset" SILENT=true
+[2018.09.23-07.56.43:771][235]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Save91E6D2AB45FDC023DBEBEB8C34E43EAB.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset'
+[2018.09.23-07.56.47:599][343]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-07.56.47:712][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.56.47:712][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-07.56.47:746][343]PIE: New page: PIE session: NewGame (Sep 23, 2018, 1:56:47 AM)
+[2018.09.23-07.56.47:773][343]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-07.56.47:845][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071739s)
+[2018.09.23-07.56.47:879][343]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-07.56.47:890][343]LogPlayLevel: PIE: World Init took: (0.045002s)
+[2018.09.23-07.56.47:890][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.116959s)
+[2018.09.23-07.56.48:018][343]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-07.56.48:031][343]LogInit: FAudioDevice initialized.
+[2018.09.23-07.56.48:192][343]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.56.48:220][343]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-04.56.48
+[2018.09.23-07.56.48:221][343]LogWorld: Bringing up level for play took: 0.000584
+[2018.09.23-07.56.48:775][343]Cmd: r.ScreenPercentage 100
+[2018.09.23-07.56.48:815][343]r.ScreenPercentage = "100"
+[2018.09.23-07.56.48:825][343]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.56.48:825][343]r.PostProcessAAQuality = "4"
+[2018.09.23-07.56.48:826][343]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.56.48:826][343]sg.PostProcessQuality = "2"
+[2018.09.23-07.56.48:826][343]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.56.48:826][343]r.PostProcessAAQuality = "4"
+[2018.09.23-07.56.48:826][343]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.56.48:826][343]sg.PostProcessQuality = "2"
+[2018.09.23-07.56.48:827][343]Cmd: sg.ShadowQuality 2
+[2018.09.23-07.56.48:827][343]sg.ShadowQuality = "2"
+[2018.09.23-07.56.48:827][343]Cmd: sg.TextureQuality 3
+[2018.09.23-07.56.48:827][343]sg.TextureQuality = "3"
+[2018.09.23-07.56.48:827][343]Cmd: sg.EffectsQuality 0
+[2018.09.23-07.56.48:827][343]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-07.56.48:827][343]sg.EffectsQuality = "0"
+[2018.09.23-07.56.48:827][343]Cmd: r.DetailMode 0
+[2018.09.23-07.56.48:827][343]r.DetailMode = "0"
+[2018.09.23-07.56.48:885][343]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.884
+[2018.09.23-07.56.48:885][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.56.49:067][344]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-07.56.49:087][344]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-07.56.52:724][344]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_body'
+[2018.09.23-07.56.52:725][344]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_body' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset.
+[2018.09.23-07.56.52:725][344]LoadErrors: Error: /Game/Project/Dados/Save : Can't find file for asset. /Game/Project/Assets/Main_Character/Skin1/Default_body
+[2018.09.23-07.56.52:881][344]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_body'
+[2018.09.23-07.56.52:881][344]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_body' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset.
+[2018.09.23-07.56.53:069][344]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_body'
+[2018.09.23-07.56.53:069][344]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_body' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset.
+[2018.09.23-07.56.53:069][344]LoadErrors: Error: /Game/Project/Blueprints/Main_Character/Main_Character : Can't find file for asset. /Game/Project/Assets/Main_Character/Skin1/Default_body
+[2018.09.23-07.56.53:247][344]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_body'
+[2018.09.23-07.56.53:247][344]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_body' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset.
+[2018.09.23-07.56.56:749][344]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-07.56.56:749][344]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.56.56:752][344]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-04.56.56
+[2018.09.23-07.56.56:752][344]LogWorld: Bringing up level for play took: 0.001423
+[2018.09.23-07.56.56:965][344]LogLoad: Took 7.878963 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-07.56.59:805][393]LogEditorViewport: Clicking on Actor (context menu): Unifei_C (Unifei)
+[2018.09.23-07.57.04:822][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-07.57.19:725][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-07.57.19:789][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.57.19:986][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.57.20:178][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-07.57.20:178][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.57.20:419][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.57.20:880][709]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.09.23-07.57.34:031][804]LogSlate: Window 'Replace References?' being destroyed
+[2018.09.23-07.57.34:036][804]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.23-07.57.34:051][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-07.57.34:652][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-07.57.35:799][804]LogSlate: Window 'Save Content' being destroyed
+[2018.09.23-07.57.35:817][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-07.57.35:896][804]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/skin1_legs5A7BCD144196FEB055D687A12FBDA123.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Assets/Main_Character/Skin1/skin1_legs.uasset'
+[2018.09.23-07.57.36:379][804]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character37C8F5DC4D6854A9C9E2508737CE69C9.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
+[2018.09.23-07.57.36:387][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Dados/Save" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset" SILENT=true
+[2018.09.23-07.57.36:468][804]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Save75BEA2654A31F11AD659A9A244A5909C.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset'
+[2018.09.23-07.57.39:212][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-07.57.41:293][936]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-07.57.41:365][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.57.41:365][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-07.57.41:366][936]PIE: New page: PIE session: NewGame (Sep 23, 2018, 1:57:41 AM)
+[2018.09.23-07.57.41:378][936]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-07.57.41:379][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001946s)
+[2018.09.23-07.57.41:380][936]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-07.57.41:380][936]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2018.09.23-07.57.41:380][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002994s)
+[2018.09.23-07.57.41:428][936]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-07.57.41:440][936]LogInit: FAudioDevice initialized.
+[2018.09.23-07.57.41:474][936]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.57.41:475][936]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-04.57.41
+[2018.09.23-07.57.41:475][936]LogWorld: Bringing up level for play took: 0.000627
+[2018.09.23-07.57.41:682][936]Cmd: r.ScreenPercentage 100
+[2018.09.23-07.57.41:682][936]r.ScreenPercentage = "100"
+[2018.09.23-07.57.41:682][936]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.57.41:682][936]r.PostProcessAAQuality = "4"
+[2018.09.23-07.57.41:682][936]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.57.41:682][936]sg.PostProcessQuality = "2"
+[2018.09.23-07.57.41:683][936]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.57.41:683][936]r.PostProcessAAQuality = "4"
+[2018.09.23-07.57.41:683][936]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.57.41:683][936]sg.PostProcessQuality = "2"
+[2018.09.23-07.57.41:683][936]Cmd: sg.ShadowQuality 2
+[2018.09.23-07.57.41:683][936]sg.ShadowQuality = "2"
+[2018.09.23-07.57.41:683][936]Cmd: sg.TextureQuality 3
+[2018.09.23-07.57.41:683][936]sg.TextureQuality = "3"
+[2018.09.23-07.57.41:683][936]Cmd: sg.EffectsQuality 0
+[2018.09.23-07.57.41:684][936]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-07.57.41:684][936]sg.EffectsQuality = "0"
+[2018.09.23-07.57.41:684][936]Cmd: r.DetailMode 0
+[2018.09.23-07.57.41:684][936]r.DetailMode = "0"
+[2018.09.23-07.57.41:685][936]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame -0.315
+[2018.09.23-07.57.41:685][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.57.41:711][937]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-07.57.41:814][937]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-07.57.42:287][937]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_body'
+[2018.09.23-07.57.42:287][937]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_body' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset.
+[2018.09.23-07.57.42:287][937]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_legs'
+[2018.09.23-07.57.42:287][937]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_legs' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset.
+[2018.09.23-07.57.42:287][937]LoadErrors: Error: /Game/Project/Dados/Save : Can't find file for asset. /Game/Project/Assets/Main_Character/Skin1/Default_legs
+[2018.09.23-07.57.42:299][937]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_body'
+[2018.09.23-07.57.42:299][937]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_body' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset.
+[2018.09.23-07.57.42:299][937]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_legs'
+[2018.09.23-07.57.42:299][937]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_legs' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Dados/Save.uasset.
+[2018.09.23-07.57.42:313][937]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_body'
+[2018.09.23-07.57.42:313][937]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_body' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset.
+[2018.09.23-07.57.42:313][937]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_legs'
+[2018.09.23-07.57.42:313][937]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_legs' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset.
+[2018.09.23-07.57.42:314][937]LoadErrors: Error: /Game/Project/Blueprints/Main_Character/Main_Character : Can't find file for asset. /Game/Project/Assets/Main_Character/Skin1/Default_legs
+[2018.09.23-07.57.42:333][937]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_body'
+[2018.09.23-07.57.42:334][937]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_body' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset.
+[2018.09.23-07.57.42:334][937]LogLinker: Warning: Can't find file '/Game/Project/Assets/Main_Character/Skin1/Default_legs'
+[2018.09.23-07.57.42:334][937]LogLinker: Warning: Can't find file for asset '/Game/Project/Assets/Main_Character/Skin1/Default_legs' while loading ../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset.
+[2018.09.23-07.57.42:826][937]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-07.57.42:826][937]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.57.42:828][937]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-04.57.42
+[2018.09.23-07.57.42:829][937]LogWorld: Bringing up level for play took: 0.001576
+[2018.09.23-07.57.43:045][937]LogLoad: Took 1.231634 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-07.57.45:521][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-07.57.45:917][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.57.47:597][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-07.58.02:093][587]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.58.02:094][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.58.02:172][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-07.58.02:172][587]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.58.02:208][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.58.02:275][588]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.09.23-07.58.03:545][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-07.58.03:741][621]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Project/Assets/Main_Character/Skin1/Default_legs.Default_legs
+[2018.09.23-07.58.22:847][818]LogSlate: Window 'Default_legs*' being destroyed
