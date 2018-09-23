@@ -566,3 +566,246 @@ LogInit: Object subsystem initialized
 [2018.09.23-07.38.20:835][406]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2018.09.23-07.38.52:006][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Main_GameMode" FILE="../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset" SILENT=true
 [2018.09.23-07.38.52:654][275]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_GameMode09C4A683425A458222E48CAFD3983309.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Main_GameMode.uasset'
+[2018.09.23-07.42.56:473][602]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/NPCs/NPC_Default2.NPC_Default2
+[2018.09.23-07.43.18:575][767]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Project/Blueprints/Assets/PoolClass/PoolComponent.PoolComponent
+[2018.09.23-07.44.08:467][586]BlueprintLog: New page: Compile PoolComponent
+[2018.09.23-07.44.09:979][597]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/PoolComponentF466686C4E1EE2C18E6FE0970F2F91CA.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Assets/PoolClass/PoolComponent.uasset'
+[2018.09.23-07.44.12:802][759]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-07.44.13:035][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.44.13:035][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-07.44.13:036][759]PIE: New page: PIE session: NewGame (Sep 23, 2018, 1:44:13 AM)
+[2018.09.23-07.44.13:036][759]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-07.44.13:038][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001921s)
+[2018.09.23-07.44.13:038][759]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-07.44.13:038][759]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2018.09.23-07.44.13:038][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002787s)
+[2018.09.23-07.44.13:093][759]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-07.44.13:105][759]LogInit: FAudioDevice initialized.
+[2018.09.23-07.44.13:204][759]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.44.13:205][759]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-04.44.13
+[2018.09.23-07.44.13:205][759]LogWorld: Bringing up level for play took: 0.000434
+[2018.09.23-07.44.13:506][759]Cmd: r.ScreenPercentage 100
+[2018.09.23-07.44.13:506][759]r.ScreenPercentage = "100"
+[2018.09.23-07.44.13:506][759]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.44.13:507][759]r.PostProcessAAQuality = "4"
+[2018.09.23-07.44.13:507][759]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.44.13:507][759]sg.PostProcessQuality = "2"
+[2018.09.23-07.44.13:507][759]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.44.13:507][759]r.PostProcessAAQuality = "4"
+[2018.09.23-07.44.13:507][759]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.44.13:508][759]sg.PostProcessQuality = "2"
+[2018.09.23-07.44.13:508][759]Cmd: sg.ShadowQuality 2
+[2018.09.23-07.44.13:508][759]sg.ShadowQuality = "2"
+[2018.09.23-07.44.13:508][759]Cmd: sg.TextureQuality 3
+[2018.09.23-07.44.13:508][759]sg.TextureQuality = "3"
+[2018.09.23-07.44.13:508][759]Cmd: sg.EffectsQuality 0
+[2018.09.23-07.44.13:508][759]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-07.44.13:508][759]sg.EffectsQuality = "0"
+[2018.09.23-07.44.13:508][759]Cmd: r.DetailMode 0
+[2018.09.23-07.44.13:508][759]r.DetailMode = "0"
+[2018.09.23-07.44.13:510][759]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame -0.49
+[2018.09.23-07.44.13:510][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.44.13:636][760]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-07.44.13:674][760]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-07.44.15:024][760]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-07.44.15:024][760]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.44.15:027][760]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-04.44.15
+[2018.09.23-07.44.15:027][760]LogWorld: Bringing up level for play took: 0.001586
+[2018.09.23-07.44.15:229][760]LogLoad: Took 1.554381 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-07.44.30:282][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-07.44.30:771][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.44.32:960][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-07.44.43:928][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-07.44.44:057][715]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.44.44:057][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.44.44:158][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-07.44.44:159][715]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.44.44:232][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.44.44:548][716]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.09.23-07.44.49:564][883]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/NPC_Default299ADD36646498942A49803894E99961A.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/NPCs/NPC_Default2.uasset'
+[2018.09.23-07.45.16:791][488]BlueprintLog: New page: Compile Main_Character
+[2018.09.23-07.45.19:858][514]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_CharacterA033715D494B9B10423BF2B49D19FAA2.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
+[2018.09.23-07.45.20:310][541]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-07.45.20:336][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.45.20:336][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-07.45.20:337][541]PIE: New page: PIE session: NewGame (Sep 23, 2018, 1:45:20 AM)
+[2018.09.23-07.45.20:337][541]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-07.45.20:338][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001771s)
+[2018.09.23-07.45.20:339][541]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-07.45.20:339][541]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.09.23-07.45.20:339][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002799s)
+[2018.09.23-07.45.20:493][541]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-07.45.20:505][541]LogInit: FAudioDevice initialized.
+[2018.09.23-07.45.20:543][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.45.20:583][541]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.45.20:584][541]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-04.45.20
+[2018.09.23-07.45.20:611][541]LogWorld: Bringing up level for play took: 0.027052
+[2018.09.23-07.45.20:648][541]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-07.45.20:893][541]Cmd: r.ScreenPercentage 100
+[2018.09.23-07.45.20:894][541]r.ScreenPercentage = "100"
+[2018.09.23-07.45.20:894][541]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.45.20:894][541]r.PostProcessAAQuality = "4"
+[2018.09.23-07.45.20:894][541]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.45.20:894][541]sg.PostProcessQuality = "2"
+[2018.09.23-07.45.20:894][541]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.45.20:894][541]r.PostProcessAAQuality = "4"
+[2018.09.23-07.45.20:895][541]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.45.20:895][541]sg.PostProcessQuality = "2"
+[2018.09.23-07.45.20:895][541]Cmd: sg.ShadowQuality 2
+[2018.09.23-07.45.20:895][541]sg.ShadowQuality = "2"
+[2018.09.23-07.45.20:895][541]Cmd: sg.TextureQuality 3
+[2018.09.23-07.45.20:895][541]sg.TextureQuality = "3"
+[2018.09.23-07.45.20:895][541]Cmd: sg.EffectsQuality 0
+[2018.09.23-07.45.20:895][541]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-07.45.20:895][541]sg.EffectsQuality = "0"
+[2018.09.23-07.45.20:895][541]Cmd: r.DetailMode 0
+[2018.09.23-07.45.20:895][541]r.DetailMode = "0"
+[2018.09.23-07.45.20:912][541]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame 0.911
+[2018.09.23-07.45.20:912][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.45.21:064][542]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-07.45.21:072][542]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-07.45.22:355][542]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-07.45.22:355][542]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.45.22:357][542]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-04.45.22
+[2018.09.23-07.45.22:358][542]LogWorld: Bringing up level for play took: 0.001829
+[2018.09.23-07.45.22:538][542]LogLoad: Took 1.465807 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-07.45.23:051][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.45.26:759][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.45.26:760][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.45.26:830][693]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-07.45.26:876][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-07.45.26:876][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.45.26:999][694]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.23-07.45.34:165][110]BlueprintLog: New page: Compile Main_Character
+[2018.09.23-07.45.36:761][130]LogSavePackage: Moving '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Saved/Main_Character796329AB4495CC2ED3B96B8DE31CAF04.tmp' to '../../../../../Users/WyKKe/Documentos/Dev-u/EndlessRunning/Git/EndlessRunning/Content/Project/Blueprints/Main_Character/Main_Character.uasset'
+[2018.09.23-07.45.37:245][159]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.23-07.45.37:269][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.45.37:269][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-07.45.37:269][159]PIE: New page: PIE session: NewGame (Sep 23, 2018, 1:45:37 AM)
+[2018.09.23-07.45.37:269][159]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-07.45.37:296][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026810s)
+[2018.09.23-07.45.37:296][159]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-07.45.37:296][159]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.09.23-07.45.37:296][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.027804s)
+[2018.09.23-07.45.37:356][159]LogInit: XAudio2 using 'Alto-falantes (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-07.45.37:369][159]LogInit: FAudioDevice initialized.
+[2018.09.23-07.45.37:379][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.45.37:439][159]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.45.37:440][159]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-04.45.37
+[2018.09.23-07.45.37:441][159]LogWorld: Bringing up level for play took: 0.000440
+[2018.09.23-07.45.37:453][159]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-07.45.37:643][159]Cmd: r.ScreenPercentage 100
+[2018.09.23-07.45.37:643][159]r.ScreenPercentage = "100"
+[2018.09.23-07.45.37:643][159]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.45.37:643][159]r.PostProcessAAQuality = "4"
+[2018.09.23-07.45.37:643][159]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.45.37:644][159]sg.PostProcessQuality = "2"
+[2018.09.23-07.45.37:644][159]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.45.37:644][159]r.PostProcessAAQuality = "4"
+[2018.09.23-07.45.37:644][159]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.45.37:644][159]sg.PostProcessQuality = "2"
+[2018.09.23-07.45.37:644][159]Cmd: sg.ShadowQuality 2
+[2018.09.23-07.45.37:644][159]sg.ShadowQuality = "2"
+[2018.09.23-07.45.37:644][159]Cmd: sg.TextureQuality 3
+[2018.09.23-07.45.37:644][159]sg.TextureQuality = "3"
+[2018.09.23-07.45.37:644][159]Cmd: sg.EffectsQuality 0
+[2018.09.23-07.45.37:644][159]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-07.45.37:644][159]sg.EffectsQuality = "0"
+[2018.09.23-07.45.37:645][159]Cmd: r.DetailMode 0
+[2018.09.23-07.45.37:645][159]r.DetailMode = "0"
+[2018.09.23-07.45.37:648][159]PIE: Play in editor start time for /Game/Project/Levels/UEDPIE_0_NewGame -0.353
+[2018.09.23-07.45.37:648][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.45.37:774][160]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-07.45.37:786][160]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-07.45.38:859][160]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-07.45.38:860][160]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.45.38:863][160]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-04.45.38
+[2018.09.23-07.45.38:863][160]LogWorld: Bringing up level for play took: 0.001371
+[2018.09.23-07.45.39:061][160]LogLoad: Took 1.275365 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-07.45.39:433][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.45.50:256][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.45.50:274][681]LogNet: Browse: /Game/Project/Levels/NewGame
+[2018.09.23-07.45.50:275][681]LogLoad: LoadMap: /Game/Project/Levels/NewGame
+[2018.09.23-07.45.50:335][681]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-07.45.50:337][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001929s)
+[2018.09.23-07.45.50:338][681]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-07.45.50:338][681]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2018.09.23-07.45.50:338][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.002946s)
+[2018.09.23-07.45.50:338][681]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.45.50:339][681]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-04.45.50
+[2018.09.23-07.45.50:339][681]LogWorld: Bringing up level for play took: 0.000455
+[2018.09.23-07.45.50:340][681]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-07.45.50:522][681]Cmd: r.ScreenPercentage 100
+[2018.09.23-07.45.50:522][681]r.ScreenPercentage = "100"
+[2018.09.23-07.45.50:523][681]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.45.50:523][681]r.PostProcessAAQuality = "4"
+[2018.09.23-07.45.50:523][681]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.45.50:523][681]sg.PostProcessQuality = "2"
+[2018.09.23-07.45.50:523][681]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.45.50:523][681]r.PostProcessAAQuality = "4"
+[2018.09.23-07.45.50:524][681]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.45.50:524][681]sg.PostProcessQuality = "2"
+[2018.09.23-07.45.50:524][681]Cmd: sg.ShadowQuality 2
+[2018.09.23-07.45.50:524][681]sg.ShadowQuality = "2"
+[2018.09.23-07.45.50:524][681]Cmd: sg.TextureQuality 3
+[2018.09.23-07.45.50:524][681]sg.TextureQuality = "3"
+[2018.09.23-07.45.50:524][681]Cmd: sg.EffectsQuality 0
+[2018.09.23-07.45.50:524][681]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-07.45.50:524][681]sg.EffectsQuality = "0"
+[2018.09.23-07.45.50:525][681]Cmd: r.DetailMode 0
+[2018.09.23-07.45.50:525][681]r.DetailMode = "0"
+[2018.09.23-07.45.50:526][681]LogLoad: Took 0.251016 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
+[2018.09.23-07.45.50:597][682]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-07.45.50:707][682]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-07.45.51:657][682]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-07.45.51:658][682]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.45.51:660][682]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-04.45.51
+[2018.09.23-07.45.51:660][682]LogWorld: Bringing up level for play took: 0.001316
+[2018.09.23-07.45.51:837][682]LogLoad: Took 1.130424 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-07.45.52:246][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.46.19:994][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.46.20:012][ 10]LogNet: Browse: /Game/Project/Levels/NewGame
+[2018.09.23-07.46.20:013][ 10]LogLoad: LoadMap: /Game/Project/Levels/NewGame
+[2018.09.23-07.46.20:069][ 10]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_NewGame
+[2018.09.23-07.46.20:071][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002228s)
+[2018.09.23-07.46.20:071][ 10]LogAIModule: Creating AISystem for world NewGame
+[2018.09.23-07.46.20:072][ 10]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2018.09.23-07.46.20:072][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/NewGame.NewGame to /Game/Project/Levels/UEDPIE_0_NewGame.NewGame (0.003210s)
+[2018.09.23-07.46.20:072][ 10]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.46.20:073][ 10]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_NewGame.NewGame up for play (max tick rate 60) at 2018.09.23-04.46.20
+[2018.09.23-07.46.20:073][ 10]LogWorld: Bringing up level for play took: 0.000428
+[2018.09.23-07.46.20:073][ 10]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-07.46.20:306][ 10]Cmd: r.ScreenPercentage 100
+[2018.09.23-07.46.20:306][ 10]r.ScreenPercentage = "100"
+[2018.09.23-07.46.20:306][ 10]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.46.20:306][ 10]r.PostProcessAAQuality = "4"
+[2018.09.23-07.46.20:307][ 10]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.46.20:307][ 10]sg.PostProcessQuality = "2"
+[2018.09.23-07.46.20:307][ 10]Cmd: r.PostProcessAAQuality 4
+[2018.09.23-07.46.20:307][ 10]r.PostProcessAAQuality = "4"
+[2018.09.23-07.46.20:307][ 10]Cmd: sg.PostProcessQuality 2
+[2018.09.23-07.46.20:307][ 10]sg.PostProcessQuality = "2"
+[2018.09.23-07.46.20:307][ 10]Cmd: sg.ShadowQuality 2
+[2018.09.23-07.46.20:308][ 10]sg.ShadowQuality = "2"
+[2018.09.23-07.46.20:308][ 10]Cmd: sg.TextureQuality 3
+[2018.09.23-07.46.20:308][ 10]sg.TextureQuality = "3"
+[2018.09.23-07.46.20:308][ 10]Cmd: sg.EffectsQuality 0
+[2018.09.23-07.46.20:308][ 10]LogConsoleManager: Warning: Setting the console variable 'r.DetailMode' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+[2018.09.23-07.46.20:308][ 10]sg.EffectsQuality = "0"
+[2018.09.23-07.46.20:308][ 10]Cmd: r.DetailMode 0
+[2018.09.23-07.46.20:308][ 10]r.DetailMode = "0"
+[2018.09.23-07.46.20:309][ 10]LogLoad: Took 0.296208 seconds to LoadMap(/Game/Project/Levels/UEDPIE_0_NewGame)
+[2018.09.23-07.46.20:325][ 11]LogNet: Browse: /Game/Project/Levels/Main1
+[2018.09.23-07.46.20:431][ 11]LogLoad: LoadMap: /Game/Project/Levels/Main1
+[2018.09.23-07.46.21:316][ 11]LogAIModule: Creating AISystem for world Main1
+[2018.09.23-07.46.21:316][ 11]LogLoad: Game class is 'Main_GameMode_C'
+[2018.09.23-07.46.21:319][ 11]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_Main1.Main1 up for play (max tick rate 60) at 2018.09.23-04.46.21
+[2018.09.23-07.46.21:319][ 11]LogWorld: Bringing up level for play took: 0.001441
+[2018.09.23-07.46.21:504][ 11]LogLoad: Took 1.072556 seconds to LoadMap(/Game/Project/Levels/Main1)
+[2018.09.23-07.46.21:946][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.46.51:967][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.46.51:967][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-07.46.52:011][495]LogSlate: Window 'Endless BPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-07.46.52:051][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-07.46.52:051][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Project/Levels/NewGame.NewGame:PersistentLevel' has LevelScriptBlueprint '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame' with GeneratedClass '/Game/Project/Levels/NewGame.NewGame_C' with ClassGeneratedBy '/Game/Project/Levels/NewGame.NewGame:PersistentLevel.NewGame'
+[2018.09.23-07.46.52:127][496]LogPlayLevel: Display: Destroying online subsystem :Context_26
