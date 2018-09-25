@@ -133,5 +133,8 @@
 				"Lumin"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Android"
 	]
 }
