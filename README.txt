@@ -1,6 +1,6 @@
 ﻿# EndlessRunning
 Um prototipo de endless running.
-Current Ver: Alpha 4
+Current Ver: 1.1
 
 -- Objetivos:
 1 - aprender um pouco sobre a unreal engine 4
@@ -17,8 +17,5 @@ Current Ver: Alpha 4
 3 - Source Tree
 4 - Krita 4.1.0
 
--- Objetivos da Alpha 4:
-1 - criar quests
-2 - criar sistema de itens utilizaveis
-3 - adicionar sons
-4 - adicionar novos assets
+-- Link para download
+https://play.google.com/store/apps/details?id=com.devu.endlessbps
